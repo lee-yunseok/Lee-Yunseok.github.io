@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>음악 &#8211; 이윤석</title>
+	<atom:link href="http://localhost/category/%EC%9D%B8%EC%83%9D/%EC%9D%8C%EC%95%85/feed/" rel="self" type="application/rss+xml" />
+	<link>https://Lee-Yunseok.github.io/</link>
+	<description>독립 문화예술 창작가</description>
+	<lastBuildDate>Thu, 13 Sep 2018 10:24:31 +0000</lastBuildDate>
+	<language>ko-KR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+</channel>
+</rss>

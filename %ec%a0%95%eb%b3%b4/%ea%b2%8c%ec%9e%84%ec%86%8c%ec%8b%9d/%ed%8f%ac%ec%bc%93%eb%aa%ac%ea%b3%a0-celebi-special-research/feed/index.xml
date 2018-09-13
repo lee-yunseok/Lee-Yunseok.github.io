@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>댓글 : [포켓몬스터] 포켓몬고  환상의 포켓몬 세레비를 발견하자!</title>
+	<atom:link href="http://localhost/%EC%A0%95%EB%B3%B4/%EA%B2%8C%EC%9E%84%EC%86%8C%EC%8B%9D/%ED%8F%AC%EC%BC%93%EB%AA%AC%EA%B3%A0-celebi-special-research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://Lee-Yunseok.github.io/%ec%a0%95%eb%b3%b4/%ea%b2%8c%ec%9e%84%ec%86%8c%ec%8b%9d/%ed%8f%ac%ec%bc%93%eb%aa%ac%ea%b3%a0-celebi-special-research/</link>
+	<description>독립 문화예술 창작가</description>
+	<lastBuildDate>Thu, 13 Sep 2018 10:32:01 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+</channel>
+</rss>
