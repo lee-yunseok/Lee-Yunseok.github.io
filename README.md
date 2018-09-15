@@ -1,5 +1,5 @@
 # Lee-Yunseok.github.io
-My personal website project. Currently testing, working with Korean language. Website made with [Wordpress](https://wordpress.org), hosted on [GitHub Pages](https://pages.github.com/).
+My personal website project. **Currently testing**, working with Korean language. Website made with [Wordpress](https://wordpress.org), hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Development environment
 - 33 years old human
