@@ -281,7 +281,8 @@ var dprv_js_bridge = {"record_IP":"off","site_url":"https:\/\/Lee-Yunseok.github
 					<h2>[서버] 오토셋 (AutoSet) MySQL 서버 서비스 제어 실패 오류 해결방법</h2>
 					<div class="post_description">
 						<a class="post_author" href="https://Lee-Yunseok.github.io/author/lee-yunseok/" target="_self">Lee Yunseok</a>
-						&nbsp;&nbsp;|&nbsp;&nbsp;  <a href="https://Lee-Yunseok.github.io/category/info/software/" rel="category tag">소프트웨어</a>, <a href="https://Lee-Yunseok.github.io/category/info/" rel="category tag">정보</a>						&nbsp;&nbsp;|&nbsp;&nbsp;  <a class="post_comments" href="https://Lee-Yunseok.github.io/info/software/autoset-mysql-server-service-error/#respond" target="_self"><span class="dsq-postid" data-dsqidentifier="240 https://Lee-Yunseok.github.io/?p=240">No comment</span></a>					</div>	
+						&nbsp;&nbsp;|&nbsp;&nbsp;  <a href="https://Lee-Yunseok.github.io/category/info/software/" rel="category tag">소프트웨어</a>, <a href="https://Lee-Yunseok.github.io/category/info/" rel="category tag">정보</a>						<!--&nbsp;&nbsp;|&nbsp;&nbsp;  <a class="post_comments" href="https://Lee-Yunseok.github.io/info/software/autoset-mysql-server-service-error/#respond" target="_self"><span class="dsq-postid" data-dsqidentifier="240 https://Lee-Yunseok.github.io/?p=240">No comment</span></a>-->
+					</div>	
 					<p><em>국산 웹 개발 환경 구축 프로그램 오토셋 오류 해결</em></p>
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -357,86 +358,43 @@ var dprv_js_bridge = {"record_IP":"off","site_url":"https:\/\/Lee-Yunseok.github
 <div class="single_tags">
 	<a href="https://Lee-Yunseok.github.io/tag/mysql/" rel="tag">MySQL</a><a href="https://Lee-Yunseok.github.io/tag/server/" rel="tag">서버</a><a href="https://Lee-Yunseok.github.io/tag/apache/" rel="tag">아파치</a><a href="https://Lee-Yunseok.github.io/tag/error/" rel="tag">오류</a><a href="https://Lee-Yunseok.github.io/tag/autoset/" rel="tag">오토셋</a></div>
 				
-	<div class="author_description">
-		<div class="author_description_inner">
-			<div class="image">
-				<img alt='' src='http://1.gravatar.com/avatar/a8c75443a96599f52c668e2e8dad3bb7?s=80&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/a8c75443a96599f52c668e2e8dad3bb7?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />			</div>
-			<div class="author_text_holder">
-				<h4 class="author_name">AUTHOR - 
-				Lee Yunseok				</h4>
-									<div class="author_text">
-						<p>독립 문화예술 창작가 / 익드라실 스튜디오 대표</p>
-					</div>
-							</div>
-		</div>
-	</div>
-</article>							
-	<!-- Here we load disqus comments -->
-	<div class="dcl-disqus-thread" id="comments" >
-	<div id="disqus_thread">
-		</div>
-	</div>
-	
-		
-			<script type="text/javascript">
-	/* <![CDATA[ */
-		var disqus_url = 'https://Lee-Yunseok.github.io/info/software/autoset-mysql-server-service-error/';
-		var disqus_identifier = '240 https://Lee-Yunseok.github.io/?p=240';
-		var disqus_container_id = 'disqus_thread';
-		var disqus_domain = 'disqus.com';
-		var disqus_shortname = 'lee-yunseok';
-		var disqus_title = "[서버] 오토셋 (AutoSet) MySQL 서버 서비스 제어 실패 오류 해결방법";
-		var disqus_config = function () {
-			var config = this; // Access to the config object
-			config.language = '';
+</article>						
+<div id="disqus_thread"></div>
+<script>
+    var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.16"},"disqusIdentifier":"240 https:\/\/Lee-Yunseok.github.io\/?p=240","disqusShortname":"lee-yunseok","disqusTitle":"[\uc11c\ubc84] \uc624\ud1a0\uc14b (AutoSet) MySQL \uc11c\ubc84 \uc11c\ube44\uc2a4 \uc81c\uc5b4 \uc2e4\ud328 \uc624\ub958 \ud574\uacb0\ubc29\ubc95","disqusUrl":"https:\/\/Lee-Yunseok.github.io\/info\/software\/autoset-mysql-server-service-error\/","postId":240};
+    var disqus_url = embedVars.disqusUrl;
+var disqus_identifier = embedVars.disqusIdentifier;
+var disqus_container_id = 'disqus_thread';
+var disqus_shortname = embedVars.disqusShortname;
+var disqus_title = embedVars.disqusTitle;
+var disqus_config_custom = window.disqus_config;
+var disqus_config = function () {
+    /*
+    All currently supported events:
+    onReady: fires when everything is ready,
+    onNewComment: fires when a new comment is posted,
+    onIdentify: fires when user is authenticated
+    */
+    var dsqConfig = embedVars.disqusConfig;
+    this.page.integration = dsqConfig.integration;
+    this.page.remote_auth_s3 = dsqConfig.remote_auth_s3;
+    this.page.api_key = dsqConfig.api_key;
+    this.sso = dsqConfig.sso;
+    this.language = dsqConfig.language;
 
-			/* Add the ability to add javascript callbacks */
-			
-			/*
-			   All currently supported events:
-				* preData — fires just before we request for initial data
-				* preInit - fires after we get initial data but before we load any dependencies
-				* onInit  - fires when all dependencies are resolved but before dtpl template is rendered
-				* afterRender - fires when template is rendered but before we show it
-				* onReady - everything is done
-			 */
+    if (disqus_config_custom)
+        disqus_config_custom.call(this);
+};
 
-			config.callbacks.preData.push(function() {
-				// clear out the container (its filled for SEO/legacy purposes)
-				document.getElementById(disqus_container_id).innerHTML = '';
-			});
-						config.callbacks.onReady.push(function() {
-				// sync comments in the background so we don't block the page
-				var script = document.createElement('script');
-				script.async = true;
-				script.src = '?cf_action=sync_comments&post_id=240';
-
-				var firstScript = document.getElementsByTagName( "script" )[0];
-				firstScript.parentNode.insertBefore(script, firstScript);
-			});
-						this.page.remote_auth_s3 = 'W10= b2cdc1e965d9fc9422e4d31c98b83f692dfdadda 1536971397';
-this.page.api_key = 'S81dwMbuTzkh5yplvfWTqky2IzuCkzGB1cFyK3brwcWpsHAUArHOxMDeA4BnuHRv';
-this.sso = {     
-          name: "이윤석",       
-          button: "",       
-          url: "https://Lee-Yunseok.github.io/wp-login.php",        
-          logout: "https://Lee-Yunseok.github.io/wp-login.php?action=logout",       
-          width: "800",        
-          height: "700"        
-    };		};
-	/* ]]> */
-	</script>
-	
-		
-	<script type="text/javascript">
-	/* <![CDATA[ */
-		var DsqLocal = {
-			'trackbacks': [
-				],
-			'trackback_url': "https:\/\/Lee-Yunseok.github.io\/info\/software\/autoset-mysql-server-service-error\/trackback\/"		};
-	/* ]]> */
-	</script>
-			 
+(function() {
+    var dsq = document.createElement('script');
+    dsq.type = 'text/javascript';
+    dsq.async = true;
+    dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+ 
 						
 										</div>
 				</div>
@@ -589,6 +547,12 @@ this.sso = {
 <link rel='stylesheet' id='github-profile-widget-styles-css'  href='https://Lee-Yunseok.github.io/wp-content/plugins/github-profile-widget/css/widget.css?ver=4.9.8' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
+var countVars = {"disqusShortname":"lee-yunseok"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
 var qodeLike = {"ajaxurl":"https:\/\/Lee-Yunseok.github.io\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
@@ -602,53 +566,5 @@ var qodeLike = {"ajaxurl":"https:\/\/Lee-Yunseok.github.io\/wp-admin\/admin-ajax
 <script type='text/javascript' src='http://www.google.com/recaptcha/api/js/recaptcha_ajax.js?ver=4.9.8'></script>
 <script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-content/plugins/sirv/sirv/js/wp-sirv-diff.js?ver=1.0.0'></script>
 <script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
-<script  type="text/javascript">
-
-    var disqus_shortname = "lee-yunseok";
-    if (typeof ds_loaded == "undefined") {
-        var ds_loaded = false;
-    }
-    function loadDisqus() {
-        var disqus_div = document.getElementById("disqus_thread");
-        var top = disqus_div.offsetTop;
-        var disqus_data = disqus_div.dataset;
-        if ( !ds_loaded && ( window.scrollY || window.pageYOffset ) + window.innerHeight > top ) {
-            ds_loaded = true;
-            for (var key in disqus_data) {
-                if (key.substr(0,6) == "disqus") {
-                    window["disqus_" + key.replace("disqus","").toLowerCase()] = disqus_data[key];
-								}
-                }
-                var dsq = document.createElement("script");
-                dsq.type = "text/javascript";
-                dsq.async = true;
-                dsq.src = "http://" + window.disqus_shortname + ".disqus.com/embed.js";
-                if(document.getElementById("dcl-hidden-div")) {
-                    document.getElementById("dcl-hidden-div").innerHTML = "Loading...";
-                }
-                (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(dsq);
-            }
-        }
-					var disqus_div_new = document.getElementById("disqus_thread");
-		var divExists = disqus_div_new != null;
-                if(document.body.scrollHeight < window.innerHeight){
-                    loadDisqus();
-                } else if(divExists) {
-                    window.onscroll = function() { loadDisqus(); }
-                }
-	</script><script   type='text/javascript'>
-                /* <![CDATA[ */
-                var hash = window.location.hash;
-                var disqus_shortname = 'lee-yunseok';
-                if(hash!==''){
-                    var ds_loaded = true;
-                    var dcl_loaded = 1;
-                    (function() {
-                        var dsq = document.createElement('script'); dsq.type = 'text/javascript';
-                        dsq.async = true;
-                        dsq.src = '//' + disqus_shortname + '.' + 'disqus.com' + '/' + 'embed' + '.js' + '?pname=wordpress&pver=2.84';
-                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-                    })();}
-                /* ]]> */
-            </script></body>
+</body>
 </html>	
