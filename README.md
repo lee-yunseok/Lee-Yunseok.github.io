@@ -27,6 +27,7 @@ My personal website project. **Currently testing**, working with Korean language
   - [Disqus for WordPress](https://wordpress.org/plugins/disqus-comment-system/)
   - [WP Extra File Types](https://wordpress.org/plugins/wp-extra-file-types/)
   - [Ad Inserter](https://wordpress.org/plugins/ad-inserter/)
+  - [Simply Static](https://wordpress.org/plugins/simply-static/)
 
 ### License
 The codes of my website is covered by the terms of the [GNU General Public License v2.0](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE). All literary works/trademarks are property of their respective owners.
