@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>댓글 : [서버] 오토셋 (AutoSet) MySQL 서버 서비스 제어 실패 오류 해결방법</title>
+	<atom:link href="http://localhost/info/software/autoset-mysql-server-service-error/feed/" rel="self" type="application/rss+xml" />
+	<link>https://Lee-Yunseok.github.io/info/software/autoset-mysql-server-service-error/</link>
+	<description>독립 문화예술 창작가</description>
+	<lastBuildDate>Sat, 15 Sep 2018 00:33:55 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+</channel>
+</rss>
