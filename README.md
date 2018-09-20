@@ -19,6 +19,8 @@ My personal website project. **Currently testing**, working with Korean language
 - [Wordpress](https://wordpress.org)
   - [Elision](https://themeforest.net/item/elision-retina-multipurpose-wordpress-theme/6382990)
   - [Gutenberg](https://wordpress.org/plugins/gutenberg/)
+  - [WPBakery Page Builder](https://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)
+  - [LayerSlider](https://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin/1362246)
   - [Sirv](https://wordpress.org/plugins/sirv/)
   - [Polylang](https://wordpress.org/plugins/polylang/)
   - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
