@@ -12,12 +12,54 @@
 	<atom:link href="http://localhost/category/info/feed/" rel="self" type="application/rss+xml" />
 	<link>https://Lee-Yunseok.github.io/</link>
 	<description>독립 문화예술 창작가</description>
-	<lastBuildDate>Sat, 22 Sep 2018 16:17:12 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Sep 2018 05:23:36 +0000</lastBuildDate>
 	<language>ko-KR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
+		<title>[언리얼 엔진] 포트나이트 트레일러 파이프라인 백서 공개</title>
+		<link>https://Lee-Yunseok.github.io/info/software/fortnite-unreal-engine-trailer-pipeline/</link>
+		<comments>https://Lee-Yunseok.github.io/info/software/fortnite-unreal-engine-trailer-pipeline/#respond</comments>
+		<pubDate>Sun, 23 Sep 2018 05:02:23 +0000</pubDate>
+		<dc:creator><![CDATA[Lee Yunseok]]></dc:creator>
+				<category><![CDATA[소프트웨어]]></category>
+		<category><![CDATA[정보]]></category>
+		<category><![CDATA[개발]]></category>
+		<category><![CDATA[게임]]></category>
+		<category><![CDATA[언리얼엔진]]></category>
+		<category><![CDATA[트레일러]]></category>
+
+		<guid isPermaLink="false">https://Lee-Yunseok.github.io/?p=439</guid>
+		<description><![CDATA[포트나이트 트레일러: 더 빠른 워크플로를 위한 실시간 파이프라인 개발 Fortnite &#8211; Launch Cinematic Trailer     지난 8월 20일 에픽게임즈가 백서를 공개했다.     포트나이트는 세계적 재난 규모의 폭풍에 맞서 생존자를 구출하는 비디오 게임으로, 지난 달 공개된 백서는 에픽이 2016년 말 게임 출시를 준비하며 제작한...]]></description>
+				<content:encoded><![CDATA[<p><em>포트나이트 트레일러: 더 빠른 워크플로를 위한 실시간 파이프라인 개발</em></p>
+
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<iframe width="1060" height="596" src="https://www.youtube.com/embed/NcQnHvvnehY?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div><figcaption>Fortnite &#8211; Launch Cinematic Trailer</figcaption></figure>
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<p>    지난 8월 20일 에픽게임즈가 <span class='highlight'>포트나이트 트레일러: 실시간 파이프라인 개발</span> 백서를 공개했다.</p>
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<p>    포트나이트는 세계적 재난 규모의 폭풍에 맞서 생존자를 구출하는 비디오 게임으로, 지난 달 공개된 백서는 에픽이 2016년 말 게임 출시를 준비하며 제작한 시네마틱 트레일러 제작 프로세스 개요와 파이프라인을 설명하는 PDF 형식의 문서다. 이 백서는 현재 <a href="https://epicgames.app.box.com/s/fzldsl6217yzixxh7w43f7ibbuit06f3" target="_blank" rel="noreferrer noopener">에픽게임즈의 Box</a>를 통해 공유되고 있으니 관심 있다면 확인해보길 바란다.</p>
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<figure class="wp-block-image"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/fortnite_unreal_engine_trailer.webp" alt="포트나이트 언리얼 트레일러 파이프라인" class="wp-image-438"/><figcaption>Fortnite Unreal Engine Trailer</figcaption></figure>
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+<blockquote class="wp-block-quote is-style-large"><p>    이 백서는 언리얼 엔진을 사용하여 트레일러를 만들어낸 프로세스에 대한 개요와 함께 제작 시간은 최소화하면서 협업 능력과 창의력은 극대화하도록 설계된 파이프라인에 대해 설명합니다. 지금 바로 백서를 <a href="https://epicgames.app.box.com/s/fzldsl6217yzixxh7w43f7ibbuit06f3" target="_blank">다운로드</a> 받으세요!</p><cite>&#8211;<a href="https://www.unrealengine.com/ko/blog" target="_blank">Epic Games Korea</a></cite></blockquote>
+]]></content:encoded>
+			<wfw:commentRss>https://Lee-Yunseok.github.io/info/software/fortnite-unreal-engine-trailer-pipeline/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>[WoW] 격전의 아제로스, 월드 오브 워크래프트 일곱 번째 확장팩</title>
 		<link>https://Lee-Yunseok.github.io/info/game-news/battle-for-azeroth-world-of-warcraft-wow/</link>
 		<comments>https://Lee-Yunseok.github.io/info/game-news/battle-for-azeroth-world-of-warcraft-wow/#respond</comments>
