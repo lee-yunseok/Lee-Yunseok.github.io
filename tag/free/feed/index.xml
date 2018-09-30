@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/tag/free/feed/" rel="self" type="application/rss+xml" />
 	<link>https://Lee-Yunseok.github.io/</link>
 	<description>독립 문화예술 창작가</description>
-	<lastBuildDate>Mon, 24 Sep 2018 05:23:36 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Sep 2018 12:30:41 +0000</lastBuildDate>
 	<language>ko-KR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -40,7 +40,7 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://Lee-Yunseok.github.io/humble_store_summer_sale_2018/"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018.webp" alt="험블 번들 스토어 여름 할인 2018" class="wp-image-108"/></a><figcaption><em>험블 번들 스토어 여름 할인 2018</em><a href="https://www.humblebundle.com/store" target="_blank" rel="noopener"><em>(Humble Store Summer Sale 2018)</em></a></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018.webp" alt="험블 번들 스토어 여름 할인 2018" class="wp-image-108"/><figcaption><em>험블 번들 스토어 여름 할인 2018</em><a href="https://www.humblebundle.com/store" target="_blank" rel="noopener"><em>(Humble Store Summer Sale 2018)</em></a></figcaption></figure></div>
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -52,9 +52,9 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube">
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
 <iframe width="1060" height="596" src="https://www.youtube.com/embed/sdVD6d1rGsM?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption><em>Warhammer® 40,000<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Space Marine<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; E3 2010 Trailer</em> </figcaption></figure>
+</div><figcaption><em>Warhammer® 40,000<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Space Marine<img src="https://s.w.org/images/core/emoji/11/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; E3 2010 Trailer</em> </figcaption></figure>
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -78,9 +78,9 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube">
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
 <iframe width="1060" height="596" src="https://www.youtube.com/embed/qy8jmm9kY4A?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption><em>The Witcher 3: Wild Hunt &#8211; Game of the Year Edition Launch Trailer</em> </figcaption></figure>
+</div><figcaption><em>The Witcher 3: Wild Hunt &#8211; Game of the Year Edition Launch Trailer</em> </figcaption></figure>
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -96,9 +96,9 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube">
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
 <iframe width="1060" height="596" src="https://www.youtube.com/embed/zQPnYpphT84?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption><em>Humble Bundle Presents: Sid Meier’s Civilization® VI</em> </figcaption></figure>
+</div><figcaption><em>Humble Bundle Presents: Sid Meier’s Civilization® VI</em> </figcaption></figure>
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -114,9 +114,9 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube">
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
 <iframe width="1060" height="596" src="https://www.youtube.com/embed/21QFxXTIvDw?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<figcaption><em>Far Cry 5: PC Trailer | Ubisoft [NA]</em> </figcaption></figure>
+</div><figcaption><em>Far Cry 5: PC Trailer | Ubisoft [NA]</em> </figcaption></figure>
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -132,7 +132,7 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://Lee-Yunseok.github.io/humble_store_summer_sale_2018_sales/"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018_sales.webp" alt="Humble Store Summer Sale 2018" class="wp-image-287"/></a><figcaption><em>Humble Store Summer Sale 2018</em></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018_sales.webp" alt="Humble Store Summer Sale 2018" class="wp-image-287"/><figcaption><em>Humble Store Summer Sale 2018</em></figcaption></figure></div>
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -140,7 +140,7 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<div class="wp-block-image"><figure class="aligncenter"><a href="https://Lee-Yunseok.github.io/humble_store_summer_sale_2018_pre_orders/"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018_pre_orders.webp" alt="Humble Store Summer Sale 2018 Pre-Orders" class="wp-image-286"/></a><figcaption><em>Humble Store Summer Sale 2018 Pre-Orders</em></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018_pre_orders.webp" alt="Humble Store Summer Sale 2018 Pre-Orders" class="wp-image-286"/><figcaption><em>Humble Store Summer Sale 2018 Pre-Orders</em></figcaption></figure></div>
 
 <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 
@@ -148,7 +148,7 @@
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 
-<figure class="wp-block-image"><a href="https://Lee-Yunseok.github.io/humble_store_summer_sale_2018_rewards/"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018_rewards.webp" alt="Humble Store Summer Sale 2018 Rewards" class="wp-image-279"/></a><figcaption><a href="https://www.humblebundle.com/mission/summer-sale-rewards" target="_blank"><em>Humble Store Summer Sale 2018 Rewards</em></a></figcaption></figure>
+<figure class="wp-block-image"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018_rewards.webp" alt="Humble Store Summer Sale 2018 Rewards" class="wp-image-279"/><figcaption><a href="https://www.humblebundle.com/mission/summer-sale-rewards" target="_blank"><em>Humble Store Summer Sale 2018 Rewards</em></a></figcaption></figure>
 
 <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
 

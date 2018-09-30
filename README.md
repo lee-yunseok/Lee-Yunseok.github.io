@@ -28,6 +28,7 @@ My personal website project. **Currently testing**, working with Korean language
   - [GitHub Profile Widget](https://wordpress.org/plugins/github-profile-widget/)
   - [Disqus Comment System](https://wordpress.org/plugins/disqus-comment-system/)
   - [WP Extra File Types](https://wordpress.org/plugins/wp-extra-file-types/)
+  - [GA Google Analytics](https://wordpress.org/plugins/ga-google-analytics/)
   - [Ad Inserter](https://wordpress.org/plugins/ad-inserter/)
   - [Simply Static](https://wordpress.org/plugins/simply-static/)
   - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/)
