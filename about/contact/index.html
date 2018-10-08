@@ -39,7 +39,6 @@
 <meta name="twitter:creator" content="@LYunseok" />
 <!-- / Yoast SEO plugin. -->
 
-<link rel='dns-prefetch' href='//www.google.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="이윤석 &raquo; 피드" href="https://Lee-Yunseok.github.io/feed/" />
 <link rel="alternate" type="application/rss+xml" title="이윤석 &raquo; 댓글 피드" href="https://Lee-Yunseok.github.io/comments/feed/" />
@@ -265,11 +264,11 @@ var dprv_js_bridge = {"record_IP":"off","site_url":"https:\/\/Lee-Yunseok.github
 								<div class="contact_info">
 									<div class='code-block code-block-3' style='margin: 8px 0; clear: both;'>
 <ins class="adsbygoogle"
-     style="display: block;"
-     data-ad-client="ca-pub-8311150416380363"
-     data-ad-slot="2596462427"
+     style="display:block"
+     data-ad-format="fluid"
      data-ad-layout-key="-58+cz+30-f7+bf"
-     data-ad-format="fluid"></ins></div>
+     data-ad-client="ca-pub-8311150416380363"
+     data-ad-slot="2596462427"></ins></div>
 								</div>	
 							</div>
 						</div>
@@ -305,18 +304,6 @@ var dprv_js_bridge = {"record_IP":"off","site_url":"https:\/\/Lee-Yunseok.github
 												
 										<textarea name="message" id="message" rows="10" placeholder="Message"></textarea>
 										
-																						<script type="text/javascript">
-													var RecaptchaOptions = {theme: 'clean'};
-													Recaptcha.create("6Ld5VOASAAAAABUGCt9ZaNuw3IF-BjUFLujP6C8L","captchaHolder",{theme: "clean",callback: Recaptcha.focus_response_field});
-												</script>
-																						<p id="captchaHolder"><script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6Ld5VOASAAAAABUGCt9ZaNuw3IF-BjUFLujP6C8L"></script>
-
-	<noscript>
-  		<iframe src="http://api.recaptcha.net/noscript?k=6Ld5VOASAAAAABUGCt9ZaNuw3IF-BjUFLujP6C8L" height="300" width="500" frameborder="0"></iframe><br/>
-  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-	</noscript></p>
-											<p id="captchaStatus">&nbsp;</p>
 																				
 										<span class="submit_button_contact">
 											<input class="qbutton" type="submit" value="CONTACT US" />
@@ -383,8 +370,7 @@ jQuery(document).ready(function($){
 				hasError = false;
 				return false; 
 			} else {
-									$j("#recaptcha_response_field").parent().append('<span class="contact-error extra-padding">Invalid Captcha</span>');
-					Recaptcha.reload();
+									$j("form#contact-form").before('<div class="contact-success"><strong>Email server problem</strong></p></div>');
 								return false;
 			}
         }
@@ -574,7 +560,6 @@ var qodeLike = {"ajaxurl":"https:\/\/Lee-Yunseok.github.io\/wp-admin\/admin-ajax
 <script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-content/themes/elision/js/custom_js.php?ver=4.9.8'></script>
 <script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-includes/js/comment-reply.min.js?ver=4.9.8'></script>
 <script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.2'></script>
-<script type='text/javascript' src='http://www.google.com/recaptcha/api/js/recaptcha_ajax.js?ver=4.9.8'></script>
 <script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-content/plugins/sirv/sirv/js/wp-sirv-diff.js?ver=1.0.0'></script>
 <script type='text/javascript' src='https://Lee-Yunseok.github.io/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
 </body>
