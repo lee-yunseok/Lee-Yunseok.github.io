@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lee-yunseok.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="2018년 October 8일 12:56 pm" -->
+<!-- generated-on="2018년 October 8일 2:26 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://lee-yunseok.github.io/info/game-news/humble-bundle-store-summer-sale-2018/</loc>
 		<lastmod>2018-09-30T08:25:05+00:00</lastmod>
@@ -49,9 +49,9 @@
 		<priority>0.2</priority>
 	</url>
 	<url>
-		<loc>https://lee-yunseok.github.io/life/diary/%ec%9d%bc%ea%b8%b0-2018-08-03/</loc>
-		<lastmod>2018-09-13T10:02:16+00:00</lastmod>
+		<loc>https://lee-yunseok.github.io/life/diary/diary-2018-08-03/</loc>
+		<lastmod>2018-10-08T14:15:34+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
-</urlset><!-- Request ID: 06afcce2e3cab29acd819ab5a54644a4; Queries for sitemap: 34; Total queries: 61; Seconds: 1.9; Memory for sitemap: 0MB; Total memory: 2MB -->
+</urlset><!-- Request ID: 77d8beb76687d4eb773206415d6235a5; Queries for sitemap: 34; Total queries: 61; Seconds: 0.44; Memory for sitemap: 2MB; Total memory: 26MB -->
