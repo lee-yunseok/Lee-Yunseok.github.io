@@ -1,5 +1,5 @@
 # Lee-Yunseok.github.io
-    My personal website project. **Currently under construction**, working with Korean language. Website made with [WordPress](https://wordpress.org), hosted on [GitHub Pages](https://pages.github.com/).
+My personal website project. **Currently under construction**, working with Korean language. Website made with [WordPress](https://wordpress.org), hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Development environment
 - 33 years old human
@@ -35,4 +35,4 @@
   - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/)
 
 ### License
-    The codes of my website is covered by the terms of the [GNU General Public License v2.0](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE). All literary works/trademarks are property of their respective owners.
+The codes of my website is covered by the terms of the [GNU General Public License v2.0](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE). All literary works/trademarks are property of their respective owners.
