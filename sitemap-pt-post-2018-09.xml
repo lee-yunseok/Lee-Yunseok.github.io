@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lee-yunseok.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
+<!-- generated-on="2018년 October 8일 12:55 pm" -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://lee-yunseok.github.io/info/open-source/github-universe-workshop-2018/</loc>
+		<lastmod>2018-09-30T09:52:38+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://lee-yunseok.github.io/info/open-source/creative-commons-cc-global-summit-2019/</loc>
+		<lastmod>2018-09-30T13:29:06+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://lee-yunseok.github.io/info/software/fortnite-unreal-engine-trailer-pipeline/</loc>
+		<lastmod>2018-09-23T05:06:09+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://lee-yunseok.github.io/info/game-news/battle-for-azeroth-world-of-warcraft-wow/</loc>
+		<lastmod>2018-09-30T08:16:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://lee-yunseok.github.io/life/diary/diary-2018-09-09-1/</loc>
+		<lastmod>2018-09-14T23:52:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://lee-yunseok.github.io/life/diary/diary-2018-09-09/</loc>
+		<lastmod>2018-09-13T10:07:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>https://lee-yunseok.github.io/info/open-source/wordpress-gutenberg-yoast-seo/</loc>
+		<lastmod>2018-09-30T08:19:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+</urlset><!-- Request ID: 5902478399437df1463d132e90f8dbec; Queries for sitemap: 5; Total queries: 32; Seconds: 0.15; Memory for sitemap: 2MB; Total memory: 30MB -->

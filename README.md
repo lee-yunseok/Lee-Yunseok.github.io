@@ -1,5 +1,5 @@
 # Lee-Yunseok.github.io
-My personal website project. **Currently testing**, working with Korean language. Website made with [Wordpress](https://wordpress.org), hosted on [GitHub Pages](https://pages.github.com/).
+    My personal website project. **Currently under construction**, working with Korean language. Website made with [WordPress](https://wordpress.org), hosted on [GitHub Pages](https://pages.github.com/).
 
 ## Development environment
 - 33 years old human
@@ -16,7 +16,7 @@ My personal website project. **Currently testing**, working with Korean language
 - [Natron](https://natrongithub.github.io/)
 - [Advanced Renamer](https://www.advancedrenamer.com/)
 - [GPG4Win](https://www.gpg4win.org/)
-- [Wordpress](https://wordpress.org)
+- [WordPress](https://wordpress.org)
   - [Elision](https://themeforest.net/item/elision-retina-multipurpose-wordpress-theme/6382990)
   - [Gutenberg](https://wordpress.org/plugins/gutenberg/)
   - [WPBakery Page Builder](https://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)
@@ -24,6 +24,7 @@ My personal website project. **Currently testing**, working with Korean language
   - [Sirv](https://wordpress.org/plugins/sirv/)
   - [Polylang](https://wordpress.org/plugins/polylang/)
   - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+  - [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/)
   - [Copyright Proof](https://wordpress.org/plugins/digiproveblog/)
   - [GitHub Profile Widget](https://wordpress.org/plugins/github-profile-widget/)
   - [Disqus Comment System](https://wordpress.org/plugins/disqus-comment-system/)
@@ -34,4 +35,4 @@ My personal website project. **Currently testing**, working with Korean language
   - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/)
 
 ### License
-The codes of my website is covered by the terms of the [GNU General Public License v2.0](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE). All literary works/trademarks are property of their respective owners.
+    The codes of my website is covered by the terms of the [GNU General Public License v2.0](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE). All literary works/trademarks are property of their respective owners.
