@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lee-yunseok.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="2018년 October 8일 1:16 pm" -->
+<!-- generated-on="2018년 October 8일 5:28 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://lee-yunseok.github.io/portfolio_page/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype/</loc>
-		<lastmod>2018-09-30T11:46:45+00:00</lastmod>
+		<lastmod>2018-10-08T17:02:04+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 5e51cf5ed029321be7c228acfe1254a5; Queries for sitemap: 6; Total queries: 33; Seconds: 0.08; Memory for sitemap: 2MB; Total memory: 34MB -->
+</urlset><!-- Request ID: a7bddeb166adfc43d8f3c02adaf98d04; Queries for sitemap: 6; Total queries: 33; Seconds: 0.21; Memory for sitemap: 0MB; Total memory: 2MB -->

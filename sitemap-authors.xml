@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lee-yunseok.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="2018년 October 8일 12:56 pm" -->
+<!-- generated-on="2018년 October 8일 5:28 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://lee-yunseok.github.io/author/lee-yunseok/</loc>
-		<lastmod>2018-09-30T13:29:06+00:00</lastmod>
+		<lastmod>2018-10-08T17:21:05+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.3</priority>
 	</url>
-</urlset><!-- Request ID: db85f75143f0af67cdf5da589f116d23; Queries for sitemap: 2; Total queries: 29; Seconds: 0.04; Memory for sitemap: 2MB; Total memory: 16MB -->
+</urlset><!-- Request ID: 82e957d57819d92b4851f7102eed6445; Queries for sitemap: 2; Total queries: 29; Seconds: 0.04; Memory for sitemap: 0MB; Total memory: 2MB -->

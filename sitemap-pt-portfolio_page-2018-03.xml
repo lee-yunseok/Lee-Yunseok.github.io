@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lee-yunseok.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="2018년 October 8일 1:16 pm" -->
+<!-- generated-on="2018년 October 8일 5:28 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://lee-yunseok.github.io/portfolio_page/debreate-debian-package-builder/</loc>
-		<lastmod>2018-09-30T12:30:41+00:00</lastmod>
+		<lastmod>2018-10-08T17:02:57+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>https://lee-yunseok.github.io/portfolio_page/discouraged-workers-tarot-pnp-pack/</loc>
-		<lastmod>2018-09-30T11:46:01+00:00</lastmod>
+		<lastmod>2018-10-08T17:02:41+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 29b5a57ad9b93398586b70c4d3d473ce; Queries for sitemap: 7; Total queries: 34; Seconds: 0.29; Memory for sitemap: 2MB; Total memory: 4MB -->
+</urlset><!-- Request ID: a0ab6290e3591b2455f7b3e3e2b88fc5; Queries for sitemap: 7; Total queries: 34; Seconds: 0.18; Memory for sitemap: 2MB; Total memory: 8MB -->
