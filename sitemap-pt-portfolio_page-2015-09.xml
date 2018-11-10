@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lee-yunseok.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="2018년 November 7일 12:13 pm" -->
+<!-- generated-on="2018년 November 10일 12:08 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>https://lee-yunseok.github.io/portfolio_page/discouraged-workers-extras-dlc/</loc>
+		<lastmod>2018-11-10T10:38:57+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
 		<loc>https://lee-yunseok.github.io/portfolio_page/discouraged-workers-original-sound-track-dlc/</loc>
 		<lastmod>2018-11-07T12:10:50+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 525d9b2942b421affd4aee787c5fc101; Queries for sitemap: 6; Total queries: 35; Seconds: 0.07; Memory for sitemap: 0MB; Total memory: 22MB -->
+</urlset><!-- Request ID: 16d0d143b087b1086b05e14ac28fea14; Queries for sitemap: 7; Total queries: 36; Seconds: 0.03; Memory for sitemap: 0MB; Total memory: 14MB -->

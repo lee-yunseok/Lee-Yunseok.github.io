@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://lee-yunseok.github.io/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="4.0.9" -->
-<!-- generated-on="2018년 October 8일 5:28 pm" -->
+<!-- generated-on="2018년 November 10일 12:09 pm" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
 		<loc>https://lee-yunseok.github.io/portfolio_page/discouraged-workers/</loc>
 		<lastmod>2018-10-08T16:54:43+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 4d4483d3a57ef760d6b81056653fb75a; Queries for sitemap: 6; Total queries: 33; Seconds: 0.07; Memory for sitemap: 0MB; Total memory: 2MB -->
+	<url>
+		<loc>https://lee-yunseok.github.io/portfolio_page/discouraged-workers-back-to-the-basic-dlc/</loc>
+		<lastmod>2018-11-10T10:19:59+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.6</priority>
+	</url>
+</urlset><!-- Request ID: 477a7e788cce0225e7f691114c86f5b1; Queries for sitemap: 7; Total queries: 36; Seconds: 0.16; Memory for sitemap: 0MB; Total memory: 22MB -->
