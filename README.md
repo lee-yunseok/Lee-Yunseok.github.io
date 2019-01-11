@@ -24,11 +24,14 @@ My personal website project made with [Jekyll](https://jekyllrb.com/), proudly h
   - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
 - [Font Awesome](https://fontawesome.com)
 - [jQuery lightSlider](https://github.com/sachinchoolur/lightslider)
+- [Shields.io](https://shields.io/)
 - [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top)
 - [Sirv](https://sirv.com/)
 - [Disqus](https://disqus.com/)
+- [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Google AdSense](https://www.google.com/adsense/start/)
-- [Shields.io](https://shields.io/)
+- [Google Webmasters](https://www.google.com/webmasters/)
+- [Naver Webmaster Tools](https://webmastertool.naver.com/)
   
 ## Usage for build your blog
 Coming soon
