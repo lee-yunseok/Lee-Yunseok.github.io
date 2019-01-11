@@ -29,6 +29,7 @@ _My personal website project made with [Jekyll](https://jekyllrb.com/), proudly 
 - [jQuery lightSlider](https://github.com/sachinchoolur/lightslider)
 - [Shields.io](https://shields.io/)
 - [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top)
+- [GitHub Pages](https://pages.github.com/)
 - [Sirv](https://sirv.com/)
 - [Disqus](https://disqus.com/)
 - [Google Analytics](https://analytics.google.com/analytics/web/)
