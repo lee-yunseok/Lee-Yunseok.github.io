@@ -6,8 +6,9 @@ My personal website project made with [Jekyll](https://jekyllrb.com/), proudly h
 - 34 years old human
 - 6 years old laptop
 - [Windows 10](https://www.microsoft.com/windows/get-windows-10)
+  - [File Explorer](https://en.wikipedia.org/wiki/File_Explorer)
+  - [Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe)
 - [Google Chrome Web Browser](https://www.google.com/chrome/)
-- [Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
 - [GIMP 2](https://www.gimp.org/)
