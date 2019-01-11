@@ -1,30 +1,549 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:30 %}
+    <title>이윤석 - 독립 문화예술 창작가</title>
+    <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 12 Jan 2019 01:05:22 +0900</pubDate>
+    <lastBuildDate>Sat, 12 Jan 2019 01:05:22 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape | strip_html | truncatewords:100 }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>깃허브 유니버스 워크숍 2018</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/github-universe-modal-2.webp&quot; alt=&quot;GitHub Universe Workshop&quot; /&gt;&lt;/p&gt; &lt;p&gt;소프트웨어의 미래를 정의하는 설계자, 계획자 및 지도자를 위한 컨퍼런스인 깃허브 유니버스 워크숍 2018이 미국 샌프란시스코 예술의 궁전(Palace of Fine Arts)에서 열린다. 현지시각 2018년 10월 16일과 17일 단 이틀간 진행되는 이번 워크숍 컨퍼런스는 기술을 발전시키는 사람들과 프로젝트를 축하하는 회담과 세션으로 구성될 예정이다.&lt;/p&gt; &lt;p&gt;아래는 컨퍼런스의 주요 항목인 프로그램과 연설, 경험에 대한 소개를 주인장이 간단히 번역한 것이다.&lt;/p&gt; &lt;h3 id=&quot;프로그램을-통해-발견하다&quot;&gt;프로그램을 통해 발견하다&lt;/h3&gt; &lt;p&gt;어떻게 팀이 이틀의 협상과 이벤트를 통해 영감을 얻은 프로젝트를 시작하는지 그 방법을 &lt;a href=&quot;https://githubuniverse.com/program/&quot;&gt;확인&lt;/a&gt;하십시오.&lt;/p&gt; &lt;h3 id=&quot;연설자로부터-배우다&quot;&gt;연설자로부터 배우다&lt;/h3&gt; &lt;p&gt;업계의 리더들과 미래의 소프트웨어를 형성하는 도구와 기술에 대한 아이디어를 &lt;a href=&quot;https://githubuniverse.com/speakers/&quot;&gt;교환&lt;/a&gt;하십시오.&lt;/p&gt; &lt;h3 id=&quot;경험을-연결하다&quot;&gt;경험을 연결하다&lt;/h3&gt; &lt;p&gt;샌프란시스코 예술의 궁전(Palace of Fine...</description>
+        <pubDate>Mon, 01 Oct 2018 03:40:26 +0900</pubDate>
+        <link>http://localhost:4000/github-universe-workshop-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/github-universe-workshop-2018/</guid>
+        
+        <category>개발</category>
+        
+        <category>비즈니스</category>
+        
+        <category>워크숍</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Open Source</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>크리에이티브 커먼즈 글로벌 써밋 2019</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/lisbon_summit.webp&quot; alt=&quot;크리에이티브 커먼즈 CC 글로벌 써밋 2019 홍보 이미지&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;두구두구두구, 여러분…, 캐나다 토론토에서 2년 연속 성공한 글로벌 써밋이 2019년에는 5월 9-11일, 포르투갈의 리스본에서 개최될 예정입니다. 날짜를 기억하십시오!&lt;br /&gt;&lt;a href=&quot;https://creativecommons.org/author/alisoncreativecommons-org/&quot;&gt;-앨리슨 피어스, CC 이벤트 코디네이터&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;지난 8월 28일 크리에이티브 커먼즈에서 CC 글로벌 써밋 2019 개최 예정지를 리스본으로 발표했다. CC 이벤트 코디네이터인 앨리슨 피어스는 단체 블로그를 통해 이같은 소식을 알렸으며 간단한 회담 설명과 작년도 기조 연설 영상을 함께 게재했다. 아래에 그 내용을 옮겨 적었으므로 관심 있다면 살펴보길 권한다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;2015년 이래 CC 정상 회의 규모는 거의 두 배가 되었습니다. 우리는 이 국제 행사를 주최할 두 개의 훌륭한 장소를 마련했습니다....</description>
+        <pubDate>Mon, 01 Oct 2018 03:01:26 +0900</pubDate>
+        <link>http://localhost:4000/creative-commons-cc-global-summit-2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/creative-commons-cc-global-summit-2019/</guid>
+        
+        <category>CC</category>
+        
+        <category>비즈니스</category>
+        
+        <category>회담</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Open Source</category>
+        
+      </item>
+    
+      <item>
+        <title>[언리얼 엔진] 포트나이트 트레일러 파이프라인 백서 공개</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NcQnHvvnehY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;지난 8월 20일 에픽게임즈가 &lt;strong&gt;포트나이트 트레일러: 실시간 파이프라인 개발&lt;/strong&gt; 백서를 공개했다.&lt;/p&gt; &lt;p&gt;포트나이트는 세계적 재난 규모의 폭풍에 맞서 생존자를 구출하는 비디오 게임으로, 지난 달 공개된 백서는 에픽이 2016년 말 게임 출시를 준비하며 제작한 시네마틱 트레일러 제작 프로세스 개요와 파이프라인을 설명하는 PDF 형식의 문서다. 이 백서는 현재 &lt;a href=&quot;https://epicgames.app.box.com/s/fzldsl6217yzixxh7w43f7ibbuit06f3&quot;&gt;에픽게임즈의 Box&lt;/a&gt;를 통해 공유되고 있으니 관심 있다면 확인해보길 바란다.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/fortnite_unreal_engine_trailer.webp&quot; alt=&quot;Fortnite Unreal Engine Trailer&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;이 백서는 언리얼 엔진을 사용하여 트레일러를 만들어낸 프로세스에 대한 개요와 함께 제작 시간은 최소화하면서 협업 능력과 창의력은 극대화하도록 설계된 파이프라인에 대해 설명합니다. 지금 바로 백서를 &lt;a...</description>
+        <pubDate>Sun, 23 Sep 2018 23:02:26 +0900</pubDate>
+        <link>http://localhost:4000/fortnite-unreal-engine-trailer-pipeline/</link>
+        <guid isPermaLink="true">http://localhost:4000/fortnite-unreal-engine-trailer-pipeline/</guid>
+        
+        <category>개발</category>
+        
+        <category>게임</category>
+        
+        <category>언리얼엔진</category>
+        
+        <category>트레일러</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Software</category>
+        
+      </item>
+    
+      <item>
+        <title>[WoW] 격전의 아제로스, 월드 오브 워크래프트 일곱 번째 확장팩</title>
+        <description>&lt;h3 id=&quot;격전의-아제로스&quot;&gt;격전의 아제로스&lt;/h3&gt; &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/YTELOrBg9wo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;&lt;em&gt;이 문서는 격전의 아제로스, 이하 격아 출시에 관한 간단한 정보를 담고 있으므로 보다 자세한 내용은 아래에 이어지는 각 항목에 주인장이 연결한 링크 또는 커뮤니티에 공유된 자료들을 참고하길 바라며, 주인장이 작성한 다른 글에서도 지속적인 소식을 확인할 수 있을 것이다.&lt;/em&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;월드 오브 워크래프트의 일곱 번째 확장팩이 드디어 출시되었습니다. 이제 격전의 아제로스에서 전투가 시작된 것입니다. 호드와 얼라이언스의 기나긴 전쟁에 새 시대가 열리는 지금, 여정을 시작해 새로운 동맹을 결집하고 진영에 승리를 안겨줄 세계에서 가장 강력한 힘의 원천을 얻기 위한 치열한 경쟁에 합류하세요.&lt;br /&gt;-Blizzard Entertainment, Inc&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;월드 오브 워크래프트(이하...</description>
+        <pubDate>Sat, 22 Sep 2018 23:18:26 +0900</pubDate>
+        <link>http://localhost:4000/battle-for-azeroth-world-of-warcraft-wow/</link>
+        <guid isPermaLink="true">http://localhost:4000/battle-for-azeroth-world-of-warcraft-wow/</guid>
+        
+        <category>게임</category>
+        
+        <category>블리자드</category>
+        
+        <category>와우</category>
+        
+        <category>월드 오브 워크래프트</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Game News</category>
+        
+      </item>
+    
+      <item>
+        <title>렌파이(Ren'Py), 무료 크로스 플랫폼 시각 소설 엔진</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/renpy-7.webp&quot; alt=&quot;렌파이(Ren'Py) 7.0&quot; /&gt;&lt;/p&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Official Website&lt;/th&gt; &lt;th&gt;Contributions&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://renpy.org/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;/i&gt; Ren’Py&lt;/a&gt;&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;https://www.renpy.org/release/7.1.0&quot;&gt;&lt;i class=&quot;fa fa-language&quot;&gt;&lt;/i&gt; 한국어 번역&lt;br /&gt;&lt;i class=&quot;fa fa-wrench&quot;&gt;&lt;/i&gt; 문서 고침, 버그 고침&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h3 id=&quot;렌파이-renpy&quot;&gt;렌파이 (Ren’Py)&lt;/h3&gt; &lt;p&gt;렌파이는 전세계의 수천 명의 제작자가 사용하는 시각 소설 엔진입니다.  컴퓨터와 휴대기기에서 작동하는 단어와 그림, 소리로 만들어진 대화형 이야기를 전하는 것에 도움을 줄 수 있습니다. 이러한 것들은 시각 소설들과 육성 시뮬레이션 게임 전체가 될 것입니다. 배우기 쉬운 스크립트 언어로 누구나 거대한 시각 소설을 효율적으로 작성할 수 있으며, 파이썬(Python) 스크립팅은 복잡한 시뮬레이션 게임을 제작하기에도 충분합니다.&lt;/p&gt; &lt;p&gt;렌파이는 오픈 소스이며 무료로 상업적인 목적에 사용할 수 있습니다.&lt;/p&gt; &lt;h4...</description>
+        <pubDate>Tue, 11 Sep 2018 04:15:00 +0900</pubDate>
+        <link>http://localhost:4000/renpy-cross-platform-visual-novel-engine/</link>
+        <guid isPermaLink="true">http://localhost:4000/renpy-cross-platform-visual-novel-engine/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Participative</category>
+        
+      </item>
+    
+      <item>
+        <title>삼 일째 양쪽 발등이 부어있다.</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;삼 일째 양쪽 발등이 부어있다. 목과 소화 기능 상태가 괜찮아지니 양쪽 발등이 부어 혈관이 보이지 않는다. 의자에 장시간 앉아 컴퓨터를 하면 부기가 심해진다. 엄마가 담가뒀던 모과주를 꺼내 데워서 찜질하라고 수건에 싸주셨는데 따뜻하고 낫는 기분이 든다. 하지만 좋은 것도 잠시, 부기가 조금 빠지더라도 완전히 낫진 않고 있는 데다, 작업을 오래 하거나 잠을 적게 자면 다시 붓는다.&lt;br /&gt;- 주인장&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 02 Sep 2018 16:10:48 +0900</pubDate>
+        <link>http://localhost:4000/diary-2018-09-02-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/diary-2018-09-02-1/</guid>
+        
+        <category>건강</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>담배를 끊은 지 넉 달이 됐다.</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;담배를 끊은 지 넉 달이 됐다. 작업하다가 쉬어야 할 때 담배를 태우는 습관이 있었는데, 나와 주변인들의 건강을 위해 끊기로 결심하고 비타롱 다섯 개를 주문해 두 개 반을 사용하고 담배를 끊는 것에 성공했다.&lt;br /&gt;- 주인장&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 02 Sep 2018 15:55:48 +0900</pubDate>
+        <link>http://localhost:4000/diary-2018-09-02/</link>
+        <guid isPermaLink="true">http://localhost:4000/diary-2018-09-02/</guid>
+        
+        <category>건강</category>
+        
+        <category>금연</category>
+        
+        <category>담배</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>[워드프레스] 구텐베르그 (Gutenberg) 3.7.0과 Yoast SEO 충돌 문제</title>
+        <description>&lt;h3 id=&quot;구텐베르그-yoast-seo와의-충돌로-사용불가&quot;&gt;구텐베르그, Yoast SEO와의 충돌로 사용불가&lt;/h3&gt; &lt;p&gt;2018년 9월 2일 새벽 워드프레스의 에디터 플러그인 &lt;strong&gt;구텐베르그가 3.7.0 업데이트 이후 Yoase SEO 8.1과 충돌&lt;/strong&gt;해 구글의 크롬 브라우저에서 getCollectionByRoute TypeError가 발생했다.&lt;/p&gt; &lt;p&gt;TypeError: Cannot read property ‘getCollectionByRoute’ of undefined 메시지를 화면에 출력하며 &lt;strong&gt;에디터 자체를 사용할 수 없게 되는 문제&lt;/strong&gt;로, 주인장의 경우 새 글을 추가하거나 저장된 글을 편집하려고 하면 위 오류 메시지가 출력됐다.&lt;/p&gt; &lt;p&gt;무슨 일인지 알아보기 위해 &lt;a href=&quot;https://github.com/Yoast/wordpress-seo/issues/10867&quot;&gt;Yoast.com의 깃허브(GitHub)&lt;/a&gt;를 방문해 이슈를 둘러봤고 아주 쉽게 동일한 케이스를 찾을 수 있었다.&lt;/p&gt; &lt;p&gt;또한, Yoast.com의 엔지니어 알렉산더 보테람(Alexander Botteram)이 &lt;strong&gt;Yoast SEO의 다음 릴리즈까지 임시로 문제를 해결할 수 있는 파일을 공유&lt;/strong&gt;하고 있는 것을 확인했다.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wordpress_gutenberg_editor_crash_with_yoast_seo.webp&quot; alt=&quot;﻿Crash the Wordpress Gutenberg...</description>
+        <pubDate>Sun, 02 Sep 2018 15:13:26 +0900</pubDate>
+        <link>http://localhost:4000/wordpress-gutenberg-yoast-seo/</link>
+        <guid isPermaLink="true">http://localhost:4000/wordpress-gutenberg-yoast-seo/</guid>
+        
+        <category>SEO</category>
+        
+        <category>구텐베르그</category>
+        
+        <category>오류</category>
+        
+        <category>워드프레스</category>
+        
+        <category>웹개발</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Open Source</category>
+        
+      </item>
+    
+      <item>
+        <title>[할인] 험블 번들 스토어 (Humble Store) 서머 세일 2018</title>
+        <description>&lt;h3 id=&quot;험블-번들-스토어-서머-세일-2018humble-store-summer-sale-2018&quot;&gt;험블 번들 스토어 서머 세일 2018(Humble Store Summer Sale 2018)&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018.webp&quot; alt=&quot;험블 번들 스토어 여름 할인 2018(Humble Store Summer Sale 2018)&quot; /&gt;&lt;/p&gt; &lt;p&gt;험블 번들 스토어의 여름 할인이 돌아왔다. 현지 시각 8월 31일 험블 번들은 자사가 운영하는 스토어에서 대규모 할인이 열렸음을 홍보하기 시작했다. 워해머 40K: 스페이스 마린의 기간 한정 무료 배포와 수많은 디지털 게임들의 할인, 보상, 그리고 사전예약까지. 게이머들 뿐만 아니라 일반 대중들의 마음을 사로잡을 이번 할인 행사와 험블 번들이 추천하는 주요 게임들을 간략히 소개한다.&lt;/p&gt; &lt;h3 id=&quot;한시적-무료---워해머-40k-스페이스-마린-warhammer-40k-space-marine&quot;&gt;한시적 무료 - 워해머 40K: 스페이스 마린( Warhammer 40K: Space Marine)&lt;/h3&gt; &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sdVD6d1rGsM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;워해머...</description>
+        <pubDate>Fri, 31 Aug 2018 19:00:26 +0900</pubDate>
+        <link>http://localhost:4000/humble-bundle-store-summer-sale-2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/humble-bundle-store-summer-sale-2018/</guid>
+        
+        <category>게임</category>
+        
+        <category>무료</category>
+        
+        <category>에누리</category>
+        
+        <category>할인</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Game News</category>
+        
+      </item>
+    
+      <item>
+        <title>[비즈니스] 아틀라시안 써밋 2018 유럽 라이브 스트림</title>
+        <description>&lt;h3 id=&quot;아틀라시안-써밋-2018&quot;&gt;아틀라시안 써밋 2018&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/atlassian_summit_2018_title.webp&quot; alt=&quot;아틀라시안 써밋 2018(Atlassian Summit 2018)&quot; /&gt;&lt;/p&gt; &lt;p&gt;아틀라시안 써밋 2018이 바르셀로나에서 열린다. 9월 3일부터 9월 5일까지 3일간 열리는 이번 써밋은 새로운 제품 기능들, 독점 발표, 그리고 미래를 위한 계획들을 보고 들을 수 있다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;세계 최고의 차세대 혁신은 당신과 같은 팀에 의해 만들어 질 것입니다. 이것이 우리 팀이 모든 팀의 잠재력을 발휘할 수 있도록 돕고, 매년 우리가 매년 써밋을 개최하는 이유입니다.&lt;br /&gt;다른 사용자들과 함께 우리 팀에 합류하여 영감을 얻고 Atlassian 도구를 사용하는 가장 좋은 방법에 대한 전문가의 조언을 듣고 최신 기술 및 제품 업데이트에 대해 알아보고 세상을 더 좋은 곳으로 만드는 팀을 축하하십시오.&lt;br /&gt;&lt;a href=&quot;https://www.atlassian.com/company/events/summit-europe/about&quot;&gt;-Atlassian&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;...</description>
+        <pubDate>Thu, 30 Aug 2018 06:47:26 +0900</pubDate>
+        <link>http://localhost:4000/atlassian-summit-2018-europe-live-stream/</link>
+        <guid isPermaLink="true">http://localhost:4000/atlassian-summit-2018-europe-live-stream/</guid>
+        
+        <category>라이브</category>
+        
+        <category>생방송</category>
+        
+        <category>비즈니스</category>
+        
+        <category>회담</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Software</category>
+        
+      </item>
+    
+      <item>
+        <title>[투자] NH투자증권 - 주전산 시스템 재구축 작업에 따른 거래 일시 중단 안내</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/08/nh_qv_down_notice.webp&quot; alt=&quot;﻿NH투자증권 공지사항&quot; /&gt;&lt;/p&gt; &lt;h4 id=&quot;항상-저희-nh투자증권을-이용해-주셔서-감사드립니다&quot;&gt;항상 저희 NH투자증권을 이용해 주셔서 감사드립니다.&lt;/h4&gt; &lt;p&gt;안전한 서비스 제공을 위한 &lt;strong&gt;주전산 시스템 재구축에 따라 아래와 같이 일시 중단&lt;/strong&gt;되어 안내 드리오니 참고 부탁드립니다.&lt;/p&gt; &lt;h3 id=&quot;거래-일시-중단-안내&quot;&gt;거래 일시 중단 안내&lt;/h3&gt; &lt;ol&gt; &lt;li&gt;제한 사유 : &lt;strong&gt;주전산 시스템 재구축 작업&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;제한 일시 : 2018년 9월 1일(토) 07시~15시(8시간) &lt;ul&gt; &lt;li&gt;시간은 작업 진행상황에 따라 변동 될 수 있습니다.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;제한 업무 &lt;ul&gt; &lt;li&gt;자동화기기(CD, ATM) 및 인터넷 뱅킹을 이용한 입출금, 이체거래, 체크카드 사용&lt;/li&gt; &lt;li&gt;당사 온라인채널(HTS, 홈페이지, 모바일, Q트레이딩, ARS)의 모든 서비스&lt;/li&gt; &lt;/ul&gt; &lt;ul&gt; &lt;li&gt;증명서발급, 잔고 및 거래조회, 정보변경, 모바일 계좌개설 등 - &lt;strong&gt;단, ARS를 이용한 사고등록은 가능합니다.&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/ol&gt; &lt;blockquote&gt;...</description>
+        <pubDate>Sun, 26 Aug 2018 12:53:05 +0900</pubDate>
+        <link>http://localhost:4000/nhqv-investment-securities-notice/</link>
+        <guid isPermaLink="true">http://localhost:4000/nhqv-investment-securities-notice/</guid>
+        
+        <category>주식</category>
+        
+        <category>채권</category>
+        
+        <category>투자</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Lifetime</category>
+        
+      </item>
+    
+      <item>
+        <title>[포켓몬스터] 포켓몬고  환상의 포켓몬 세레비를 발견하자!</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/08/celebi.webp&quot; alt=&quot;﻿포켓몬고(Pokémon GO) 세레비 홍보 이미지&quot; /&gt;&lt;/p&gt; &lt;h3 id=&quot;포켓몬고-한국-지역-세레비-등장&quot;&gt;포켓몬고 한국 지역 세레비 등장&lt;/h3&gt; &lt;p&gt;포켓몬고 한국 사용자들이 세레비를 획득할 수 있는 기회가 왔다. 포켓몬스터 금(Gold) 버전에서 환상의 포켓몬으로 등장했던 세레비가 스페셜리서치에 포함됐기 때문이다. 이 소식은 나이언틱(Niantic) 포켓몬고 개발팀이 2018년 8월 16일 공식 웹사이트에 업데이트로 공지했다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;윌로우박사가 또다시 여러분의 도움이 필요합니다! 박사는 환상의 포켓몬 「세레비」의 존재의 단서를 잡아 연구하고 있었는데 발견을 위해서는 여러분의 도움이 필요합니다. 박사의 조사에 협조하고 시간이동포켓몬 세레비를 찾아주세요. 새로운 스페셜리서치는 한국시간 8월 21일(화) 새벽부터 전 세계에서 즐길 수 있습니다!&lt;br /&gt;&lt;a href=&quot;https://pokemongolive.com/post/celebi-research/&quot;&gt;- The Pokémon GO 개발팀 드림﻿&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;h3 id=&quot;새로운-스페셜리서치로-환상의-포켓몬-세레비를-발견하자&quot;&gt;새로운 스페셜리서치로 환상의 포켓몬 「세레비」를 발견하자!&lt;/h3&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;세레비를 찾는...</description>
+        <pubDate>Fri, 24 Aug 2018 11:44:47 +0900</pubDate>
+        <link>http://localhost:4000/pokemon-go-celebi-special-research/</link>
+        <guid isPermaLink="true">http://localhost:4000/pokemon-go-celebi-special-research/</guid>
+        
+        <category>AR</category>
+        
+        <category>게임</category>
+        
+        <category>나이언틱</category>
+        
+        <category>모바일</category>
+        
+        <category>증강현실</category>
+        
+        <category>포켓몬</category>
+        
+        <category>포켓몬고</category>
+        
+        <category>포켓몬스터</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Game News</category>
+        
+      </item>
+    
+      <item>
+        <title>[서버] 오토셋 (AutoSet) MySQL 서버 서비스 제어 실패 오류 해결방법</title>
+        <description>&lt;h3 id=&quot;오토셋autoset이란&quot;&gt;오토셋(AutoSet)이란?&lt;/h3&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;AutoSet은 쉽고 빠르게 웹 개발 환경, 운영 환경을 구축하기 위해 만들어진 프로그램입니다. 개발/운영을 위한 웹 서버(Apache HTTP Server)와 PHP, MySQL, CUBRID 설치를 위해 투자하는 시간을 절약하실 수 있습니다. 신속하게 기반 시스템을 설치 할 수 있도록 패키지가 구성되어 있으며, 사용자가 선택적으로 필요한 요소를 설치할 수 있도록 제공하고 있습니다. 3분만 투자하세요. 그러면 초보도 내 컴퓨터에서 홈페이지를 만들고, 운영 할 수 있는 환경이 만들어 집니다.&lt;br /&gt;&lt;a href=&quot;http://autoset.net/&quot;&gt;– AutoSet Developer Group&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;오토셋은 쉬운 웹 개발 환경 구축에 종종 사용되는 한국어로 된 프로그램으로 주로 워드프레스(WordPress)나 익스프레스엔진(XpressEngine) 등의 CMS 기반 웹사이트 개발에 주로 쓰이곤 한다. 매우 간단하게 웹서버와 MySQL을 제어할 수 있게...</description>
+        <pubDate>Fri, 24 Aug 2018 10:40:48 +0900</pubDate>
+        <link>http://localhost:4000/autoset-mysql-server-service-error/</link>
+        <guid isPermaLink="true">http://localhost:4000/autoset-mysql-server-service-error/</guid>
+        
+        <category>MySQL</category>
+        
+        <category>서버</category>
+        
+        <category>아파치</category>
+        
+        <category>오류</category>
+        
+        <category>오토셋</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Software</category>
+        
+      </item>
+    
+      <item>
+        <title>틸란드시아 이오난사 공기정화 애완식물</title>
+        <description>&lt;h3 id=&quot;틸란드시아-이오난사-미니-시멘트-화분-우체국-택배로-도착&quot;&gt;틸란드시아 이오난사 미니 시멘트 화분 우체국 택배로 도착&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/08/kmong_flower.webp&quot; alt=&quot;재능거래 마켓 크몽에서 구매한 미니 시멘트 공기정화 화분&quot; /&gt;&lt;/p&gt; &lt;p&gt;재능거래 마켓 크몽에서 쿠폰 서비스 시작후 보내준 쿠폰과 예치금 일부로 저렴하게 구매한 작고 귀여운 공기정화 애완식물 꽃이다.&lt;/p&gt; &lt;p&gt;크몽에서 쿠폰을 받아도 당장 작업 의뢰할 것이 없으면 유효기간 만료로 소멸되는 경우가 대다수다. 그런데 이번 구매에 사용한 쿠폰의 경우 구매금액의 제한이 없었다. 예치금 조금 더하면 저렴한 무언가를 구매할 수 있지 않을까 해서 뒤지다 찾은 것이 바로 이 공기정화 미니 시멘트 화분이다.&lt;/p&gt; &lt;p&gt;틸란드시아는 공기 중 수증기와 유기물을 흡수하는 식물로 미세먼지 처리 등 공기정화에 탁월하다.&lt;/p&gt; &lt;p&gt;흙이 없어도 살 수 있다고 하며, 무엇보다 관리가 어렵지 않아...</description>
+        <pubDate>Wed, 22 Aug 2018 05:36:23 +0900</pubDate>
+        <link>http://localhost:4000/tillandsia-forma-ionantha-air-cleaning/</link>
+        <guid isPermaLink="true">http://localhost:4000/tillandsia-forma-ionantha-air-cleaning/</guid>
+        
+        <category>건강</category>
+        
+        <category>공기정화</category>
+        
+        <category>미세먼지</category>
+        
+        <category>이오난사</category>
+        
+        <category>일상</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>진료 및 MRI 검사를 예약했다.</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;진료 및 MRI 검사를 예약했다. 삼일 전 신경외과에서 받은 약이 다 떨어졌는데도 증세가 호전되지 않아 강원대학교병원 신경과를 찾았다. 일주일 분량의 약을 받고 뇌 MRI 검사를 예약했다. 최대한 빠른 날짜로 잡으려고 MRI 검사는 일요일로, 다음 진료는 차주 금요일로 잡았다.&lt;br /&gt;- 주인장&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Thu, 09 Aug 2018 03:18:48 +0900</pubDate>
+        <link>http://localhost:4000/diary-2018-08-08/</link>
+        <guid isPermaLink="true">http://localhost:4000/diary-2018-08-08/</guid>
+        
+        <category>건강</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>[카드게임] 하스스톤 2018년 7월 주문도적 플레이 기록</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/hearth_stone_2018_june_01.webp&quot; alt=&quot;﻿[카드게임] 하스스톤 2018년 7월 주문도적 플레이 기록&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;하스스톤-2018년-7월-플레이로그&quot;&gt;하스스톤 2018년 7월 플레이로그&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;7월에는 선술집이 후끈하게 달아올랐다. 하지만 일부 벌레가, 아니 플레이어가 . . . 화염 속에서 살아남은 것 같구나.&lt;br /&gt;불꽃으로 단련된 그대들의 하스스톤 업적을 세계 만방에 알려라. 그대들의 성과로 동네 사람들에게 동기를 부여하고, 의자 하나를 가져와서 난롯가 옆에서 게임 몇 판을 즐기자꾸나.&lt;br /&gt;- Blizzard Entertainment, Inc&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;주인장이 하스스톤을 플레이한 지 두 달이 지났다. 6월과 마찬가지로 테스 미라클(주문) 도적 덱으로 계속 플레이했고 중순에 리로이 젠킨스, 월말에 에드윈 밴클리프를 손에 넣었다. 확실히 전설 카드를 두 장 더 기용하고 나서 덱 파워가 쎄졌다.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/hearth_stone_2018_july_01.webp&quot; alt=&quot;﻿2018년 7월 플레이...</description>
+        <pubDate>Sun, 05 Aug 2018 06:47:26 +0900</pubDate>
+        <link>http://localhost:4000/hearthstone-2018-07-miracle-rogue-playlog/</link>
+        <guid isPermaLink="true">http://localhost:4000/hearthstone-2018-07-miracle-rogue-playlog/</guid>
+        
+        <category>게임</category>
+        
+        <category>도적</category>
+        
+        <category>블리자드</category>
+        
+        <category>카드</category>
+        
+        <category>테스도적</category>
+        
+        <category>하스스톤</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Game</category>
+        
+      </item>
+    
+      <item>
+        <title>뒷목이 경직되고 숨이 막힌다.</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;뒷목이 경직되고 숨이 막힌다. 밤에 자려고 누웠는데 갑자기 뒷목이 경직되고 뻗쳐 올라와 고통스러웠다. 이따금 경직된 뒷목을 뭔가가 찌르는 것 같은 느낌이 든다. 가슴이 답답하고 숨이 막히는 느낌이 든다. 잠을 잘 수가 없고 팔다리 뿐 아니라 등까지 저리는 증세가 간헐적으로 있다. 마비가 오지는 않을까 걱정이다.&lt;br /&gt;- 주인장&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Fri, 03 Aug 2018 21:28:48 +0900</pubDate>
+        <link>http://localhost:4000/diary-2018-08-03/</link>
+        <guid isPermaLink="true">http://localhost:4000/diary-2018-08-03/</guid>
+        
+        <category>건강</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>[카드게임] 하스스톤 2018년 6월 주문도적 플레이 기록</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/hearth_stone_2018_june_01.webp&quot; alt=&quot;[카드게임] 하스스톤 2018년 6월 주문도적 플레이 기록&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;하스스톤-2018년-6월-플레이로그&quot;&gt;하스스톤 2018년 6월 플레이로그&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;6월과 함께 선술집에는 시간 여행이라는 흥미로운 사건이 찾아왔습니다. 하지만 여러분은 혼란을 이겨내고 살아남은 것 같군요! 대담하고 짜릿함 모험담이 가득하겠죠? 하스스톤 업적으로 되돌아보고 갖가지 업적을 공유해 주민들의 영감을 자극해주세요. 그런 다음 따뜻한 난롯가에 자리 잡고 앉아 함께 신나게 즐겨봐요!&lt;br /&gt;-Blizzard Entertainment, Inc&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;주인장이 하스스톤을 플레이한 지 한 달이 지났다. MTG나 FM 같은 정통 TCG 게임이 아닌 캐주얼 CCG 게임을 진지하게 하기는 처음이었다. 테스를 넣은 미라클(주문) 도적으로 쭉 플레이했고 나름 재밌게 즐긴 것 같다.&lt;/p&gt; &lt;p&gt;월별 플레이 기록을 누리집에 올릴 생각은 없었는데, 7월 6일에 블리자드에서 전자우편으로...</description>
+        <pubDate>Sat, 07 Jul 2018 06:47:26 +0900</pubDate>
+        <link>http://localhost:4000/hearthstone-2018-06-miracle-rogue-playlog/</link>
+        <guid isPermaLink="true">http://localhost:4000/hearthstone-2018-06-miracle-rogue-playlog/</guid>
+        
+        <category>게임</category>
+        
+        <category>도적</category>
+        
+        <category>블리자드</category>
+        
+        <category>카드</category>
+        
+        <category>테스도적</category>
+        
+        <category>하스스톤</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Game</category>
+        
+      </item>
+    
+      <item>
+        <title>데브리에이트 (Debreate) - 데비안 패키지 빌더 (Debian Package Builder)</title>
+        <description>&lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Official Website&lt;/th&gt; &lt;th&gt;Contributions&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://antumdeluge.github.io/debreate-web/&quot;&gt;&lt;i class=&quot;fab fa-github&quot;&gt;&lt;/i&gt; Debreate&lt;/a&gt;&lt;/td&gt; &lt;td&gt;&lt;a href=&quot;https://github.com/AntumDeluge/debreate/pull/22&quot;&gt;&lt;i class=&quot;fas fa-language&quot;&gt;&lt;/i&gt; 한국어 번역&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;데브리에이트-debreate&quot;&gt;데브리에이트 (Debreate)&lt;/h4&gt; &lt;p&gt;데브리에이트는 설치 가능한 &lt;a href=&quot;https://en.wikipedia.org/wiki/Deb_(file_format)&quot;&gt;데비안 패키지 (.deb)&lt;/a&gt;를 만드는 데 도움이 되는 유틸리티입니다.&lt;/p&gt; &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/kx4D5eL6HKE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;프로젝트의 목표는 응용 프로그램, 아트웍, 미디어, 테마 등을 사용하기 쉬운 인터페이스로 패키징하는 데비안 기반의 리눅스(Linux) 배포판을 더욱 매력적으로 개발하는 것입니다.&lt;/p&gt; &lt;p&gt;현재는 스크립트 응용 프로그램이나 미디어와 같이 소스에서 컴파일 할 필요가 없는 패키지를 패키징 할 수있는 “바이너리” 패키징만 지원합니다. 그런 다음 이 패키지를 개인 배포용으로 사용할 수 있습니다.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;http://packages.ubuntu.com/dh-make&quot;&gt;dh_make&lt;/a&gt; &amp;amp; debuild...</description>
+        <pubDate>Mon, 26 Mar 2018 06:07:00 +0900</pubDate>
+        <link>http://localhost:4000/debreate-debian-package-builder/</link>
+        <guid isPermaLink="true">http://localhost:4000/debreate-debian-package-builder/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Participative</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자 타로 PNP 팩(Discouraged Workers Tarot PNP Pack)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_06.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_05.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_01.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_02.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_03.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_04.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_07.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 06&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_08.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 07&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_09.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 08&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_tarot_pnp_pack_dlc_10.webp&quot; alt=&quot;Discouraged Workers Tarot PNP Pack Screenshot 09&quot;...</description>
+        <pubDate>Sat, 03 Mar 2018 20:51:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers-tarot-pnp-pack-dlc/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers-tarot-pnp-pack-dlc/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자 - 모드 창작자 개발 키트(Discouraged Workers - MOD Creator Development Kit)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_mcdk_ss_01.webp&quot; alt=&quot;Discouraged Workers MCDK Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_mcdk_ss_02.webp&quot; alt=&quot;Discouraged Workers MCDK Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_mcdk_ss_03.webp&quot; alt=&quot;Discouraged Workers MCDK Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_mcdk_ss_04.webp&quot; alt=&quot;Discouraged Workers MCDK Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_mcdk_ss_05.webp&quot; alt=&quot;Discouraged Workers MCDK Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_mcdk_ss_06.webp&quot; alt=&quot;Discouraged Workers MCDK Screenshot 06&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/407760/Discouraged_Workers__MOD_Creator_Development_Kit/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자-모드-창작자-개발-키트&quot;&gt;실망실업자 모드 창작자 개발 키트&lt;/h4&gt; &lt;p&gt;이제 당신의 이야기를 우리에게 들려주세요. 당신은 커뮤니티의 일원이 창작한 MOD를 플레이하거나 당신이 직접 렌파이와 우리의 자산을 사용해 당신만의 MOD를 창작할 수 있습니다. 모드...</description>
+        <pubDate>Fri, 15 Dec 2017 20:51:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers-mod-creator-development-kit-dlc/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers-mod-creator-development-kit-dlc/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>잼 찾아 삼만 리(Where is My Cranberry Jam?) - 알파 프로토타입 V 0.1.1</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj-title.webp&quot; alt=&quot;Where is My Cranberry Jam Main Logo&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_1.webp&quot; alt=&quot;Where is My Cranberry Jam Title Screen&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_2.webp&quot; alt=&quot;Where is My Cranberry Jam Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_3.webp&quot; alt=&quot;Where is My Cranberry Jam Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_4.webp&quot; alt=&quot;Where is My Cranberry Jam Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_5.webp&quot; alt=&quot;Where is My Cranberry Jam Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_6.webp&quot; alt=&quot;Where is My Cranberry Jam Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_7.webp&quot; alt=&quot;Where is My Cranberry Jam Screenshot 06&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wimcj_ss_lg_8.webp&quot; alt=&quot;Where is My Cranberry Jam Screenshot 07&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution...</description>
+        <pubDate>Fri, 20 May 2016 23:15:00 +0900</pubDate>
+        <link>http://localhost:4000/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype/</link>
+        <guid isPermaLink="true">http://localhost:4000/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Record</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자 디지털 아트 북(Discouraged Workers Digital Art Book)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_382390_ss_1.webp&quot; alt=&quot;Discouraged Workers Digital Art Book Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_382390_ss_2.webp&quot; alt=&quot;Discouraged Workers Digital Art Book Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_382390_ss_3.webp&quot; alt=&quot;Discouraged Workers Digital Art Book Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_382390_ss_4.webp&quot; alt=&quot;Discouraged Workers Digital Art Book Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_382390_ss_5.webp&quot; alt=&quot;Discouraged Workers Digital Art Book Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/382390/Discouraged_Workers__Digital_Art_Book/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자-디지털-아트-북-dlc&quot;&gt;실망실업자 디지털 아트 북 DLC&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;50쪽 PDF 포함&lt;/li&gt; &lt;li&gt;50cm*150cm 크기의 껴안는 베개 베갯잇 그림 포함(스팀 독점 특전)&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;만든사람&quot;&gt;만든사람&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;이윤석:&lt;/strong&gt; 디렉팅, 디자인, 프로그래밍, 음악, 음향,...</description>
+        <pubDate>Wed, 04 Nov 2015 05:31:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers-digital-art-book-dlc/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers-digital-art-book-dlc/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자 디지털 콘셉트 북(Discouraged Workers Digital Concept Book)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_384650_ss_1.webp&quot; alt=&quot;Discouraged Workers Digital Concept Book Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_384650_ss_koreana_2.webp&quot; alt=&quot;Discouraged Workers Digital Concept Book Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_384650_ss_koreana_3.webp&quot; alt=&quot;Discouraged Workers Digital Concept Book Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_384650_ss_koreana_4.webp&quot; alt=&quot;Discouraged Workers Digital Concept Book Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_384650_ss_koreana_5.webp&quot; alt=&quot;Discouraged Workers Digital Concept Book Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/384650/Discouraged_Workers__Digital_Concept_Book/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자-디지털-콘셉트-북-dlc&quot;&gt;실망실업자 디지털 콘셉트 북 DLC&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;44 페이지 한국어 PDF 포함&lt;/li&gt; &lt;li&gt;등장인물 기록 보관소 포함&lt;/li&gt; &lt;li&gt;해설 모음 기록 보관소 포함&lt;/li&gt; &lt;li&gt;가연의 일기 기록 보관소 포함&lt;/li&gt; &lt;li&gt;소소한...</description>
+        <pubDate>Fri, 23 Oct 2015 05:05:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers-digital-concept-book-dlc/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers-digital-concept-book-dlc/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자 - 엑스트라즈(Discouraged Workers - Extras)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_raspi_koreana.webp&quot; alt=&quot;Discouraged Workers Running on Raspberry Pi&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_404910_ss_1.webp&quot; alt=&quot;Discouraged Workers Extras Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_404910_ss_2.webp&quot; alt=&quot;Discouraged Workers Extras Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_404910_ss_3.webp&quot; alt=&quot;Discouraged Workers Extras Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/404910/Discouraged_Workers__Extras/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자---엑스트라즈-dlc&quot;&gt;실망실업자 - 엑스트라즈 DLC&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;엑스트라즈 Vol.1 - 디스크 라벨&lt;/li&gt; &lt;li&gt;엑스트라즈 Vol.2 - 월페이퍼&lt;/li&gt; &lt;li&gt;엑스트라즈 Vol.3 - 라즈베리 파이 빌드&lt;/li&gt; &lt;li&gt;엑스트라즈 Vol.4 - 안드로이드 APK&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;엑스트라즈-설명&quot;&gt;엑스트라즈 설명&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;엑스트라즈 Vol.1 - 라이트 스크라이브 라벨 LSL, 폼텍 16mm&amp;amp;40mm 라벨 DGO&lt;/li&gt; &lt;li&gt;엑스트라즈 Vol.2...</description>
+        <pubDate>Thu, 24 Sep 2015 04:36:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers-extras-dlc/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers-extras-dlc/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자 오리지널 사운드 트랙(Discouraged Workers Original Sound Track)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_ost_steam_ko1.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_ost_steam_ko2.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_1.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_2.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_3.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/375160/Discouraged_Workers__Original_Sound_Track/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자---오리지널-사운드-트랙&quot;&gt;실망실업자 - 오리지널 사운드 트랙&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;13개의 &lt;a href=&quot;https://yggdrasilstudio.bandcamp.com/album/discouraged-workers-ost&quot;&gt;사운드 트랙&lt;/a&gt; 수록&lt;/li&gt; &lt;li&gt;록, 오리엔탈, 오케스트라, 크로스오버 음악&lt;/li&gt; &lt;li&gt;48kMHz 320kbps MP3(스팀 플레이어)&lt;/li&gt; &lt;li&gt;PDF 설명서 포함&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://lightscribesoftware.org/&quot;&gt;라이트 스크라이브&lt;/a&gt; 라벨 LSL 포함&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.formtec.co.kr/software/software_detail.html?serial=3&quot;&gt;폼텍&lt;/a&gt; 라벨 DGO 포함&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;추가-파일-형식&quot;&gt;추가 파일 형식&lt;/h4&gt; &lt;ul&gt;...</description>
+        <pubDate>Tue, 15 Sep 2015 06:08:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers-original-sound-track-dlc/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers-original-sound-track-dlc/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자(Discouraged Workers)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_logo.webp&quot; alt=&quot;Discouraged Workers Main Logo&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-1.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-2.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-3.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-5.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-6.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-7.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 06&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-8.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 07&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/371120/Discouraged_Workers/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자&quot;&gt;실망실업자&lt;/h4&gt; &lt;p&gt;익드라실 스튜디오의 독립창작 진보적 시각 소설 실망실업자. 이 일화는 프로젝트 DW의 다섯...</description>
+        <pubDate>Thu, 25 Jun 2015 15:50:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Creative</category>
+        
+      </item>
+    
+      <item>
+        <title>실망실업자 - 백 투 더 베이직(Discouraged Workers - Back to the Basic)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/kndw_bttb_logo.webp&quot; alt=&quot;Discouraged Workers - Back to the Basic&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/kndw_bttb_screenshot_ko_01.webp&quot; alt=&quot;Discouraged Workers - Back to the Basic Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/kndw_bttb_screenshot_ko_02.webp&quot; alt=&quot;Discouraged Workers - Back to the Basic Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/kndw_bttb_screenshot_ko_03.webp&quot; alt=&quot;Discouraged Workers - Back to the Basic Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/kndw_bttb_screenshot_ko_04.webp&quot; alt=&quot;Discouraged Workers - Back to the Basic Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/kndw_bttb_screenshot_ko_05.webp&quot; alt=&quot;Discouraged Workers - Back to the Basic Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/558690/Discouraged_Workers__Back_to_the_Basic/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자-v-1202-소장용-빌드&quot;&gt;실망실업자 V 1.2.0.2 소장용 빌드.&lt;/h4&gt; &lt;p&gt;실망실업자...</description>
+        <pubDate>Thu, 25 Jun 2015 09:00:00 +0900</pubDate>
+        <link>http://localhost:4000/discouraged-workers-back-to-the-basic-dlc/</link>
+        <guid isPermaLink="true">http://localhost:4000/discouraged-workers-back-to-the-basic-dlc/</guid>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
   </channel>
 </rss>
