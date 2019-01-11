@@ -39,5 +39,5 @@ My personal website project made with [Jekyll](https://jekyllrb.com/), proudly h
 Coming soon
 
 ### License
-The codes of my website is covered by the terms of the [MIT License](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE).
-The contents of my website are property of their respective owners.
+_The codes of my website is covered by the terms of the [MIT License](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE)._
+_The contents of my website are property of their respective owners._
