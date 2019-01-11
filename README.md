@@ -1,7 +1,6 @@
-[![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6CPWSMA5ZSCN&source=url) [ ![GitHub commits](https://img.shields.io/github/commits-since/lee-yunseok/Lee-Yunseok.github.io/5f283b3.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io/commits/master) [![License](https://img.shields.io/github/license/lee-yunseok/Lee-Yunseok.github.io.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io#license)
-
 # Lee-Yunseok.github.io
 My personal website project made with [Jekyll](https://jekyllrb.com/), proudly hosted on [GitHub Pages](https://pages.github.com/). **Currently working with Korean language.**
+[![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6CPWSMA5ZSCN&source=url) [ ![GitHub commits](https://img.shields.io/github/commits-since/lee-yunseok/Lee-Yunseok.github.io/5f283b3.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io/commits/master) [![License](https://img.shields.io/github/license/lee-yunseok/Lee-Yunseok.github.io.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io#license)
 
 ## Development environment
 - 34 years old human
