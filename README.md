@@ -1,12 +1,11 @@
 # Lee-Yunseok.github.io
-My personal website project. **Currently under construction**, working with Korean language. Website made with [WordPress](https://wordpress.org), hosted on [GitHub Pages](https://pages.github.com/).
+My personal website project made with [Jekyll](https://jekyllrb.com/), proudly hosted on [GitHub Pages](https://pages.github.com/). **Currently working with Korean language.**
 
 ## Development environment
-- 33 years old human
-- 5 years old laptop
+- 34 years old human
+- 6 years old laptop
 - [Windows 10](https://www.microsoft.com/windows/get-windows-10)
 - [Google Chrome Web Browser](https://www.google.com/chrome/)
-- [XAMPP](https://www.apachefriends.org/)
 - [Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe)
 - [GitHub Desktop](https://desktop.github.com/)
 - [Notepad++](https://notepad-plus-plus.org/)
@@ -16,23 +15,24 @@ My personal website project. **Currently under construction**, working with Kore
 - [Natron](https://natrongithub.github.io/)
 - [Advanced Renamer](https://www.advancedrenamer.com/)
 - [GPG4Win](https://www.gpg4win.org/)
-- [WordPress](https://wordpress.org)
-  - [Elision](https://themeforest.net/item/elision-retina-multipurpose-wordpress-theme/6382990)
-  - [Gutenberg](https://wordpress.org/plugins/gutenberg/)
-  - [WPBakery Page Builder](https://codecanyon.net/item/visual-composer-page-builder-for-wordpress/242431)
-  - [LayerSlider](https://codecanyon.net/item/layerslider-responsive-wordpress-slider-plugin/1362246)
-  - [Sirv](https://wordpress.org/plugins/sirv/)
-  - [Polylang](https://wordpress.org/plugins/polylang/)
-  - [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
-  - [Google XML Sitemaps](https://wordpress.org/plugins/google-sitemap-generator/)
-  - [Copyright Proof](https://wordpress.org/plugins/digiproveblog/)
-  - [GitHub Profile Widget](https://wordpress.org/plugins/github-profile-widget/)
-  - [Disqus Comment System](https://wordpress.org/plugins/disqus-comment-system/)
-  - [WP Extra File Types](https://wordpress.org/plugins/wp-extra-file-types/)
-  - [GA Google Analytics](https://wordpress.org/plugins/ga-google-analytics/)
-  - [Ad Inserter](https://wordpress.org/plugins/ad-inserter/)
-  - [Simply Static](https://wordpress.org/plugins/simply-static/)
-  - [UpdraftPlus](https://wordpress.org/plugins/updraftplus/)
+- [Jekyll](https://jekyllrb.com/)
+  - [Ruby](https://www.ruby-lang.org/)
+  - [RubyGems](https://rubygems.org/)
+  - [cards-jekyll-template](https://github.com/willianjusten/cards-jekyll-template)
+  - [Jekyll Paginate V2](https://github.com/sverrirs/jekyll-paginate-v2)
+  - [Jekyll Archives](https://github.com/jekyll/jekyll-archives)
+  - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
+- [Font Awesome](https://fontawesome.com)
+- [jQuery lightSlider](https://github.com/sachinchoolur/lightslider)
+- [Vanilla Back To Top](https://github.com/vfeskov/vanilla-back-to-top)
+- [Sirv](https://sirv.com/)
+- [Disqus](https://disqus.com/)
+- [Google AdSense](https://www.google.com/adsense/start/)
+- [Shields.io](https://shields.io/)
+  
+## Usage for build your blog
+Coming soon
 
 ### License
-The codes of my website is covered by the terms of the [GNU General Public License v2.0](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE). All literary works/trademarks are property of their respective owners.
+The codes of my website is covered by the terms of the [MIT License](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE).
+The contents of my website are property of their respective owners.
