@@ -1,0 +1,46 @@
+{
+  "name": "lee-yunseok",
+  "version": "1.0.0",
+  "description": "My personal website project made with Jekyll.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "frontend",
+    "blog",
+    "css",
+    "stylus",
+    "gulp",
+    "jekyll",
+    "js"
+  ],
+  "author": "Lee Yunseok",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.4.0",
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.4.3",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-plumber": "^0.6.6",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^1.0.2",
+    "kouto-swiss": "^1.1.0",
+    "minimist": "^1.2.0",
+    "stylus": "^0.54.5"
+  },
+  "dependencies": {
+    "jeet": "=6.1.2",
+    "lightslider": "^1.1.6",
+    "rupture": "^0.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lee-yunseok/Lee-Yunseok.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lee-yunseok/Lee-Yunseok.github.io/issues"
+  },
+  "homepage": "https://github.com/lee-yunseok/Lee-Yunseok.github.io#readme"
+}

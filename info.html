@@ -1,17 +1,14 @@
 ---
-layout: default
+layout: hybrid
+title: "정보(Info)"
+description: "주인장이 전달하고 싶은 유용한 정보들을 공유하는 곳입니다. 관심분야 위주로 작성합니다."
+main-class: Info
 pagination: 
   enabled: true
-slide_url: on
+  categories:
+    - Info
 ---
-<div class="yslider">
-    <ul>
-        <li><a href="{{site.baseurl}}/discouraged-workers/index.html"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_logo.webp" alt="Discouraged Workers Main Logo" /></a></li>
-        <li><a href="{{site.baseurl}}/creative-commons-cc-global-summit-2019/index.html"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/lisbon_summit.webp" alt="크리에이티브 커먼즈 CC 글로벌 써밋 2019 홍보 이미지" /></a></li>
-        <li><a href="{{site.baseurl}}/battle-for-azeroth-world-of-warcraft-wow/index.html"><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wow_battle_for_azeroth_front.webp" alt="격전의 아제로스" /></a></li>
-    </ul>
-</div>
-{% include ad_main.html %}
+
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div id="grid" class="row flex-grid">
     {% for post in paginator.posts %}
