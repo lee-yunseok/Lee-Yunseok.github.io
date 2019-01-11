@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/BlogPosting" class="post-Works">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>렌파이(Ren'Py), 무료 크로스 플랫폼 시각 소설 엔진</title>
+    <meta name="description" content="무료 크로스 플랫폼 시각 소설 엔진">
+
+    <!-- Google Authorship Markup -->
+    <link rel="author" href="https://plus.google.com/+113958407890707437458?rel=author">
+
+    <!-- Social: Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@LYunseok">
+    <meta name="twitter:title" content="렌파이(Ren'Py), 무료 크로스 플랫폼 시각 소설 엔진">
+    <meta name="twitter:description" content="무료 크로스 플랫폼 시각 소설 엔진">
+    
+    <meta property="twitter:image:src" content="http://localhost:4000https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/renpy-main.webp">
+    
+
+    <!-- Social: Facebook / Open Graph -->
+    <meta property="og:url" content="http://localhost:4000/renpy-cross-platform-visual-novel-engine/">
+    <meta property="og:title" content="렌파이(Ren'Py), 무료 크로스 플랫폼 시각 소설 엔진">
+    
+    <meta property="og:image" content="http://localhost:4000https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/renpy-main.webp">
+    
+    <meta property="og:description" content="무료 크로스 플랫폼 시각 소설 엔진">
+    <meta property="og:site_name" content="이윤석 - 독립 문화예술 창작가">
+
+    <!-- Social: Google+ / Schema.org  -->
+    <meta itemprop="name" content="렌파이(Ren'Py), 무료 크로스 플랫폼 시각 소설 엔진"/>
+    <meta itemprop="description" content="무료 크로스 플랫폼 시각 소설 엔진">
+    <meta itemprop="image" content="http://localhost:4000https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/blog-image.webp"/>
+    <!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>렌파이(Ren’Py), 무료 크로스 플랫폼 시각 소설 엔진 | 이윤석 - 독립 문화예술 창작가</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="렌파이(Ren’Py), 무료 크로스 플랫폼 시각 소설 엔진" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="무료 크로스 플랫폼 시각 소설 엔진" />
+<meta property="og:description" content="무료 크로스 플랫폼 시각 소설 엔진" />
+<link rel="canonical" href="http://localhost:4000/renpy-cross-platform-visual-novel-engine/" />
+<meta property="og:url" content="http://localhost:4000/renpy-cross-platform-visual-novel-engine/" />
+<meta property="og:site_name" content="이윤석 - 독립 문화예술 창작가" />
+<meta property="og:image" content="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/renpy-main.webp" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2018-09-11T04:15:00+09:00" />
+<meta name="google-site-verification" content="LCL5N4f_rHmixraltefHZ44HPIEJ-pJYwK4SmsoWrio" />
+<meta name="msvalidate.01" content="9D74C20986AA90FC420EED9DCC027B55" />
+<script type="application/ld+json">
+{"@type":"BlogPosting","image":"https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/renpy-main.webp","url":"http://localhost:4000/renpy-cross-platform-visual-novel-engine/","headline":"렌파이(Ren’Py), 무료 크로스 플랫폼 시각 소설 엔진","dateModified":"2018-09-11T04:15:00+09:00","datePublished":"2018-09-11T04:15:00+09:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/renpy-cross-platform-visual-novel-engine/"},"description":"무료 크로스 플랫폼 시각 소설 엔진","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="naver-site-verification" content="1bdf68f0fe3b6801b70012c0bc374b941c84b5d9"/>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/lee-yunseok.ico" type="image/x-icon" />
+    <!-- Apple Touch Icons -->
+    <link rel="apple-touch-icon" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon.webp" />
+    <link rel="apple-touch-icon" sizes="57x57" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-57x57.webp" />
+    <link rel="apple-touch-icon" sizes="72x72" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-72x72.webp" />
+    <link rel="apple-touch-icon" sizes="114x114" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-114x114.webp" />
+    <link rel="apple-touch-icon" sizes="144x144" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-144x144.webp" />
+    <link rel="apple-touch-icon" sizes="60x60" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-60x60.webp" />
+    <link rel="apple-touch-icon" sizes="120x120" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-120x120.webp" />
+    <link rel="apple-touch-icon" sizes="76x76" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-76x76.webp" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/apple-touch-icon-152x152.webp" />
+    <!-- Windows 8 Tile Icons -->
+    <meta name="application-name" content="Lee Yunseok Website">
+    <meta name="msapplication-TileColor" content="#0562DC">
+    <meta name="msapplication-square70x70logo" content="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/smalltile.webp" />
+    <meta name="msapplication-square150x150logo" content="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/mediumtile.webp" />
+    <meta name="msapplication-wide310x150logo" content="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/widetile.webp" />
+    <meta name="msapplication-square310x310logo" content="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/largetile.webp" />
+    <!-- Android Lolipop Theme Color -->
+    <meta name="theme-color" content="#7A417A">
+
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/all.min.css">
+    <link rel="canonical" href="http://localhost:4000/renpy-cross-platform-visual-novel-engine/">
+    <link rel="alternate" type="application/rss+xml" title="이윤석 - 독립 문화예술 창작가" href="http://localhost:4000/feed.xml" />
+    
+</head>
+
+    <body>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="none" version="1.1"><defs><symbol id="icon-menu" viewBox="0 0 1024 1024"><path class="path1" d="M128 213.333h768q17.667 0 30.167 12.5t12.5 30.167-12.5 30.167-30.167 12.5h-768q-17.667 0-30.167-12.5t-12.5-30.167 12.5-30.167 30.167-12.5zM128 725.333h768q17.667 0 30.167 12.5t12.5 30.167-12.5 30.167-30.167 12.5h-768q-17.667 0-30.167-12.5t-12.5-30.167 12.5-30.167 30.167-12.5zM128 469.333h768q17.667 0 30.167 12.5t12.5 30.167-12.5 30.167-30.167 12.5h-768q-17.667 0-30.167-12.5t-12.5-30.167 12.5-30.167 30.167-12.5z"/></symbol><symbol id="icon-search" viewBox="0 0 951 1024"><path class="path1" d="M658.286 475.429q0-105.714-75.143-180.857t-180.857-75.143-180.857 75.143-75.143 180.857 75.143 180.857 180.857 75.143 180.857-75.143 75.143-180.857zM950.857 950.857q0 29.714-21.714 51.429t-51.429 21.714q-30.857 0-51.429-21.714l-196-195.429q-102.286 70.857-228 70.857-81.714 0-156.286-31.714t-128.571-85.714-85.714-128.571-31.714-156.286 31.714-156.286 85.714-128.571 128.571-85.714 156.286-31.714 156.286 31.714 128.571 85.714 85.714 128.571 31.714 156.286q0 125.714-70.857 228l196 196q21.143 21.143 21.143 51.429z"/></symbol><symbol id="icon-close" viewBox="0 0 805 1024"><path class="path1" d="M741.714 755.429q0 22.857-16 38.857l-77.714 77.714q-16 16-38.857 16t-38.857-16l-168-168-168 168q-16 16-38.857 16t-38.857-16l-77.714-77.714q-16-16-16-38.857t16-38.857l168-168-168-168q-16-16-16-38.857t16-38.857l77.714-77.714q16-16 38.857-16t38.857 16l168 168 168-168q16-16 38.857-16t38.857 16l77.714 77.714q16 16 16 38.857t-16 38.857l-168 168 168 168q16 16 16 38.857z"/></symbol><symbol id="icon-twitter" viewBox="0 0 951 1024"><path class="path1" d="M925.714 233.143q-38.286 56-92.571 95.429 0.571 8 0.571 24 0 74.286-21.714 148.286t-66 142-105.429 120.286-147.429 83.429-184.571 31.143q-154.857 0-283.429-82.857 20 2.286 44.571 2.286 128.571 0 229.143-78.857-60-1.143-107.429-36.857t-65.143-91.143q18.857 2.857 34.857 2.857 24.571 0 48.571-6.286-64-13.143-106-63.714t-42-117.429v-2.286q38.857 21.714 83.429 23.429-37.714-25.143-60-65.714t-22.286-88q0-50.286 25.143-93.143 69.143 85.143 168.286 136.286t212.286 56.857q-4.571-21.714-4.571-42.286 0-76.571 54-130.571t130.571-54q80 0 134.857 58.286 62.286-12 117.143-44.571-21.143 65.714-81.143 101.714 53.143-5.714 106.286-28.571z"/></symbol><symbol id="icon-facebook" viewBox="0 0 585 1024"><path class="path1" d="M548 6.857v150.857h-89.714q-49.143 0-66.286 20.571t-17.143 61.714v108h167.429l-22.286 169.143h-145.143v433.714h-174.857v-433.714h-145.714v-169.143h145.714v-124.571q0-106.286 59.429-164.857t158.286-58.571q84 0 130.286 6.857z"/></symbol><symbol id="icon-google-plus" viewBox="0 0 951 1024"><path class="path1" d="M420 454.857q0 20.571 18.286 40.286t44.286 38.857 51.714 42 44 59.429 18.286 81.143q0 51.429-27.429 98.857-41.143 69.714-120.571 102.571t-170.286 32.857q-75.429 0-140.857-23.714t-98-78.571q-21.143-34.286-21.143-74.857 0-46.286 25.429-85.714t67.714-65.714q74.857-46.857 230.857-57.143-18.286-24-27.143-42.286t-8.857-41.714q0-20.571 12-48.571-26.286 2.286-38.857 2.286-84.571 0-142.571-55.143t-58-139.714q0-46.857 20.571-90.857t56.571-74.857q44-37.714 104.286-56t124.286-18.286h238.857l-78.857 50.286h-74.857q42.286 36 64 76t21.714 91.429q0 41.143-14 74t-33.714 53.143-39.714 37.143-34 35.143-14 37.714zM336.571 400q21.714 0 44.571-9.429t37.714-24.857q30.286-32.571 30.286-90.857 0-33.143-9.714-71.429t-27.714-74-48.286-59.143-66.857-23.429q-24 0-47.143 11.143t-37.429 30q-26.857 33.714-26.857 91.429 0 26.286 5.714 55.714t18 58.857 29.714 52.857 42.857 38.286 55.143 14.857zM337.714 898.857q33.143 0 63.714-7.429t56.571-22.286 41.714-41.714 15.714-62.286q0-14.286-4-28t-8.286-24-15.429-23.714-16.857-20-22-19.714-20.857-16.571-23.714-17.143-20.857-14.857q-9.143-1.143-27.429-1.143-30.286 0-60 4t-61.429 14.286-55.429 26.286-39.143 42.571-15.429 60.286q0 40 20 70.571t52.286 47.429 68 25.143 72.857 8.286zM800.571 398.286h121.714v61.714h-121.714v125.143h-60v-125.143h-121.143v-61.714h121.143v-124h60v124z"/></symbol></defs></svg>
+
+        <header class="bar-header">
+    <h1 class="logo">
+        <a href="/"></a>
+    </h1>
+</header>
+<div class="search-wrapper">
+    <div class="search-form">
+        <input type="text" class="search-field" placeholder="Search...">
+        <svg class="icon-remove-sign"><use xlink:href="#icon-close"></use></svg>
+        <ul class="search-results search-list"></ul>
+    </div>
+</div>
+
+<div class="top-menu">
+    <a href="/about"><i class="fas fa-user-secret"></i> About</a>
+    <a href="/works"><i class="fas fa-id-card"></i> Works</a>
+    <a href="/life"><i class="fas fa-archive"></i> Life</a>
+    <a href="/info"><i class="fas fa-briefcase"></i> Info</a>
+</div>
+<div id="fade" class="overlay"></div>
+<a id="slide" class="slideButton fade">
+    <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+    <svg id="close" class="icon-menu"><use xlink:href="#icon-close"></use></svg>
+</a>
+<aside id="sidebar">
+<nav id="navigation">
+  <h2>MENU</h2>
+  <ul>
+    
+      <li><a href="/"><i class="fas fa-home"></i> Home</a></li>
+    
+      <li><a href="/about"><i class="fas fa-user-secret"></i> About</a></li>
+    
+      <li><a href="/works"><i class="fas fa-id-card"></i> Works</a></li>
+    
+      <li><a href="/life"><i class="fas fa-archive"></i> Life</a></li>
+    
+      <li><a href="/info"><i class="fas fa-briefcase"></i> Info</a></li>
+    
+      <li><a href="/tags"><i class="fas fa-tag"></i> Tags</a></li>
+    
+    <li><a class="feed" href="http://localhost:4000/feed.xml" title="Atom/RSS feed"><i class="fas fa-rss"></i> Feed</a></li>
+  </ul>
+</nav>
+</aside>
+<a id="search" class="dosearch">
+    <svg class="icon-menu icon-search"><use xlink:href="#icon-search"></use></svg>
+</a>
+
+<header class="header-post" role="banner">
+     <div class="content">
+        
+            <time itemprop="datePublished" datetime="2018-09-11T04:15:00+09:00" class="date">11 Sep 2018</time>
+        
+        <h1 class="post-title" itemprop="name">렌파이(Ren'Py), 무료 크로스 플랫폼 시각 소설 엔진</h1>
+        <p itemprop="description" class="subtitle">무료 크로스 플랫폼 시각 소설 엔진</p>
+    </div>
+</header>
+        <section class="post">
+            <article role="article" id="post" class="post-content" itemprop="articleBody">
+                <p><img src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/renpy-7.webp" alt="렌파이(Ren'Py) 7.0" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Official Website</th>
+      <th>Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://renpy.org/"><i class="fa fa-home"></i> Ren’Py</a></td>
+      <td><a href="https://www.renpy.org/release/7.1.0"><i class="fa fa-language"></i> 한국어 번역<br /><i class="fa fa-wrench"></i> 문서 고침, 버그 고침</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="렌파이-renpy">렌파이 (Ren’Py)</h3>
+<p>렌파이는 전세계의 수천 명의 제작자가 사용하는 시각 소설 엔진입니다.  컴퓨터와 휴대기기에서 작동하는 단어와 그림, 소리로 만들어진 대화형 이야기를 전하는 것에 도움을 줄 수 있습니다. 이러한 것들은 시각 소설들과 육성 시뮬레이션 게임 전체가 될 것입니다. 배우기 쉬운 스크립트 언어로 누구나 거대한 시각 소설을 효율적으로 작성할 수 있으며, 파이썬(Python) 스크립팅은 복잡한 시뮬레이션 게임을 제작하기에도 충분합니다.</p>
+
+<p>렌파이는 오픈 소스이며 무료로 상업적인 목적에 사용할 수 있습니다.</p>
+
+<h4 id="왜-렌파이입니까">왜 렌파이입니까?</h4>
+
+<p>렌파이는 디지털 스토리텔링을 위한 무료 크로스 플랫폼 엔진입니다. 단어, 그림 및 소리를 결합하여 시각 소설 및 육성 시뮬레이션 게임을 쉽게 만들 수 있습니다.</p>
+
+<p><strong>시각 소설(Visual Novel)</strong>은 단어, 이미지, 소리 및 음악을 통해 전달되는 컴퓨터 기반의 이야기입니다. 많은 시각 소설은 또한 플레이어에게 이야기를 전달하는 방법을 제어 할 수 있는 선택 항목을 제공합니다.</p>
+
+<p>렌파이의 스크립트 언어를 사용하면 시각 소설 및 기타 글의 분량이 많은 게임을 쉽게 작성할 수 있습니다. 배우기 쉽고 규모가 큰 프로젝트에 잘 맞습니다. 렌파이는 커스터마이징을 하지 않아도 플레이어가 시각 소설에서 기대할 수 있는 기능들을 제공합니다.</p>
+
+<p><strong>육성 시뮬레이션(Life Simulation)</strong>은 경영이나 연애 시뮬레이션 같은 이야기를 게임 플레이와 결합하는 많은 인터렉티브 게임입니다. 렌파이의 스크린 언어는 복잡한 인터페이스를 만들 수 있으며, 프로젝트에 필요한 경우 파이썬 스크립팅 언어 지원을 통해 복잡한 게임 로직을 구현할 수 있습니다.</p>
+
+<h4 id="무료-및-오픈-소스">무료 및 오픈 소스</h4>
+
+<p>렌파이는 상용 및 비상업적인 게임에 자유롭게 사용할 수 있습니다. 렌파이 게임을 배포하기 위해 우리나 다른 사람에게 수수료를 지불할 필요가 없습니다. 렌파이는 이미 다양한 상업용 게임과 함께 사용되고 있습니다.</p>
+
+<p>렌파이는 귀하의 작업을 특정 회사, 웹 서비스 또는 비즈니스 모델에 묶지 않습니다. 렌파이 게임은 수백만 번 디지털 방식으로 다운로드되었으며, USB 드라이브로 옮길 수 있으며, CD로 구워 텍사스에서 도쿄까지의 컨벤션에서 판매되었습니다. 우리는 제작자가 자신의 작업을 배포하는 방법을 선택할 수 있는 것이 중요하다고 생각합니다.</p>
+
+<p>렌파이는 오픈 소스입니다. 즉, 버그를 수정하거나 기능을 추가하기 위해 모든 사람이 이를 변경할 수 있습니다. 물론 <strong>6 년이 넘는 개선</strong>을 기록한 결과 그것들이 필요하다 느껴지지는 않을 것입니다. — 그러나 당신의 프로젝트에 필요한 옵션이 있을 수 있습니다.</p>
+
+<p>mpeg 또는 mp3 지원을 사용한다면 특허 라이센스를 지불해야 합니다. 상업용 게임에서는 이러한 형식을 사용하지 않는 것이 좋습니다.</p>
+
+<h4 id="크로스-플랫폼---컴퓨터와-휴대기기">크로스 플랫폼 - 컴퓨터와 휴대기기</h4>
+
+<p>렌파이의 가장 큰 장점 중 하나는 거의 모든 컴퓨터에서 실행된다는 것입니다. 우리가 지원하는 세 가지 주요 플랫폼이 있습니다:</p>
+
+<ul>
+  <li>Windows XP+ (x86)</li>
+  <li>Mac OS X 10.6+ (x86_64)</li>
+  <li>Linux (x86, x86_64)</li>
+</ul>
+
+<p>렌파이 런처를 사용하면이 세 가지 플랫폼 중 하나에서 게임 버전을 모두 빌드하여 Windows에서 Mac 및 Linux 버전을 개발할 수 있습니다.</p>
+
+<p>렌파이 게임은 이 플랫폼의 다른 소프트웨어에 종속되지 않습니다. 사용자가 런타임, 드라이버, 코덱 등을 내려받을 필요가 없습니다. 사용자가 지원되는 플랫폼 중 하나를 사용하면 렌파이가 실행됩니다. (그렇지 않더라도, PyGame과 같은 휴대용 기술을 사용하여 렌 파이를 작성했으므로 실행할 수 있습니다.)</p>
+
+<p>Android (2.3 이상) 및 iOS (7 이상)는 보조 플랫폼으로 지원됩니다. 렌파이는 이러한 장치에서 실행되지만 개발은 컴퓨터 플랫폼 중 하나에서 이루어져야 합니다.</p>
+
+<h4 id="간단한-스크립팅-언어">간단한 스크립팅 언어</h4>
+
+<p>렌파이를 사용하면 간단한 스크립팅 언어로 시각 소설을 작성할 수 있습니다. 다음은 게임에서 발췌한 작은 부분입니다.</p>
+
+<figure class="highlight"><pre><code class="language-renpy" data-lang="renpy">label family:
+    scene bg beach2
+    with dissolve
+
+    "It wasn't long before Mary broke the silence, by asking me a question."
+
+    show mary dark smiling
+    with dissolve
+
+    m "I told you a little about my family... but I haven't asked you about yours yet. What's your family like?"
+
+    p "When I'm on the island here, I live with my aunt and uncle, but back home, I live with my mother, father, and sister."
+
+    m "A sister? Is she older or younger?"</code></pre></figure>
+
+<p>보시다시피, 이 예제는 작동중인 렌파이 스크립트에서 가져온 것으로, 단순히 게임 스크립트를 타이핑할 때와 비교했을 때 많은 타이핑을 해야 하지 않습니다. 심지어 문자 이름을 축약하여 “Mary” 대신 m으로 쓸 수도 있습니다.</p>
+
+<p>렌파이를 사용하면 중앙의 장소에서 캐릭터와 이미지를 정의할 수 있으므로 게임을 쉽게 변경할 수 있습니다. 스크립트는 일관성을 제공하여 텍스트 및 이미지의 배치가 실수로 게임 내내 변경되지 않도록 합니다.</p>
+
+<p>렌파이 스크립트 언어는 특정 도구를 사용해야 하는 다른 엔진과는 달리, 선택한 텍스트 편집기 및 기타 도구와 함께 작동합니다. jEdit 텍스트 편집기가 포함되어 있지만 더 좋아하는 다른 편집기가 있으면 그것을 사용하면 됩니다. 다른 타사 도구는 게임의 철자를 검사하거나 두 버전의 게임 간의 차이점을 보여줍니다.</p>
+
+<p>렌파이의 스크립팅 언어는 텍스트 기반이므로 어떤 키보드에서든 타이핑할 수 있습니다. 키보드와 마우스 사이를 앞뒤로 전환하지 않아도 되므로 특히 큰 프로젝트를 만들 때 생산성이 향상됩니다.</p>
+
+<h4 id="플레이어가-원하는-기능">플레이어가 원하는 기능</h4>
+
+<p>렌파이는  기본적으로 시각 소설 게임에서 사용자가 기대하는 모든 기능을 포함합니다. 원하는 경우 이러한 기능 대부분을 사용자 정의하거나 비활성화할 수 있지만, 기본적으로 새 게임에는 다음이 포함돼 있습니다:</p>
+
+<ul>
+  <li>사용자가 새 게임을 시작하거나, 게임을 로드하거나, 설정을 조정할 수있는 기본 메뉴.</li>
+  <li>사용자가 설정을 로드, 저장 및 조정할 수 있는 게임 메뉴.</li>
+  <li>게임 자동 저장.</li>
+  <li>롤백. 이전에 표시된 화면을 볼 수 있습니다. 사용자는 두 번째로 다른 선택을 할 수도 있습니다.</li>
+  <li>백그라운드에서 이미지를 로드하는 예측 이미지로드. 이렇게 하면 이미지를 디스크에서 로드하는 동안 사용자가 기다릴 필요가 없습니다.</li>
+  <li>마우스, 키보드 또는 게임 패드를 사용하여 게임을 제어하도록 지원합니다.</li>
+  <li>게임이 전체 화면 모드로 실행되는지 또는 재계산 가능한 창에서 실행되는지 선택하는 기능입니다.</li>
+  <li>읽은 텍스트만 건너뛰는 기능을 포함하여 재생할 때 텍스트를 건너뛸 수있는 기능.</li>
+  <li>키보드를 누르지 않고 텍스트를 자동으로 진행하는 기능. 이렇게 하면 표시되는 텍스트의 양이 조정되므로 텍스트가 길면 길어집니다.</li>
+  <li>텍스트 뒤에 숨겨진 그림을 볼 수 있도록 텍스트를 숨길 수있는 기능.</li>
+  <li>음악, 효과음 및 음성 볼륨을 독립적으로 변경할 수 있는 기능.</li>
+</ul>
+
+<h4 id="쉬운-사용자-정의-및-현지화">쉬운 사용자 정의 및 현지화</h4>
+
+<p>제작자가 렌파이의 보기와 느낌을 정의할 수 있는 많은 방법이 있습니다:</p>
+
+<ul>
+  <li>대화 상자는 기본 ADV 스타일 모드 또는 한 번에 두 개 이상의 텍스트 블록이 화면에 표시되는 NVL 모드로 제공 될 수 있습니다.</li>
+  <li>스타일 시스템을 사용하면 제작자가 텍스트, 버튼, 막대 및 기타 인터페이스 구성 요소의 모양을 사용자 정의할 수 있습니다.</li>
+  <li>렌파이의 스크린 언어는 사용자 인터페이스의 모든 화면 레이아웃과 동작을 제어할 수 있게 합니다.</li>
+  <li>동일한 기능이 런타임시 인터페이스를 변경하도록 선택할 수 있는 게임의 경우 파이썬 코드에서 사용할 수 있습니다.</li>
+</ul>
+
+<p>렌파이 게임은 다양한 언어로 제작되거나 번역되었습니다. 적절한 글꼴을 사용한다면, 게임은 합자를 필요로 하지 않는 언어와 일부를 필요로 하는 언어를 지원합니다.</p>
+
+<h4 id="강력한-효과">강력한 효과</h4>
+
+<p>렌파이는 지원되는 컴퓨터에서 하드웨어 가속 기능을 활용할 수 있으며 그렇지 않은 경우 소프트웨어 지원으로 떨어질 수 있습니다. 이 가속 기능을 사용하면 고화질 이미지에 정교한 효과를 적용할 수 있습니다.</p>
+
+<p>렌파이에 포함된 애니메이션 및 변환 언어를 사용하면 이미지를 애니메이션으로 만들고, 화면에서 움직이고, 회전하고, 크기를 조정하고, 불투명도를 조정할 수 있습니다. 이 모든 것은 시간이 지남에 따라 쉽게 변경될 수 있습니다.</p>
+
+<p>렌파이에는 장면이 바뀔 때 호출 할 수 있는 수십 개의 사용자 지정 가능 장면이 있습니다. 슬라이드, 지우기 및 이동의 전체 세트 외에도 다음이 포함됩니다:</p>
+
+<ul>
+  <li>오래된 장면을 픽셀화하여 새로운 장면으로 픽셀 해제화.</li>
+  <li>검은 색 (또는 다른 색)으로 화면을 없애고 새 장면을 드러냄.</li>
+  <li>전체 화면을 다른 화면으로 전환.</li>
+  <li>이미지 제어 디졸브, 이미지를 사용하여 화면의 어느 부분이 먼저 디졸브되는지 제어합니다. 이것은 혈액 뿌리기에서 진공관 빔에 이르기까지 다양한 강력한 효과의 기초로 사용되었습니다.</li>
+</ul>
+
+<p>렌파이는 또한 동영상 파일 재생을 지원합니다.</p>
+
+<h4 id="호환되는-형식">호환되는 형식</h4>
+
+<p>렌파이는 다양한 인기있는 형식의 자산과 호환됩니다:</p>
+
+<ul>
+  <li>이미지 : JPEG/JPG, PNG, WEBP, BMP, GIF</li>
+  <li>음향/음악 : OGG Vorbis, OPUS, WAV, MP32, MP22</li>
+  <li>영상 : OGG Theora, VP9, VP8, MPEG 4, MPEG 2, MPEG 1</li>
+  <li>확장 가능한 글꼴 : TrueType</li>
+  <li>이미지 기반 글꼴 : SFont, BMFont, MudgeFont</li>
+</ul>
+
+<p>이러한 형식은 특허가 있을 수 있으므로 상업용 게임에 적합하지 않을 수 있습니다.</p>
+
+<h4 id="지속적인-지원">지속적인 지원</h4>
+
+<p>렌파이로 수백 가지 게임이 출시되어 세계에서 가장 널리 사용되는 시각적 소설 엔진 중 하나입니다.</p>
+
+<p>렌 파이를 경험한 많은 제작자가 있으며 그 중 많은 사람들이 동료 제작자를 도울 의향이 있습니다. 지원을 위한 가장 좋은 장소는 <a href="http://lemmasoft.renai.us/forums/">Lemma Soft Forums의 Ren’Py 포럼</a>으로, 9,500 개가 넘는 스레드에 56,000 개 이상의 게시물이 있습니다. 2014년 9월 기준의 정확한 수치입니다.</p>
+
+            </article>
+            <ins class="adsbygoogle"
+     style="display: block; text-align: center;"
+     data-ad-client="ca-pub-8311150416380363"
+     data-ad-slot="7821703093"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"></ins>
+     <script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            <section class="share">
+    <h3>Share</h3>
+    <a aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=&quot;무료 크로스 플랫폼 시각 소설 엔진&quot;%20http://localhost:4000/renpy-cross-platform-visual-novel-engine/%20via%20&#64;LYunseok&hashtags="
+    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
+        <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
+    </a>
+    <a aria-label="Share on Facebook"href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/renpy-cross-platform-visual-novel-engine/"
+    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;" title="Share on Facebook">
+        <svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg>
+    </a>
+    <a aria-label="Share on Google Plus" href="https://plus.google.com/share?url=http://localhost:4000/renpy-cross-platform-visual-novel-engine/"
+    onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" title="Share on Google+">
+        <svg class="icon icon-google-plus"><use xlink:href="#icon-google-plus"></use></svg>
+    </a>
+</section>
+            <section class="author" itemprop="author">
+    <div class="details" itemscope itemtype="http://schema.org/Person">
+        <img itemprop="image" class="img-rounded" src="https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/icons/blog-author.webp" alt="">
+        <p class="def">Author</p>
+        <h3 class="name">
+            <a itemprop="name" href="https://plus.google.com/+113958407890707437458/posts">Lee Yunseok</a>
+        </h3>
+        <p class="desc">Independent Cultural Artist</p>
+        <p><a itemprop="email" class="email" href="mailto:thericke00@gmail.com">thericke00@gmail.com</a></p>
+        <p><a itemprop="github" class="github" href="https://github.com/lee-yunseok">github.com/lee-yunseok</a></p>
+    </div>
+</section>
+
+             
+                <section class="comments">
+    <h3>Comments</h3>
+    <div id="disqus_thread"></div>
+</section>
+<script type="text/javascript">
+    var disqus_loaded = false;
+
+    function load_disqus()
+    {
+        disqus_loaded = true;
+        var disqus_shortname = 'lee-yunseok';
+        var disqus_title = '';
+        var disqus_url = '/renpy-cross-platform-visual-novel-engine/';
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        var ldr = document.getElementById('disqus_loader');
+    };
+    window.onscroll = function(e) {
+        if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {
+            //hit bottom of page
+            if (disqus_loaded==false)
+                load_disqus()
+        }
+    };
+</script>
+
+            
+            <footer>
+    <p><i class="fas fa-copyright"></i> <a href="">Lee Yunseok</a>. Website made with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, hosted on <a href="https://pages.github.com" target="_blank"><i class="fab fa-github"></i> GitHub Pages.</a></p>
+    <p>All literary works/trademarks are property of their respective owners.</p>
+    <p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6CPWSMA5ZSCN&source=url" target="_blank"><img src="https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal" alt="Lee Yunseok" /></a> <a href="https://github.com/lee-yunseok/Lee-Yunseok.github.io/commits/master" target="_blank"><img src="https://img.shields.io/github/commits-since/lee-yunseok/Lee-Yunseok.github.io/5f283b3.svg?style=popout&logo=github" alt="Commit Counts" /></a> <a href="https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/lee-yunseok/Lee-Yunseok.github.io.svg?style=popout&logo=github" alt="License" /></a>
+</footer>
+<script src="/assets/js/main.js"></script>
+
+<script src="/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({ diameter: 56, textColor: '#fff'})</script>
+<script>(function(){var WebP=new Image();WebP.onload=WebP.onerror=function(){if(WebP.height!=2){var sc=document.createElement('script');sc.type='text/javascript';sc.async=true;var s=document.getElementsByTagName('script')[0];sc.src='js/webpjs-0.0.2.min.js';s.parentNode.insertBefore(sc,s);}};WebP.src='data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACyAgCdASoCAAIALmk0mk0iIiIiIgBoSygABc6WWgAA/veff/0PP8bA//LwYAAA';})();</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-40578670-33', 'auto');ga('require', 'displayfeatures');ga('require', 'linkid', 'linkid.js');ga('set', 'anonymizeIp', true);ga('set', 'forceSSL', true);ga('send', 'pageview');</script>
+
+
+        </section>
+    </body>
+</html>
