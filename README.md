@@ -21,6 +21,7 @@ _My personal website project made with [Jekyll](https://jekyllrb.com/), proudly 
 - [Jekyll](https://jekyllrb.com/)
   - [Ruby](https://www.ruby-lang.org/)
   - [RubyGems](https://rubygems.org/)
+  - [Liquid](https://shopify.github.io/liquid/)
   - [Cards](https://github.com/sharu725/cards)
   - [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template)
   - [Jekyll Archives](https://github.com/jekyll/jekyll-archives)
