@@ -2,7 +2,7 @@
   
     {
       "title"    : "깃허브 유니버스 워크숍 2018",
-      "tags"     : "개발, 비즈니스, and 워크숍",
+      "tags"     : "개발, 비즈니스, 워크숍, and 깃허브",
       "categories"     : "Info",
       "url"      : "/info/open%20source/2018/10/01/github-universe-workshop-2018/",
       "date"     : "01 Oct 2018"
@@ -18,7 +18,7 @@
   
     {
       "title"    : "[언리얼 엔진] 포트나이트 트레일러 파이프라인 백서 공개",
-      "tags"     : "개발, 게임, 언리얼엔진, and 트레일러",
+      "tags"     : "개발, 게임, 엔진, 언리얼, and 트레일러",
       "categories"     : "Info",
       "url"      : "/info/software/2018/09/23/fortnite-unreal-engine-trailer-pipeline/",
       "date"     : "23 Sep 2018"
@@ -34,7 +34,7 @@
   
     {
       "title"    : "렌파이(Ren&#39;Py), 무료 크로스 플랫폼 시각 소설 엔진",
-      "tags"     : "",
+      "tags"     : "렌파이, 파이썬, 엔진, 게임, 소설, 창작, 개발, 제작, 무료, 번역, and 프로그래밍",
       "categories"     : "Works",
       "url"      : "/works/participative/2018/09/11/renpy-cross-platform-visual-novel-engine/",
       "date"     : "11 Sep 2018"
@@ -58,7 +58,7 @@
   
     {
       "title"    : "[워드프레스] 구텐베르그 (Gutenberg) 3.7.0과 Yoast SEO 충돌 문제",
-      "tags"     : "SEO, 구텐베르그, 오류, 워드프레스, and 웹개발",
+      "tags"     : "SEO, 구텐베르그, 오류, 워드프레스, 개발, and 웹",
       "categories"     : "Info",
       "url"      : "/info/open%20source/2018/09/02/wordpress-gutenberg-yoast-seo/",
       "date"     : "02 Sep 2018"
@@ -146,7 +146,7 @@
   
     {
       "title"    : "데브리에이트 (Debreate) - 데비안 패키지 빌더 (Debian Package Builder)",
-      "tags"     : "",
+      "tags"     : "리눅스, 데비안, 번역, 패키지, and 깃허브",
       "categories"     : "Works",
       "url"      : "/works/participative/2018/03/26/debreate-debian-package-builder/",
       "date"     : "26 Mar 2018"
@@ -154,7 +154,7 @@
   
     {
       "title"    : "실망실업자 타로 PNP 팩(Discouraged Workers Tarot PNP Pack)",
-      "tags"     : "",
+      "tags"     : "스팀, 실망실업자, 제작, DIY, 카드, 타로, PNP, PDF, and DLC",
       "categories"     : "Works",
       "url"      : "/works/productive/2018/03/03/discouraged-workers-tarot-pnp-pack-dlc/",
       "date"     : "03 Mar 2018"
@@ -162,7 +162,7 @@
   
     {
       "title"    : "실망실업자 - 모드 창작자 개발 키트(Discouraged Workers - MOD Creator Development Kit)",
-      "tags"     : "",
+      "tags"     : "스팀, 실망실업자, 창작, DIY, 렌파이, 개발, DLC, and 프로그래밍",
       "categories"     : "Works",
       "url"      : "/works/productive/2017/12/15/discouraged-workers-mod-creator-development-kit-dlc/",
       "date"     : "15 Dec 2017"
@@ -170,7 +170,7 @@
   
     {
       "title"    : "잼 찾아 삼만 리(Where is My Cranberry Jam?) - 알파 프로토타입 V 0.1.1",
-      "tags"     : "",
+      "tags"     : "게임, 창작, 게임잼, 렌파이, 애니메이션, 복셀, 퍼즐, 어드벤처, 프로토타입, and 실망실업자",
       "categories"     : "Works",
       "url"      : "/works/record/2016/05/20/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype/",
       "date"     : "20 May 2016"
@@ -178,7 +178,7 @@
   
     {
       "title"    : "실망실업자 디지털 아트 북(Discouraged Workers Digital Art Book)",
-      "tags"     : "",
+      "tags"     : "스팀, 실망실업자, 제작, 애니메이션, and DLC",
       "categories"     : "Works",
       "url"      : "/works/productive/2015/11/04/discouraged-workers-digital-art-book-dlc/",
       "date"     : "04 Nov 2015"
@@ -186,7 +186,7 @@
   
     {
       "title"    : "실망실업자 디지털 콘셉트 북(Discouraged Workers Digital Concept Book)",
-      "tags"     : "",
+      "tags"     : "스팀, 실망실업자, 소설, 제작, and DLC",
       "categories"     : "Works",
       "url"      : "/works/productive/2015/10/23/discouraged-workers-digital-concept-book-dlc/",
       "date"     : "23 Oct 2015"
@@ -194,7 +194,7 @@
   
     {
       "title"    : "실망실업자 - 엑스트라즈(Discouraged Workers - Extras)",
-      "tags"     : "",
+      "tags"     : "스팀, 실망실업자, 안드로이드, 라즈베리, 제작, 애니메이션, 디스크, 폼텍, 월페이퍼, 부록, and DLC",
       "categories"     : "Works",
       "url"      : "/works/productive/2015/09/24/discouraged-workers-extras-dlc/",
       "date"     : "24 Sep 2015"
@@ -202,7 +202,7 @@
   
     {
       "title"    : "실망실업자 오리지널 사운드 트랙(Discouraged Workers Original Sound Track)",
-      "tags"     : "",
+      "tags"     : "스팀, 실망실업자, 창작, OST, and DLC",
       "categories"     : "Works",
       "url"      : "/works/productive/2015/09/15/discouraged-workers-original-sound-track-dlc/",
       "date"     : "15 Sep 2015"
@@ -210,7 +210,7 @@
   
     {
       "title"    : "실망실업자(Discouraged Workers)",
-      "tags"     : "",
+      "tags"     : "스팀, 소설, 실망실업자, 창작, 게임잼, 렌파이, 애니메이션, 어두운, 심리적, 이상향, 성인, and 후보",
       "categories"     : "Works",
       "url"      : "/works/creative/2015/06/25/discouraged-workers/",
       "date"     : "25 Jun 2015"
@@ -218,7 +218,7 @@
   
     {
       "title"    : "실망실업자 - 백 투 더 베이직(Discouraged Workers - Back to the Basic)",
-      "tags"     : "",
+      "tags"     : "스팀, 소설, 실망실업자, 오리지널, 창작, 게임잼, 렌파이, 애니메이션, 어두운, 심리적, 이상향, 성인, 후보, and DLC",
       "categories"     : "Works",
       "url"      : "/works/productive/2015/06/25/discouraged-workers-back-to-the-basic-dlc/",
       "date"     : "25 Jun 2015"

@@ -5,8 +5,8 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://Lee-Yunseok.github.io/</link>
     <atom:link href="https://Lee-Yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 12 Jan 2019 04:56:45 +0900</pubDate>
-    <lastBuildDate>Sat, 12 Jan 2019 04:56:45 +0900</lastBuildDate>
+    <pubDate>Sun, 13 Jan 2019 11:12:39 +0900</pubDate>
+    <lastBuildDate>Sun, 13 Jan 2019 11:12:39 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -21,6 +21,8 @@
         <category>비즈니스</category>
         
         <category>워크숍</category>
+        
+        <category>깃허브</category>
         
         
         <category>Info</category>
@@ -60,7 +62,9 @@
         
         <category>게임</category>
         
-        <category>언리얼엔진</category>
+        <category>엔진</category>
+        
+        <category>언리얼</category>
         
         <category>트레일러</category>
         
@@ -99,6 +103,28 @@
         <pubDate>Tue, 11 Sep 2018 04:15:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/participative/2018/09/11/renpy-cross-platform-visual-novel-engine/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/participative/2018/09/11/renpy-cross-platform-visual-novel-engine/</guid>
+        
+        <category>렌파이</category>
+        
+        <category>파이썬</category>
+        
+        <category>엔진</category>
+        
+        <category>게임</category>
+        
+        <category>소설</category>
+        
+        <category>창작</category>
+        
+        <category>개발</category>
+        
+        <category>제작</category>
+        
+        <category>무료</category>
+        
+        <category>번역</category>
+        
+        <category>프로그래밍</category>
         
         
         <category>Works</category>
@@ -164,7 +190,9 @@
         
         <category>워드프레스</category>
         
-        <category>웹개발</category>
+        <category>개발</category>
+        
+        <category>웹</category>
         
         
         <category>Info</category>
@@ -412,6 +440,16 @@
         <link>https://Lee-Yunseok.github.io/works/participative/2018/03/26/debreate-debian-package-builder/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/participative/2018/03/26/debreate-debian-package-builder/</guid>
         
+        <category>리눅스</category>
+        
+        <category>데비안</category>
+        
+        <category>번역</category>
+        
+        <category>패키지</category>
+        
+        <category>깃허브</category>
+        
         
         <category>Works</category>
         
@@ -425,6 +463,24 @@
         <pubDate>Sat, 03 Mar 2018 20:51:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/productive/2018/03/03/discouraged-workers-tarot-pnp-pack-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2018/03/03/discouraged-workers-tarot-pnp-pack-dlc/</guid>
+        
+        <category>스팀</category>
+        
+        <category>실망실업자</category>
+        
+        <category>제작</category>
+        
+        <category>DIY</category>
+        
+        <category>카드</category>
+        
+        <category>타로</category>
+        
+        <category>PNP</category>
+        
+        <category>PDF</category>
+        
+        <category>DLC</category>
         
         
         <category>Works</category>
@@ -440,6 +496,22 @@
         <link>https://Lee-Yunseok.github.io/works/productive/2017/12/15/discouraged-workers-mod-creator-development-kit-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2017/12/15/discouraged-workers-mod-creator-development-kit-dlc/</guid>
         
+        <category>스팀</category>
+        
+        <category>실망실업자</category>
+        
+        <category>창작</category>
+        
+        <category>DIY</category>
+        
+        <category>렌파이</category>
+        
+        <category>개발</category>
+        
+        <category>DLC</category>
+        
+        <category>프로그래밍</category>
+        
         
         <category>Works</category>
         
@@ -453,6 +525,26 @@
         <pubDate>Fri, 20 May 2016 23:15:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/record/2016/05/20/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/record/2016/05/20/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype/</guid>
+        
+        <category>게임</category>
+        
+        <category>창작</category>
+        
+        <category>게임잼</category>
+        
+        <category>렌파이</category>
+        
+        <category>애니메이션</category>
+        
+        <category>복셀</category>
+        
+        <category>퍼즐</category>
+        
+        <category>어드벤처</category>
+        
+        <category>프로토타입</category>
+        
+        <category>실망실업자</category>
         
         
         <category>Works</category>
@@ -468,6 +560,16 @@
         <link>https://Lee-Yunseok.github.io/works/productive/2015/11/04/discouraged-workers-digital-art-book-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2015/11/04/discouraged-workers-digital-art-book-dlc/</guid>
         
+        <category>스팀</category>
+        
+        <category>실망실업자</category>
+        
+        <category>제작</category>
+        
+        <category>애니메이션</category>
+        
+        <category>DLC</category>
+        
         
         <category>Works</category>
         
@@ -481,6 +583,16 @@
         <pubDate>Fri, 23 Oct 2015 05:05:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/productive/2015/10/23/discouraged-workers-digital-concept-book-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2015/10/23/discouraged-workers-digital-concept-book-dlc/</guid>
+        
+        <category>스팀</category>
+        
+        <category>실망실업자</category>
+        
+        <category>소설</category>
+        
+        <category>제작</category>
+        
+        <category>DLC</category>
         
         
         <category>Works</category>
@@ -496,6 +608,28 @@
         <link>https://Lee-Yunseok.github.io/works/productive/2015/09/24/discouraged-workers-extras-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2015/09/24/discouraged-workers-extras-dlc/</guid>
         
+        <category>스팀</category>
+        
+        <category>실망실업자</category>
+        
+        <category>안드로이드</category>
+        
+        <category>라즈베리</category>
+        
+        <category>제작</category>
+        
+        <category>애니메이션</category>
+        
+        <category>디스크</category>
+        
+        <category>폼텍</category>
+        
+        <category>월페이퍼</category>
+        
+        <category>부록</category>
+        
+        <category>DLC</category>
+        
         
         <category>Works</category>
         
@@ -509,6 +643,16 @@
         <pubDate>Tue, 15 Sep 2015 06:08:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/productive/2015/09/15/discouraged-workers-original-sound-track-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2015/09/15/discouraged-workers-original-sound-track-dlc/</guid>
+        
+        <category>스팀</category>
+        
+        <category>실망실업자</category>
+        
+        <category>창작</category>
+        
+        <category>OST</category>
+        
+        <category>DLC</category>
         
         
         <category>Works</category>
@@ -524,6 +668,30 @@
         <link>https://Lee-Yunseok.github.io/works/creative/2015/06/25/discouraged-workers/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/creative/2015/06/25/discouraged-workers/</guid>
         
+        <category>스팀</category>
+        
+        <category>소설</category>
+        
+        <category>실망실업자</category>
+        
+        <category>창작</category>
+        
+        <category>게임잼</category>
+        
+        <category>렌파이</category>
+        
+        <category>애니메이션</category>
+        
+        <category>어두운</category>
+        
+        <category>심리적</category>
+        
+        <category>이상향</category>
+        
+        <category>성인</category>
+        
+        <category>후보</category>
+        
         
         <category>Works</category>
         
@@ -537,6 +705,34 @@
         <pubDate>Thu, 25 Jun 2015 09:00:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/productive/2015/06/25/discouraged-workers-back-to-the-basic-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2015/06/25/discouraged-workers-back-to-the-basic-dlc/</guid>
+        
+        <category>스팀</category>
+        
+        <category>소설</category>
+        
+        <category>실망실업자</category>
+        
+        <category>오리지널</category>
+        
+        <category>창작</category>
+        
+        <category>게임잼</category>
+        
+        <category>렌파이</category>
+        
+        <category>애니메이션</category>
+        
+        <category>어두운</category>
+        
+        <category>심리적</category>
+        
+        <category>이상향</category>
+        
+        <category>성인</category>
+        
+        <category>후보</category>
+        
+        <category>DLC</category>
         
         
         <category>Works</category>

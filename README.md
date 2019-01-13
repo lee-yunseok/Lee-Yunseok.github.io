@@ -1,7 +1,7 @@
 # Lee-Yunseok.github.io
 _My personal website project made with [Jekyll](https://jekyllrb.com/), proudly hosted on [GitHub Pages](https://pages.github.com/). **Currently working with Korean language.**_
 
-[![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6CPWSMA5ZSCN&source=url) [ ![GitHub commits](https://img.shields.io/github/commits-since/lee-yunseok/Lee-Yunseok.github.io/5f283b3.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io/commits/master) [![License](https://img.shields.io/github/license/lee-yunseok/Lee-Yunseok.github.io.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io#license)
+[![Donate Me](https://img.shields.io/badge/Built%20by-Lee%20Yunseok-purple.svg?style=popout&logo=paypal&maxAge=999999](https://paypal.me/leeyunseok) [![Become a Patron](https://img.shields.io/badge/Become%20a-Patron-f96854.svg?style=popout&logo=Patreon&maxAge=999999)](https://www.patreon.com/bePatron?u=347743) [ ![GitHub commits](https://img.shields.io/github/commits-since/lee-yunseok/Lee-Yunseok.github.io/5f283b3.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io/commits/master) [![License](https://img.shields.io/github/license/lee-yunseok/Lee-Yunseok.github.io.svg?style=popout&logo=github)](https://github.com/lee-yunseok/Lee-Yunseok.github.io#license)
 
 ## Development environment
 - 34 years old human
@@ -22,8 +22,8 @@ _My personal website project made with [Jekyll](https://jekyllrb.com/), proudly 
   - [Ruby](https://www.ruby-lang.org/)
   - [RubyGems](https://rubygems.org/)
   - [cards-jekyll-template](https://github.com/willianjusten/cards-jekyll-template)
-  - [Jekyll Paginate V2](https://github.com/sverrirs/jekyll-paginate-v2)
   - [Jekyll Archives](https://github.com/jekyll/jekyll-archives)
+  - [Jekyll Paginate V2](https://github.com/sverrirs/jekyll-paginate-v2)
   - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
 - [Font Awesome](https://fontawesome.com)
 - [jQuery lightSlider](https://github.com/sachinchoolur/lightslider)
