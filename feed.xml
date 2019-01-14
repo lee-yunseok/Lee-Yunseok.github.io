@@ -5,8 +5,8 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://Lee-Yunseok.github.io/</link>
     <atom:link href="https://Lee-Yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Jan 2019 11:12:39 +0900</pubDate>
-    <lastBuildDate>Sun, 13 Jan 2019 11:12:39 +0900</lastBuildDate>
+    <pubDate>Tue, 15 Jan 2019 01:47:06 +0900</pubDate>
+    <lastBuildDate>Tue, 15 Jan 2019 01:47:06 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -512,6 +512,10 @@
         
         <category>프로그래밍</category>
         
+        <category>무료</category>
+        
+        <category>깃허브</category>
+        
         
         <category>Works</category>
         
@@ -545,6 +549,8 @@
         <category>프로토타입</category>
         
         <category>실망실업자</category>
+        
+        <category>무료</category>
         
         
         <category>Works</category>
@@ -630,6 +636,8 @@
         
         <category>DLC</category>
         
+        <category>무료</category>
+        
         
         <category>Works</category>
         
@@ -639,7 +647,7 @@
     
       <item>
         <title>실망실업자 오리지널 사운드 트랙(Discouraged Workers Original Sound Track)</title>
-        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_ost_steam_ko1.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_ost_steam_ko2.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_1.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_2.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_3.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/375160/Discouraged_Workers__Original_Sound_Track/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자---오리지널-사운드-트랙&quot;&gt;실망실업자 - 오리지널 사운드 트랙&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;13개의 &lt;a href=&quot;https://yggdrasilstudio.bandcamp.com/album/discouraged-workers-ost&quot;&gt;사운드 트랙&lt;/a&gt; 수록&lt;/li&gt; &lt;li&gt;록, 오리엔탈, 오케스트라, 크로스오버 음악&lt;/li&gt; &lt;li&gt;48kMHz 320kbps MP3(스팀 플레이어)&lt;/li&gt; &lt;li&gt;PDF 설명서 포함&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://lightscribesoftware.org/&quot;&gt;라이트 스크라이브&lt;/a&gt; 라벨 LSL 포함&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.formtec.co.kr/software/software_detail.html?serial=3&quot;&gt;폼텍&lt;/a&gt; 라벨 DGO 포함&lt;/li&gt; &lt;/ul&gt; &lt;h4 id=&quot;추가-파일-형식&quot;&gt;추가 파일 형식&lt;/h4&gt; &lt;ul&gt;...</description>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_ost_steam_ko1.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_ost_steam_ko2.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_1.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_2.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/11/discouraged_workers_375160_ss_3.webp&quot; alt=&quot;Discouraged Workers OST Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/375160/Discouraged_Workers__Original_Sound_Track/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;iframe src=&quot;https://bandcamp.com/EmbeddedPlayer/album=4255025971/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/&quot; width=&quot;560&quot; height=&quot;120&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;h4 id=&quot;실망실업자---오리지널-사운드-트랙&quot;&gt;실망실업자 - 오리지널 사운드 트랙&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;13개의 &lt;a href=&quot;https://yggdrasilstudio.bandcamp.com/album/discouraged-workers-ost&quot;&gt;사운드 트랙&lt;/a&gt; 수록&lt;/li&gt; &lt;li&gt;록, 오리엔탈, 오케스트라, 크로스오버 음악&lt;/li&gt; &lt;li&gt;48kMHz 320kbps MP3(스팀 플레이어)&lt;/li&gt; &lt;li&gt;PDF 설명서 포함&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://lightscribesoftware.org/&quot;&gt;라이트 스크라이브&lt;/a&gt; 라벨 LSL 포함&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;http://www.formtec.co.kr/software/software_detail.html?serial=3&quot;&gt;폼텍&lt;/a&gt; 라벨 DGO 포함&lt;/li&gt; &lt;/ul&gt;...</description>
         <pubDate>Tue, 15 Sep 2015 06:08:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/productive/2015/09/15/discouraged-workers-original-sound-track-dlc/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2015/09/15/discouraged-workers-original-sound-track-dlc/</guid>
@@ -663,7 +671,7 @@
     
       <item>
         <title>실망실업자(Discouraged Workers)</title>
-        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_logo.webp&quot; alt=&quot;Discouraged Workers Main Logo&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-1.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-2.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-3.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-5.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-6.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-7.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 06&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-8.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 07&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/371120/Discouraged_Workers/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;h4 id=&quot;실망실업자&quot;&gt;실망실업자&lt;/h4&gt; &lt;p&gt;익드라실 스튜디오의 독립창작 진보적 시각 소설 실망실업자. 이 일화는 프로젝트 DW의 다섯...</description>
+        <description>&lt;div class=&quot;yslider&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged_workers_logo.webp&quot; alt=&quot;Discouraged Workers Main Logo&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-1.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 01&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-2.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 02&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-3.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 03&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-5.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 04&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-6.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 05&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-7.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 06&quot; /&gt;&lt;/li&gt; &lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/discouraged-workers-ss-ko-lg-8.webp&quot; alt=&quot;Discouraged Workers Korean Screenshot 07&quot; /&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/371120/Discouraged_Workers/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;iframe src=&quot;https://player.vimeo.com/video/247191774&quot; width=&quot;100%&quot; height=&quot;315&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h4 id=&quot;실망실업자&quot;&gt;실망실업자&lt;/h4&gt; &lt;p&gt;익드라실 스튜디오의 독립창작 진보적...</description>
         <pubDate>Thu, 25 Jun 2015 15:50:00 +0900</pubDate>
         <link>https://Lee-Yunseok.github.io/works/creative/2015/06/25/discouraged-workers/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/creative/2015/06/25/discouraged-workers/</guid>
