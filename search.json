@@ -33,6 +33,22 @@
     } ,
   
     {
+      "title"    : "현대해상 실손의료보험 청구내역",
+      "tags"     : "건강, 보험, 식도염, 현대해상, and 모바일",
+      "categories"     : "Life",
+      "url"      : "/life/diary/2018/12/28/hyundai-hi-k210/",
+      "date"     : "28 Dec 2018"
+    } ,
+  
+    {
+      "title"    : "K21.0 역류성 식도염",
+      "tags"     : "건강, 식도염, and 물혹",
+      "categories"     : "Life",
+      "url"      : "/life/diary/2018/12/24/k210/",
+      "date"     : "24 Dec 2018"
+    } ,
+  
+    {
       "title"    : "[WoW] 복수의 파도, 격전의 어둠해안",
       "tags"     : "게임, 블리자드, 와우, 월드 오브 워크래프트, and MMORPG",
       "categories"     : "Info",
@@ -169,8 +185,16 @@
     } ,
   
     {
+      "title"    : "G44.2 긴장성 두통",
+      "tags"     : "건강, 두통, 불안, MRI, and 물혹",
+      "categories"     : "Life",
+      "url"      : "/life/diary/2018/08/17/g442/",
+      "date"     : "17 Aug 2018"
+    } ,
+  
+    {
       "title"    : "진료 및 MRI 검사를 예약했다.",
-      "tags"     : "건강",
+      "tags"     : "건강 and MRI",
       "categories"     : "Life",
       "url"      : "/life/diary/2018/08/08/diary-2018-08-08/",
       "date"     : "08 Aug 2018"
