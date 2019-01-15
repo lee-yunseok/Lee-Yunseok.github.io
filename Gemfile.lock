@@ -60,6 +60,10 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    tzinfo (2.0.0)
+      concurrent-ruby (~> 1.0)
+    tzinfo-data (1.2018.9)
+      tzinfo (>= 1.0.0)
     wdm (0.1.1)
 
 PLATFORMS
@@ -71,6 +75,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-paginate-v2
   jekyll-seo-tag
+  tzinfo-data
   wdm
 
 BUNDLED WITH
