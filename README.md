@@ -27,6 +27,7 @@ _My personal website project made with [Jekyll](https://jekyllrb.com/), proudly 
   - [Jekyll Archives](https://github.com/jekyll/jekyll-archives)
   - [Jekyll Paginate V2](https://github.com/sverrirs/jekyll-paginate-v2)
   - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)
+  - [TZInfo Data](https://github.com/tzinfo/tzinfo-data)
 - [Font Awesome](https://fontawesome.com)
 - [jQuery lightSlider](https://github.com/sachinchoolur/lightslider)
 - [Shields.io](https://shields.io/)
