@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "[포켓몬스터] 포켓몬고 호연지방 이벤트 시작, 스이쿤 포획 성공!",
+      "tags"     : "AR, 게임, 나이언틱, 모바일, 증강현실, 포켓몬, 포켓몬고, and 포켓몬스터",
+      "categories"     : "Info",
+      "url"      : "/info/game%20news/2019/01/15/pokemon-go-hoenn-jan-2019/",
+      "date"     : "15 Jan 2019"
+    } ,
+  
+    {
       "title"    : "SnS-ERP, 중소기업을 위한 생산관리 솔루션",
       "tags"     : "ERP, 중소기업, 개인사업자, 비즈니스, 제조, 재고, 경리, 회계, and 국산",
       "categories"     : "Info",
@@ -70,6 +78,14 @@
       "categories"     : "Info",
       "url"      : "/info/software/2018/12/14/unreal_cad_realtime/",
       "date"     : "14 Dec 2018"
+    } ,
+  
+    {
+      "title"    : "[카드게임] 하스스톤 2018년 9월 주문도적 플레이 기록",
+      "tags"     : "게임, 도적, 블리자드, 카드, 테스도적, and 하스스톤",
+      "categories"     : "Life",
+      "url"      : "/life/game/2018/10/13/hearthstone-2018-09-miracle-rogue-playlog/",
+      "date"     : "13 Oct 2018"
     } ,
   
     {
@@ -233,6 +249,14 @@
     } ,
   
     {
+      "title"    : "실망실업자 창작일지(KNDW DEV DIARY)",
+      "tags"     : "실망실업자, 창작, 제작, 소설, and 텀블벅",
+      "categories"     : "Works",
+      "url"      : "/works/record/2018/04/03/kndw-dev-diary/",
+      "date"     : "03 Apr 2018"
+    } ,
+  
+    {
       "title"    : "데브리에이트 (Debreate) - 데비안 패키지 빌더 (Debian Package Builder)",
       "tags"     : "리눅스, 데비안, 번역, 패키지, and 깃허브",
       "categories"     : "Works",
@@ -298,7 +322,7 @@
   
     {
       "title"    : "실망실업자(Discouraged Workers)",
-      "tags"     : "스팀, 소설, 실망실업자, 창작, 게임잼, 렌파이, 애니메이션, 어두운, 심리적, 이상향, 성인, and 후보",
+      "tags"     : "스팀, 소설, 실망실업자, 창작, 게임잼, 렌파이, 애니메이션, 어두운, 심리적, 이상향, 성인, 후보, and 텀블벅",
       "categories"     : "Works",
       "url"      : "/works/creative/2015/06/25/discouraged-workers/",
       "date"     : "25 Jun 2015"
