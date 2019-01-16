@@ -5,44 +5,9 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://Lee-Yunseok.github.io/</link>
     <atom:link href="https://Lee-Yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Jan 2019 20:20:39 +0000</pubDate>
-    <lastBuildDate>Wed, 16 Jan 2019 20:20:39 +0000</lastBuildDate>
+    <pubDate>Wed, 16 Jan 2019 20:42:02 +0000</pubDate>
+    <lastBuildDate>Wed, 16 Jan 2019 20:42:02 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>2019년 1월 상반기 근황</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;&lt;em&gt;오른쪽 팔의 편마비와 양쪽 발등이 붓는 증상은 이제 나타나지 않는다. 그러나 마지막 병원 진료 이후에도 사라지지 않은 뒷목 뻗침. 계속된 소화불량과 설사. 왼쪽 가슴이 타들어가는 쓰림, 명치 통증, 역류, 두근거리는 심장, 노래부르다 갑자기 변하는 목소리, 이물감. 왼쪽 눈동자를 따라 움직이는 정체를 알 수 없는 검은 점. 쌔한 느낌과 함께 숨통을 막는 왼쪽 코의 물혹.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;처방전&quot;&gt;처방전&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;비염약 아바미스나잘스프레이(GSK) 120&lt;/li&gt;
-  &lt;li&gt;위산과다증약 놀텍정10mg(일양)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 16 Jan 2019 16:49:22 +0000</pubDate>
-        <link>https://Lee-Yunseok.github.io/life/diary/2019/01/16/diary-jan-first-half/</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.github.io/life/diary/2019/01/16/diary-jan-first-half/</guid>
-        
-        <category>창작</category>
-        
-        <category>개발</category>
-        
-        <category>작업</category>
-        
-        <category>게임</category>
-        
-        <category>소설</category>
-        
-        <category>웹</category>
-        
-        
-        <category>Life</category>
-        
-        <category>Diary</category>
-        
-      </item>
     
       <item>
         <title>[포켓몬스터] 포켓몬고 호연지방 이벤트 시작, 스이쿤 포획 성공!</title>
@@ -792,6 +757,32 @@
         <category>Life</category>
         
         <category>Diary</category>
+        
+      </item>
+    
+      <item>
+        <title>[카드게임] 하스스톤 2018년 6월 주문도적 플레이 기록</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/hearth_stone_2018_june_01.webp&quot; alt=&quot;[카드게임] 하스스톤 2018년 6월 주문도적 플레이 기록&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;하스스톤-2018년-6월-플레이로그&quot;&gt;하스스톤 2018년 6월 플레이로그&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;6월과 함께 선술집에는 시간 여행이라는 흥미로운 사건이 찾아왔습니다. 하지만 여러분은 혼란을 이겨내고 살아남은 것 같군요! 대담하고 짜릿함 모험담이 가득하겠죠? 하스스톤 업적으로 되돌아보고 갖가지 업적을 공유해 주민들의 영감을 자극해주세요. 그런 다음 따뜻한 난롯가에 자리 잡고 앉아 함께 신나게 즐겨봐요!&lt;br /&gt;-Blizzard Entertainment, Inc&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;주인장이 하스스톤을 플레이한 지 한 달이 지났다. MTG나 FM 같은 정통 TCG 게임이 아닌 캐주얼 CCG 게임을 진지하게 하기는 처음이었다. 테스를 넣은 미라클(주문) 도적으로 쭉 플레이했고 나름 재밌게 즐긴 것 같다.&lt;/p&gt; &lt;p&gt;월별 플레이 기록을 누리집에 올릴 생각은 없었는데, 7월 6일에 블리자드에서 전자우편으로...</description>
+        <pubDate>Fri, 06 Jul 2018 21:47:26 +0000</pubDate>
+        <link>https://Lee-Yunseok.github.io/life/game/2018/07/06/hearthstone-2018-06-miracle-rogue-playlog/</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.github.io/life/game/2018/07/06/hearthstone-2018-06-miracle-rogue-playlog/</guid>
+        
+        <category>게임</category>
+        
+        <category>도적</category>
+        
+        <category>블리자드</category>
+        
+        <category>카드</category>
+        
+        <category>테스도적</category>
+        
+        <category>하스스톤</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Game</category>
         
       </item>
     
