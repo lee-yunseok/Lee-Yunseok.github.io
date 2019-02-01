@@ -5,8 +5,8 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://Lee-Yunseok.github.io/</link>
     <atom:link href="https://Lee-Yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 10:30:50 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 10:30:50 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 12:39:38 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 12:39:38 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -177,6 +177,34 @@
         <category>Life</category>
         
         <category>Game</category>
+        
+      </item>
+    
+      <item>
+        <title>KNDW 클론다이크 솔리테어(KNDW Klondike Solitaire)</title>
+        <description>&lt;div class=&quot;yslider&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_1_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 01&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_2_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 02&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_3_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 03&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_4_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 04&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1008420/Discouraged_Workers_MOD__Klondike_Solitaire/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;ul&gt; &lt;li&gt;가장 널리 알려진 솔리테어 카드 게임인 클론다이크를 기반으로 합니다.&lt;/li&gt; &lt;li&gt;우리의 타로 덱으로부터 만들어진 오리지널 카드 이미지를 사용합니다.&lt;/li&gt; &lt;li&gt;조커가 없는 52장의 표준 덱으로 플레이합니다.&lt;/li&gt; &lt;li&gt;에이스에서 왕까지 한 벌인 네 개의 재단이 카드로 구성돼 있습니다.&lt;/li&gt; &lt;li&gt;때때로 태진이 플레이어에게 조언을 해줍니다.&lt;/li&gt; &lt;li&gt;이 미니게임은 프로젝트 DW를 위한 후원 용도로 제작됐습니다.&lt;/li&gt; &lt;li&gt;One Sweetly Solemn Thought.&lt;/li&gt; &lt;/ul&gt;...</description>
+        <pubDate>Mon, 21 Jan 2019 17:00:00 +0000</pubDate>
+        <link>https://Lee-Yunseok.github.io/works/productive/2019/01/21/kndw-klondike-solitaire/</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/productive/2019/01/21/kndw-klondike-solitaire/</guid>
+        
+        <category>스팀</category>
+        
+        <category>실망실업자</category>
+        
+        <category>제작</category>
+        
+        <category>카드</category>
+        
+        <category>DLC</category>
+        
+        <category>게임</category>
+        
+        <category>깃허브</category>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
         
       </item>
     
@@ -797,28 +825,6 @@
         <category>Info</category>
         
         <category>Game News</category>
-        
-      </item>
-    
-      <item>
-        <title>[비즈니스] 아틀라시안 써밋 2018 유럽 라이브 스트림</title>
-        <description>&lt;h3 id=&quot;아틀라시안-써밋-2018&quot;&gt;아틀라시안 써밋 2018&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/atlassian_summit_2018_title.webp&quot; alt=&quot;아틀라시안 써밋 2018(Atlassian Summit 2018)&quot; /&gt;&lt;/p&gt; &lt;p&gt;아틀라시안 써밋 2018이 바르셀로나에서 열린다. 9월 3일부터 9월 5일까지 3일간 열리는 이번 써밋은 새로운 제품 기능들, 독점 발표, 그리고 미래를 위한 계획들을 보고 들을 수 있다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;세계 최고의 차세대 혁신은 당신과 같은 팀에 의해 만들어 질 것입니다. 이것이 우리 팀이 모든 팀의 잠재력을 발휘할 수 있도록 돕고, 매년 우리가 매년 써밋을 개최하는 이유입니다.&lt;br /&gt;다른 사용자들과 함께 우리 팀에 합류하여 영감을 얻고 Atlassian 도구를 사용하는 가장 좋은 방법에 대한 전문가의 조언을 듣고 최신 기술 및 제품 업데이트에 대해 알아보고 세상을 더 좋은 곳으로 만드는 팀을 축하하십시오.&lt;br /&gt;&lt;a href=&quot;https://www.atlassian.com/company/events/summit-europe/about&quot;&gt;-Atlassian&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;...</description>
-        <pubDate>Wed, 29 Aug 2018 21:47:26 +0000</pubDate>
-        <link>https://Lee-Yunseok.github.io/info/software/2018/08/29/atlassian-summit-2018-europe-live-stream/</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.github.io/info/software/2018/08/29/atlassian-summit-2018-europe-live-stream/</guid>
-        
-        <category>라이브</category>
-        
-        <category>생방송</category>
-        
-        <category>비즈니스</category>
-        
-        <category>회담</category>
-        
-        
-        <category>Info</category>
-        
-        <category>Software</category>
         
       </item>
     

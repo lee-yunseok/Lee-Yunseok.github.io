@@ -49,6 +49,14 @@
     } ,
   
     {
+      "title"    : "KNDW 클론다이크 솔리테어(KNDW Klondike Solitaire)",
+      "tags"     : "스팀, 실망실업자, 제작, 카드, DLC, 게임, and 깃허브",
+      "categories"     : "Works",
+      "url"      : "/works/productive/2019/01/21/kndw-klondike-solitaire/",
+      "date"     : "21 Jan 2019"
+    } ,
+  
+    {
       "title"    : "제 15회 IMGA(국제 모바일 게이밍상) 온라인 심사 선임",
       "tags"     : "게임, 게임상, 모바일, 퍼즐, 액션, 플랫포머, 아케이드, 캐주얼, 유니티, iOS, 안드로이드, 애플리케이션, 스팀, IMGA, and 인디케이드",
       "categories"     : "Life",
@@ -322,7 +330,7 @@
   
     {
       "title"    : "실망실업자 창작일지(KNDW DEV DIARY)",
-      "tags"     : "실망실업자, 창작, 제작, 소설, and 텀블벅",
+      "tags"     : "실망실업자, 창작, 제작, 소설, 텀블벅, and 크라우드펀딩",
       "categories"     : "Works",
       "url"      : "/works/record/2018/04/03/kndw-dev-diary/",
       "date"     : "03 Apr 2018"
@@ -342,6 +350,14 @@
       "categories"     : "Works",
       "url"      : "/works/productive/2018/03/03/discouraged-workers-tarot-pnp-pack-dlc/",
       "date"     : "03 Mar 2018"
+    } ,
+  
+    {
+      "title"    : "실망실업자 감독판 물리 패키지(Discouraged Workers Physical Package)",
+      "tags"     : "실망실업자, 제작, DVD, 패키지, 텀블벅, and 크라우드펀딩",
+      "categories"     : "Works",
+      "url"      : "/works/productive/2018/03/02/kndw-physical-package/",
+      "date"     : "02 Mar 2018"
     } ,
   
     {
@@ -394,7 +410,7 @@
   
     {
       "title"    : "실망실업자(Discouraged Workers)",
-      "tags"     : "스팀, 소설, 실망실업자, 창작, 게임잼, 렌파이, 애니메이션, 어두운, 심리적, 이상향, 성인, 게임상, 후보, and 텀블벅",
+      "tags"     : "스팀, 소설, 실망실업자, 창작, 게임잼, 렌파이, 애니메이션, 어두운, 심리적, 이상향, 성인, 게임상, 후보, 텀블벅, and 크라우드펀딩",
       "categories"     : "Works",
       "url"      : "/works/creative/2015/06/25/discouraged-workers/",
       "date"     : "25 Jun 2015"
