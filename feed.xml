@@ -5,9 +5,29 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://Lee-Yunseok.github.io/</link>
     <atom:link href="https://Lee-Yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 12:39:38 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 12:39:38 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Feb 2019 15:21:05 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Feb 2019 15:21:05 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>스팀(Steam) 어워드 2018</title>
+        <description>&lt;p&gt; &lt;video style=&quot;width:100%&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;https://Lee-Yunseok.github.io/assets/Steam_Awards_2018_04_NoCountdown.mp4#t=1&quot; type=&quot;video/mp4&quot; /&gt; &lt;track label=&quot;한국어&quot; kind=&quot;subtitles&quot; srclang=&quot;ko&quot; src=&quot;https://Lee-Yunseok.github.io/assets/steamawards_koreana.vtt&quot; default=&quot;&quot; /&gt; 브라우저가 삽입된 비디오를 지원하지 않거나 비디오가 차단되었습니다. &lt;/video&gt; &lt;/p&gt; &lt;p&gt;세계 최대 디지털 게임 유통 플랫폼 스팀(Steam)에서 한 해 동안 커뮤니티 사용자들로부터 가장 많은 사랑을 받은 타이틀을 선정해 상을 수여하는 게임상인 스팀 어워드 2018이 성황리에 종료됐다. 수많은 쟁쟁한 작품들 중에서 어떤 게임들이 상을 받았는지 살펴보도록 하자.&lt;/p&gt; &lt;hr /&gt; &lt;h2 id=&quot;올해의-게임game-of-the-year&quot;&gt;올해의 게임(GAME OF THE YEAR)&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;몰입감 있는 게임 플레이, 흥미진진한 스토리, 잘 만들어진 캐릭터, 완벽한 디자인, 중독성 강한 멀티 플레이! 그 이유가 무엇이든 2018 올해의 게임 수상작은 명작임이 틀림없습니다.&lt;br /&gt;- Valve&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;h3 id=&quot;플레이어언노운의-배틀그라운드playerunknowns-battlegrounds&quot;&gt;플레이어언노운의 배틀그라운드(PLAYERUNKNOWN’S BATTLEGROUNDS)&lt;/h3&gt;...</description>
+        <pubDate>Sun, 10 Feb 2019 20:28:32 +0000</pubDate>
+        <link>https://Lee-Yunseok.github.io/works/creative/2019/02/10/the-steam-awards-2018/</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.github.io/works/creative/2019/02/10/the-steam-awards-2018/</guid>
+        
+        <category>스팀</category>
+        
+        <category>게임</category>
+        
+        <category>게임상</category>
+        
+        
+        <category>Works</category>
+        
+        <category>Creative</category>
+        
+      </item>
     
       <item>
         <title>[WoW] 다자알로 전투 신화 및 공격대, 복돼지 호그러스 업데이트</title>
@@ -803,28 +823,6 @@
         <category>Info</category>
         
         <category>Open Source</category>
-        
-      </item>
-    
-      <item>
-        <title>[할인] 험블 번들 스토어 (Humble Store) 서머 세일 2018</title>
-        <description>&lt;h3 id=&quot;험블-번들-스토어-서머-세일-2018humble-store-summer-sale-2018&quot;&gt;험블 번들 스토어 서머 세일 2018(Humble Store Summer Sale 2018)&lt;/h3&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/humble_store_summer_sale_2018.webp&quot; alt=&quot;험블 번들 스토어 여름 할인 2018(Humble Store Summer Sale 2018)&quot; /&gt;&lt;/p&gt; &lt;p&gt;험블 번들 스토어의 여름 할인이 돌아왔다. 현지 시각 8월 31일 험블 번들은 자사가 운영하는 스토어에서 대규모 할인이 열렸음을 홍보하기 시작했다. 워해머 40K: 스페이스 마린의 기간 한정 무료 배포와 수많은 디지털 게임들의 할인, 보상, 그리고 사전예약까지. 게이머들 뿐만 아니라 일반 대중들의 마음을 사로잡을 이번 할인 행사와 험블 번들이 추천하는 주요 게임들을 간략히 소개한다.&lt;/p&gt; &lt;h3 id=&quot;한시적-무료---워해머-40k-스페이스-마린-warhammer-40k-space-marine&quot;&gt;한시적 무료 - 워해머 40K: 스페이스 마린( Warhammer 40K: Space Marine)&lt;/h3&gt; &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sdVD6d1rGsM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;워해머...</description>
-        <pubDate>Fri, 31 Aug 2018 10:00:26 +0000</pubDate>
-        <link>https://Lee-Yunseok.github.io/info/game%20news/2018/08/31/humble-bundle-store-summer-sale-2018/</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.github.io/info/game%20news/2018/08/31/humble-bundle-store-summer-sale-2018/</guid>
-        
-        <category>게임</category>
-        
-        <category>무료</category>
-        
-        <category>에누리</category>
-        
-        <category>할인</category>
-        
-        
-        <category>Info</category>
-        
-        <category>Game News</category>
         
       </item>
     
