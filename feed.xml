@@ -5,13 +5,33 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://Lee-Yunseok.github.io/</link>
     <atom:link href="https://Lee-Yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Feb 2019 16:39:33 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Feb 2019 16:39:33 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Feb 2019 23:43:23 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Feb 2019 23:43:23 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
+        <title>어도비 크리에이티브 클라우드 제거 방법</title>
+        <description>&lt;h2 id=&quot;어도비-크리에이티브-클라우드-제거-방법&quot;&gt;어도비 크리에이티브 클라우드 제거 방법&lt;/h2&gt; &lt;p&gt;어도비 크리에이티브 클라우드 데스크톱 언인스톨러에서 크리에이티브 클라우드를 시스템이 사용하고 있어 제거할 수 없다는 오류 발생시 해결하는 방법이다. 어도비 헬프 센터에서 아래의 파일을 내려받아 압축을 해제하고 실행하면 정상적으로 제거할 수 있다.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_155001340483318&amp;amp;key=aa2ef8ff0b1467de7b638fbf82917f2b&amp;amp;libId=js2durl501013x3g000DAbhmq7pcm&amp;amp;loc=https%3A%2F%2Ftechjourney.net%2Fhow-to-uninstall-adobe-creative-cloud-desktop%2F&amp;amp;v=1&amp;amp;out=https%3A%2F%2Fhelpx.adobe.com%2Fcontent%2Fdam%2Fhelp%2Fen%2Fcreative-cloud%2Fhelp%2Funinstall-creative-cloud-desktop-app%2F_jcr_content%2Fmain-pars%2Fdownload_section%2Fdownload-1%2FCreative%2520Cloud%2520Uninstaller.zip&amp;amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;amp;title=How%20to%20Uninstall%20Adobe%20Creative%20Cloud%20Desktop%20-%20Tech%20Journey&amp;amp;txt=Creative%20Cloud%20Uninstaller.zip&quot;&gt;윈도우즈 사용자&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://redirect.viglink.com/?format=go&amp;amp;jsonp=vglnk_155001342502420&amp;amp;key=aa2ef8ff0b1467de7b638fbf82917f2b&amp;amp;libId=js2durl501013x3g000DAbhmq7pcm&amp;amp;loc=https%3A%2F%2Ftechjourney.net%2Fhow-to-uninstall-adobe-creative-cloud-desktop%2F&amp;amp;v=1&amp;amp;out=https%3A%2F%2Fhelpx.adobe.com%2Fcontent%2Fdam%2Fhelp%2Fen%2Fcreative-cloud%2Fhelp%2Funinstall-creative-cloud-desktop-app%2F_jcr_content%2Fmain-pars%2Fdownload_section_1287376066%2Fdownload-1%2FCreative%2520Cloud%2520Uninstaller.zip&amp;amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;amp;title=How%20to%20Uninstall%20Adobe%20Creative%20Cloud%20Desktop%20-%20Tech%20Journey&amp;amp;txt=Creative%20Clou%20Uninstaller.zip&quot;&gt;맥OS 사용자&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h3 id=&quot;파일-탐색기에서-크리에이티브-클라우드-바로-가기-제거-방법&quot;&gt;파일 탐색기에서 크리에이티브 클라우드 바로 가기 제거 방법&lt;/h3&gt; &lt;p&gt;윈도우즈 파일 탐색기에 바로 가기가 남은 경우에는 아래의 방법을 따르면 된다.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;키보드의 &lt;strong&gt;Windows + R&lt;/strong&gt; 키를 눌러 &lt;strong&gt;실행&lt;/strong&gt; 창을 열고 &lt;strong&gt;regedit&lt;/strong&gt;를 입력하여 확인을 누른다.&lt;/li&gt; &lt;li&gt;레지스트리 편집기가 실행되면 키보드의 &lt;strong&gt;Ctrl(Control) + F&lt;/strong&gt; 키를 누른다.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;찾기&lt;/strong&gt; 창이 뜨면 &lt;strong&gt;Creative Cloud Files&lt;/strong&gt;를 &lt;strong&gt;찾을 내용&lt;/strong&gt;에 입력하고, &lt;strong&gt;찾을 대상&lt;/strong&gt;에서 &lt;strong&gt;키&lt;/strong&gt;와 &lt;strong&gt;값&lt;/strong&gt;을...</description>
+        <pubDate>Tue, 12 Feb 2019 06:42:37 +0000</pubDate>
+        <link>https://Lee-Yunseok.github.io/info/software/2019/02/12/remove-adobe-creative-cloud/</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.github.io/info/software/2019/02/12/remove-adobe-creative-cloud/</guid>
+        
+        <category>어도비</category>
+        
+        <category>오류</category>
+        
+        <category>클라우드</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Software</category>
+        
+      </item>
+    
+      <item>
         <title>스팀(Steam) 어워드 2018</title>
-        <description>&lt;p&gt; &lt;video style=&quot;width:100%&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;https://Lee-Yunseok.github.io/assets/Steam_Awards_2018_04_NoCountdown.webm#t=1&quot; type=&quot;video/mp4&quot; /&gt; &lt;track label=&quot;한국어&quot; kind=&quot;subtitles&quot; srclang=&quot;ko&quot; src=&quot;https://Lee-Yunseok.github.io/assets/steamawards_koreana.vtt&quot; default=&quot;&quot; /&gt; 브라우저가 삽입된 비디오를 지원하지 않거나 비디오가 차단되었습니다. &lt;/video&gt; &lt;/p&gt; &lt;p&gt;세계 최대 디지털 게임 유통 플랫폼 스팀(Steam)에서 한 해 동안 커뮤니티 사용자들로부터 가장 많은 사랑을 받은 타이틀을 선정해 상을 수여하는 게임상인 스팀 어워드 2018이 성황리에 종료됐다. 수많은 쟁쟁한 작품들 중에서 어떤 게임들이 상을 받았는지 살펴보도록 하자.&lt;/p&gt; &lt;hr /&gt; &lt;h2 id=&quot;올해의-게임game-of-the-year&quot;&gt;올해의 게임(GAME OF THE YEAR)&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;몰입감 있는 게임 플레이, 흥미진진한 스토리, 잘 만들어진 캐릭터, 완벽한 디자인, 중독성 강한 멀티 플레이! 그 이유가 무엇이든 2018 올해의 게임 수상작은 명작임이 틀림없습니다.&lt;br /&gt;- Valve&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;h3 id=&quot;플레이어언노운의-배틀그라운드playerunknowns-battlegrounds&quot;&gt;플레이어언노운의 배틀그라운드(PLAYERUNKNOWN’S BATTLEGROUNDS)&lt;/h3&gt;...</description>
+        <description>&lt;p&gt; &lt;video style=&quot;width:100%&quot; controls=&quot;&quot;&gt; &lt;source src=&quot;https://Lee-Yunseok.github.io/assets/Steam_Awards_2018_04_NoCountdown.webm&quot; type=&quot;video/mp4&quot; /&gt; 브라우저가 삽입된 비디오를 지원하지 않거나 비디오가 차단되었습니다. &lt;/video&gt; &lt;/p&gt; &lt;p&gt;세계 최대 디지털 게임 유통 플랫폼 스팀(Steam)에서 한 해 동안 커뮤니티 사용자들로부터 가장 많은 사랑을 받은 타이틀을 선정해 상을 수여하는 게임상인 스팀 어워드 2018이 성황리에 종료됐다. 수많은 쟁쟁한 작품들 중에서 어떤 게임들이 상을 받았는지 살펴보도록 하자.&lt;/p&gt; &lt;hr /&gt; &lt;h2 id=&quot;올해의-게임game-of-the-year&quot;&gt;올해의 게임(GAME OF THE YEAR)&lt;/h2&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;몰입감 있는 게임 플레이, 흥미진진한 스토리, 잘 만들어진 캐릭터, 완벽한 디자인, 중독성 강한 멀티 플레이! 그 이유가 무엇이든 2018 올해의 게임 수상작은 명작임이 틀림없습니다.&lt;br /&gt;- Valve&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;h3 id=&quot;플레이어언노운의-배틀그라운드playerunknowns-battlegrounds&quot;&gt;플레이어언노운의 배틀그라운드(PLAYERUNKNOWN’S BATTLEGROUNDS)&lt;/h3&gt; &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fDLAFIhfFy4&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay;...</description>
         <pubDate>Sun, 10 Feb 2019 20:28:32 +0000</pubDate>
         <link>https://Lee-Yunseok.github.io/info/game%20news/2019/02/10/the-steam-awards-2018/</link>
         <guid isPermaLink="true">https://Lee-Yunseok.github.io/info/game%20news/2019/02/10/the-steam-awards-2018/</guid>
@@ -797,32 +817,6 @@
         <category>Life</category>
         
         <category>Diary</category>
-        
-      </item>
-    
-      <item>
-        <title>[워드프레스] 구텐베르그 (Gutenberg) 3.7.0과 Yoast SEO 충돌 문제</title>
-        <description>&lt;h3 id=&quot;구텐베르그-yoast-seo와의-충돌로-사용불가&quot;&gt;구텐베르그, Yoast SEO와의 충돌로 사용불가&lt;/h3&gt; &lt;p&gt;2018년 9월 2일 새벽 워드프레스의 에디터 플러그인 &lt;strong&gt;구텐베르그가 3.7.0 업데이트 이후 Yoase SEO 8.1과 충돌&lt;/strong&gt;해 구글의 크롬 브라우저에서 getCollectionByRoute TypeError가 발생했다.&lt;/p&gt; &lt;p&gt;TypeError: Cannot read property ‘getCollectionByRoute’ of undefined 메시지를 화면에 출력하며 &lt;strong&gt;에디터 자체를 사용할 수 없게 되는 문제&lt;/strong&gt;로, 주인장의 경우 새 글을 추가하거나 저장된 글을 편집하려고 하면 위 오류 메시지가 출력됐다.&lt;/p&gt; &lt;p&gt;무슨 일인지 알아보기 위해 &lt;a href=&quot;https://github.com/Yoast/wordpress-seo/issues/10867&quot;&gt;Yoast.com의 깃허브(GitHub)&lt;/a&gt;를 방문해 이슈를 둘러봤고 아주 쉽게 동일한 케이스를 찾을 수 있었다.&lt;/p&gt; &lt;p&gt;또한, Yoast.com의 엔지니어 알렉산더 보테람(Alexander Botteram)이 &lt;strong&gt;Yoast SEO의 다음 릴리즈까지 임시로 문제를 해결할 수 있는 파일을 공유&lt;/strong&gt;하고 있는 것을 확인했다.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2018/09/wordpress_gutenberg_editor_crash_with_yoast_seo.webp&quot; alt=&quot;﻿Crash the Wordpress Gutenberg...</description>
-        <pubDate>Sun, 02 Sep 2018 06:13:26 +0000</pubDate>
-        <link>https://Lee-Yunseok.github.io/info/open%20source/2018/09/02/wordpress-gutenberg-yoast-seo/</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.github.io/info/open%20source/2018/09/02/wordpress-gutenberg-yoast-seo/</guid>
-        
-        <category>SEO</category>
-        
-        <category>구텐베르그</category>
-        
-        <category>오류</category>
-        
-        <category>워드프레스</category>
-        
-        <category>개발</category>
-        
-        <category>웹</category>
-        
-        
-        <category>Info</category>
-        
-        <category>Open Source</category>
         
       </item>
     
