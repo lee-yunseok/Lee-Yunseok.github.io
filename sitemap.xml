@@ -102,10 +102,6 @@
         </url>
     
         <url>
-            <loc>https://Lee-Yunseok.github.io/tag/%EC%8A%A4%ED%8C%80/</loc>
-        </url>
-    
-        <url>
             <loc>https://Lee-Yunseok.github.io/tag/%EC%86%8C%EC%84%A4/</loc>
         </url>
     
@@ -114,23 +110,11 @@
         </url>
     
         <url>
-            <loc>https://Lee-Yunseok.github.io/tag/%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/</loc>
-        </url>
-    
-        <url>
             <loc>https://Lee-Yunseok.github.io/tag/%EC%B0%BD%EC%9E%91/</loc>
         </url>
     
         <url>
-            <loc>https://Lee-Yunseok.github.io/tag/%EA%B2%8C%EC%9E%84%EC%9E%BC/</loc>
-        </url>
-    
-        <url>
             <loc>https://Lee-Yunseok.github.io/tag/%EB%A0%8C%ED%8C%8C%EC%9D%B4/</loc>
-        </url>
-    
-        <url>
-            <loc>https://Lee-Yunseok.github.io/tag/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/</loc>
         </url>
     
         <url>
@@ -143,6 +127,30 @@
     
         <url>
             <loc>https://Lee-Yunseok.github.io/tag/%EC%9D%B4%EC%83%81%ED%96%A5/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/tag/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/tag/%EB%AC%B4%EB%A3%8C/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/tag/%EC%8A%A4%ED%8C%80/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/tag/%EC%98%A4%EB%A6%AC%EC%A7%80%EB%84%90/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/tag/%EA%B2%8C%EC%9E%84%EC%9E%BC/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/tag/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98/</loc>
         </url>
     
         <url>
@@ -202,10 +210,6 @@
         </url>
     
         <url>
-            <loc>https://Lee-Yunseok.github.io/tag/%EB%AC%B4%EB%A3%8C/</loc>
-        </url>
-    
-        <url>
             <loc>https://Lee-Yunseok.github.io/tag/%EC%95%84%ED%8A%B8/</loc>
         </url>
     
@@ -223,10 +227,6 @@
     
         <url>
             <loc>https://Lee-Yunseok.github.io/tag/%EC%96%B4%EB%93%9C%EB%B2%A4%EC%B2%98/</loc>
-        </url>
-    
-        <url>
-            <loc>https://Lee-Yunseok.github.io/tag/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/</loc>
         </url>
     
         <url>
@@ -766,15 +766,15 @@
         </url>
     
         <url>
+            <loc>https://Lee-Yunseok.github.io/category/record/</loc>
+        </url>
+    
+        <url>
             <loc>https://Lee-Yunseok.github.io/category/productive/</loc>
         </url>
     
         <url>
             <loc>https://Lee-Yunseok.github.io/category/creative/</loc>
-        </url>
-    
-        <url>
-            <loc>https://Lee-Yunseok.github.io/category/record/</loc>
         </url>
     
         <url>
@@ -815,6 +815,18 @@
     
         <url>
             <loc>https://Lee-Yunseok.github.io/category/donation/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/2013/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/2013/05/</loc>
+        </url>
+    
+        <url>
+            <loc>https://Lee-Yunseok.github.io/2013/05/14/</loc>
         </url>
     
         <url>
@@ -1428,6 +1440,10 @@
   
         <url>
             <loc>https://Lee-Yunseok.github.io/works/productive/2015/06/25/discouraged-workers-back-to-the-basic-dlc/</loc>
+        </url>
+  
+        <url>
+            <loc>https://Lee-Yunseok.github.io/works/record/2013/05/14/discouraged-workers-alpha-prototype/</loc>
         </url>
   
 </urlset>
