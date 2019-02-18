@@ -1,6 +1,54 @@
 [
   
     {
+      "title"    : "[인테이크] 밀스 바 크라우드펀딩 시작",
+      "tags"     : "인테이크, 식품, 크라우드펀딩, 할인, and 에누리",
+      "categories"     : "Info",
+      "url"      : "/info/lifetime/2019/02/17/intake-meals-bar-crowdfunding/",
+      "date"     : "17 Feb 2019"
+    } ,
+  
+    {
+      "title"    : "AWS 써밋 서울 2019",
+      "tags"     : "아마존, AWS, 비즈니스, 회담, IT, and 서울",
+      "categories"     : "Info",
+      "url"      : "/info/software/2019/02/17/amazon-aws-summit-seoul-2019/",
+      "date"     : "17 Feb 2019"
+    } ,
+  
+    {
+      "title"    : "[포켓몬고] 밸런타인데이 &amp; 2월 커뮤니티데이",
+      "tags"     : "AR, 게임, 나이언틱, 모바일, 증강현실, 포켓몬, 포켓몬고, and 포켓몬스터",
+      "categories"     : "Life",
+      "url"      : "/life/game/2019/02/16/pokemon-go-valentines-community-feb/",
+      "date"     : "16 Feb 2019"
+    } ,
+  
+    {
+      "title"    : "[언리얼 엔진] 언리얼 엔진 4.22 프리뷰 1 출시",
+      "tags"     : "개발, 게임, 엔진, 언리얼, and 무료",
+      "categories"     : "Info",
+      "url"      : "/info/software/2019/02/15/unreal-engine-4-4-22-preview-1/",
+      "date"     : "15 Feb 2019"
+    } ,
+  
+    {
+      "title"    : "라즈베리파이 카메라 리본 케이블 구매",
+      "tags"     : "라즈베리파이, 케이블, IT, 네이버, 스마트스토어, and 쇼핑",
+      "categories"     : "Life",
+      "url"      : "/life/diary/2019/02/14/raspberry-pi-camera-ribbon-cable-naver-shopping/",
+      "date"     : "14 Feb 2019"
+    } ,
+  
+    {
+      "title"    : "[언리얼 엔진] 2019년 2월 마켓플레이스 무료 콘텐츠",
+      "tags"     : "개발, 게임, 엔진, 언리얼, and 무료",
+      "categories"     : "Info",
+      "url"      : "/info/software/2019/02/13/unreal-engine-4-marketplace-free-contents-feb/",
+      "date"     : "13 Feb 2019"
+    } ,
+  
+    {
       "title"    : "[포켓몬고] GO스냅샷 예고 &amp; 로즈레이드 진화 및 강화 완료",
       "tags"     : "AR, 게임, 나이언틱, 모바일, 증강현실, 포켓몬, 포켓몬고, and 포켓몬스터",
       "categories"     : "Life",
@@ -122,7 +170,7 @@
   
     {
       "title"    : "AWS Innovate 온라인 컨퍼런스 2019",
-      "tags"     : "아마존, AWS, 비즈니스, 컨퍼런스, 인공지능, 머신러닝, and AI",
+      "tags"     : "아마존, AWS, 비즈니스, 컨퍼런스, 인공지능, 머신러닝, AI, and IT",
       "categories"     : "Info",
       "url"      : "/info/software/2019/01/14/amazon-aws-innovate-online-conference-2019/",
       "date"     : "14 Jan 2019"
@@ -210,7 +258,7 @@
   
     {
       "title"    : "깃허브 유니버스 워크숍 2018",
-      "tags"     : "개발, 비즈니스, 워크숍, 깃허브, and 컨퍼런스",
+      "tags"     : "개발, 비즈니스, 워크숍, 깃허브, 컨퍼런스, and IT",
       "categories"     : "Info",
       "url"      : "/info/open%20source/2018/09/30/github-universe-workshop-2018/",
       "date"     : "30 Sep 2018"
@@ -282,7 +330,7 @@
   
     {
       "title"    : "[비즈니스] 아틀라시안 써밋 2018 유럽 라이브 스트림",
-      "tags"     : "라이브, 생방송, 비즈니스, and 회담",
+      "tags"     : "라이브, 생방송, 비즈니스, 회담, and IT",
       "categories"     : "Info",
       "url"      : "/info/software/2018/08/29/atlassian-summit-2018-europe-live-stream/",
       "date"     : "29 Aug 2018"
