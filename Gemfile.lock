@@ -72,7 +72,6 @@ DEPENDENCIES
   jekyll-archives
   jekyll-feed
   jekyll-paginate-v2
-  jekyll-seo-tag
   tzinfo-data
   wdm
 
