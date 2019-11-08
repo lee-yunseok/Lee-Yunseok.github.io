@@ -9,10 +9,10 @@ _My personal website project made with &heart; and [Jekyll](https://jekyllrb.com
 - [Raspbian](https://www.raspbian.org/)
 - [Chromium Web Browser](https://www.chromium.org/Home)
   - [DuckDuckGo](https://duckduckgo.com/)
-- [Guake Terminal](http://guake.org/
+- [Guake Terminal](http://guake.org/)
 - [Geany](https://www.geany.org/)
 - [muCommander](http://www.mucommander.com/)
-- [GitHub Personal Website][https://github.dev/]
+- [GitHub Personal Website](https://github.dev/)
 - [Jekyll](https://jekyllrb.com/)
   - [Ruby](https://www.ruby-lang.org/)
   - [RubyGems](https://rubygems.org/)
