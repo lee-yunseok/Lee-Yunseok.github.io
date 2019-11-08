@@ -6,7 +6,7 @@ _My personal website project made with &heart; and [Jekyll](https://jekyllrb.com
 ## Development environment
 - 34 years old human
 - [Raspberry Pi 4](https://www.raspberrypi.org/)
-- [Raspbian](https://www.raspbian.org/)
+  - [Raspbian](https://www.raspbian.org/)
 - [Chromium Web Browser](https://www.chromium.org/Home)
   - [DuckDuckGo](https://duckduckgo.com/)
 - [Guake Terminal](http://guake.org/)
