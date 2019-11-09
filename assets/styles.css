@@ -208,6 +208,8 @@
 
 .f4 img { max-width: 100%; }
 
+.contact p { margin-top: 10px; }
+
 .contact input { width: 90%; }
 
 .contact textarea { width: 90%; height: 200px; }
