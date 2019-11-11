@@ -7,8 +7,7 @@ _My personal website project made with :hearts: and [Jekyll](https://jekyllrb.co
 - 34 years old human
 - [Raspberry Pi 4](https://www.raspberrypi.org/)
   - [Raspbian](https://www.raspbian.org/)
-- [Firefox ESR](https://www.mozilla.org/firefox/enterprise/)
-  - [Tor Project](https://www.torproject.org/)
+- [Chromium Web Browser](https://www.chromium.org/Home)
   - [DuckDuckGo](https://duckduckgo.com/)
 - [Guake Terminal](http://guake.org/)
 - [Geany](https://www.geany.org/)
@@ -38,9 +37,8 @@ _My personal website project made with :hearts: and [Jekyll](https://jekyllrb.co
 - [Google Webmasters](https://www.google.com/webmasters/)
 - [Naver Webmaster Tools](https://webmastertool.naver.com/)
 
-## Build your own website with this theme
-
-My website theme is an blogger friendly [Jekyll](https://jekyllrb.com/docs/) expansion port of GitHub official [personal website](https://github.com/github/personal-website) theme. To use this, please visit my [Jekyll Porsonal Website](https://github.com/lee-yunseok/jekyll-personal-website) repository.
+## Usage for build your blog
+Coming soon
 
 ### License
 _The codes of my website is covered by the terms of the [MIT License](https://github.com/lee-yunseok/Lee-Yunseok.github.io/blob/master/LICENSE).  

@@ -5,9 +5,316 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://Lee-Yunseok.GitHub.io</link>
     <atom:link href="https://Lee-Yunseok.GitHub.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Nov 2019 17:26:41 +0900</pubDate>
-    <lastBuildDate>Sat, 09 Nov 2019 17:26:41 +0900</lastBuildDate>
+    <pubDate>Mon, 11 Nov 2019 17:52:07 +0900</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2019 17:52:07 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>지킬 개인 웹사이트 테마(Jekyll Personal Website Theme)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/11/jekyll-personal-website-posts-cards-screenshot.webp&quot; alt=&quot;Jekyll Personal Website Theme screenshot&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;지킬-개인-웹사이트-테마jekyll-personal-website-theme&quot;&gt;지킬 개인 웹사이트 테마(Jekyll Personal Website Theme)&lt;/h2&gt; &lt;p&gt;이 테마는 깃허브 공식 &lt;a href=&quot;https://github.com/github/personal-website&quot;&gt;personal website&lt;/a&gt;를 지킬(Jekyll)을 중점으로 사용해 보다 전문적인 블로거에 친화적으로 기능하도록 확장한 포트입니다. 카드형 아카이브와 최근 글을 지원합니다. 각각의 포스트에는 이미지 슬라이더와 이전 및 다음 글, 관련 글, 댓글을 지원합니다. 카드 아카이브는 카테고리별 페이지네이션을 사용할 수 있습니다. 쉽게 메타데이터와 애널리틱스, 소유권 확인, RSS 피드와 사이트맵을 사용하도록 설계됐습니다. 컨택트 폼 또한 지원합니다.&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;당신의-소프트웨어-개발-기술을-시연&quot;&gt;당신의 소프트웨어 개발 기술을 시연&lt;/h3&gt; &lt;p&gt;이 레포지토리는 당신이 소프트웨어 개발자로서 시연할 수 있는 개인 웹사이트를 빠르게 시작할 수 있는 코드를 제공합니다. 또한 당신이 깃허브 레포지토리의 코드를...</description>
+        <pubDate>Mon, 11 Nov 2019 02:38:26 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/works/productive/2019/11/11/jekyll-personal-website-theme-github-pages.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/works/productive/2019/11/11/jekyll-personal-website-theme-github-pages.html</guid>
+        
+        <category>지킬</category>
+        
+        <category>Jekyll</category>
+        
+        <category>테마</category>
+        
+        <category>깃허브</category>
+        
+        <category>개발</category>
+        
+        <category>웹</category>
+        
+        <category>웹사이트</category>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>[인테이크] 바이탈 워터 와디즈 크라우드펀딩 펀딩 완료</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/11/intake_wadiz_vital_water.webp&quot; alt=&quot;인테이크 바이탈 워터 홍보 이미지&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;인테이크-바이탈-워터-크라우드펀딩&quot;&gt;인테이크 바이탈 워터 크라우드펀딩&lt;/h2&gt; &lt;p&gt;식품 스타트업 인테이크가 와디즈에서 바이탈 워터로 크라우드펀딩을 시작했다. 1년 동안 연구개발한 음료로 &lt;strong&gt;확실한 수분과 전해질 흡수&lt;/strong&gt;를 위해 설계하여 타우린과 비타민B, 비타민C, 강황을 첨가한 &lt;strong&gt;자몽맛&lt;/strong&gt; 바이탈 워터다. 한 손에 쏙 들어오는 휴대폰 정도의 크기로 휴대가 간편하다.&lt;/p&gt; &lt;p&gt;인테이크는 와디즈에서 이미 10 번의 크라우드펀딩을 진행했으며 현재 진행하고 있는 바이탈 워터의 경우에는 주인장의 글 작성 시간을 기준으로 목표금액의 1015%를 달성했고 14일 정도의 기간이 남아있다.&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/11/intake_wadiz_vital_water_funding.webp&quot; alt=&quot;주인장도 펀딩에 참여했다&quot; /&gt;&lt;/p&gt; &lt;p&gt;주인장은 이미 삼시세끼를 인테이크의 밀스와 흑당 미숫가루에 위탁하고 있을 정도로 인테이크의 &lt;strong&gt;미래형 식사&lt;/strong&gt; 식품에 긍정적이기 때문에 주저없이 펀딩에 참여했다. 12월 초에...</description>
+        <pubDate>Sat, 09 Nov 2019 00:30:13 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/info/lifetime/2019/11/09/intake-wadiz-vital-water-funding.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/info/lifetime/2019/11/09/intake-wadiz-vital-water-funding.html</guid>
+        
+        <category>와디즈</category>
+        
+        <category>인테이크</category>
+        
+        <category>식품</category>
+        
+        <category>크라우드펀딩</category>
+        
+        <category>건강</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Lifetime</category>
+        
+      </item>
+    
+      <item>
+        <title>라즈베리파이4 소개 및 사양</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/11/raspberry-pi4-spec.webp&quot; alt=&quot;라즈베리파이4&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;라즈베리파이4raspberry-pi-4&quot;&gt;라즈베리파이4(Raspberry Pi 4)&lt;/h2&gt; &lt;p&gt;기본적인 모양 및 크기, 그리고 가격이 이전 모델과 비슷하므로 업그레이드를 위해 새 라즈베리파이를 기존 프로젝트에 사용할 수 있습니다. 언제나 그렇듯이 모든 소프트웨어는 이전 버전과 호환되므로 라즈베리파이4에서 생성한 제품은 기존 모델에서도 작동합니다.&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;4k로-출력되는-듀얼-디스플레이&quot;&gt;4K로 출력되는 듀얼 디스플레이&lt;/h3&gt; &lt;p&gt;많은 사용자들의 요구에 따라 라즈베리파이4는 4K로 출력되는 두 대의 모니터를 함께 사용할 수 있습니다.&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;당신의-새로운-데스크톱-컴퓨터&quot;&gt;당신의 새로운 데스크톱 컴퓨터&lt;/h3&gt; &lt;p&gt;새로운 라즈베리파이4의 속도와 성능은 이전 모델보다 한 단계 향상되었습니다. 처음으로 완벽한 데스크톱 환경을 구축했습니다. 문서를 편집하거나 여러 탭을 열어 웹을 탐색하거나 스프레드시트 및 프리젠테이션을 작성하기 좋은 부드러운 환경을 제공하지만 비슷한 기능을 하는 다른...</description>
+        <pubDate>Mon, 12 Aug 2019 23:22:03 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/info/product/2019/08/12/raspberry-pi-4.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/info/product/2019/08/12/raspberry-pi-4.html</guid>
+        
+        <category>라즈베리파이</category>
+        
+        <category>하드웨어</category>
+        
+        <category>IT</category>
+        
+        <category>아마존</category>
+        
+        <category>쇼핑</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Product</category>
+        
+      </item>
+    
+      <item>
+        <title>모노가타리(Monogatari), 무료 웹 기반 시각 소설 엔진</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/11/monogatari-website-screenshot.webp&quot; alt=&quot;모노가타리 웹사이트 갈무리&quot; /&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Official Website: &lt;a href=&quot;https://monogatari.io/&quot;&gt;Monogatari&lt;/a&gt;&lt;/li&gt; &lt;li&gt;Contributions: &lt;a href=&quot;https://github.com/Monogatari/Monogatari/pull/87&quot;&gt;한국어 번역&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h2 id=&quot;모노가타리monogatari-비주얼-노블-엔진&quot;&gt;모노가타리(Monogatari) 비주얼 노블 엔진&lt;/h2&gt; &lt;p&gt;현대적인 웹을 위한 설계해 쉽게 창작하고 배포하여 사람이 어디서나 시각 소설을 플레이할 수 있습니다.&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;간단한-구문&quot;&gt;간단한 구문&lt;/h3&gt; &lt;p&gt;게임 제작을 시작하기 위해 개발자가 될 필요는 없습니다. 모노가타리는 매우 간단하면서도 강력한 기능을 갖춘 친숙한 언어를 사용하여 마치 글을 쓰는 것처럼 쉽게 이야기를 작성할 수 있습니다.&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;멀티미디어-지원&quot;&gt;멀티미디어 지원&lt;/h3&gt; &lt;p&gt;그림이나 영상을 보여주고 싶습니까? 음악과 음향 효과를 재생할 수도 있습니다! 모노가타리를 사용하면 모든 종류의 미디어를 사용하여 당신의 게임에 대한 풍부한 컨텐츠와 경험을 제공할 수 있습니다.&lt;/p&gt; &lt;p&gt;&lt;br /&gt;&lt;/p&gt; &lt;h3 id=&quot;다국어&quot;&gt;다국어&lt;/h3&gt;...</description>
+        <pubDate>Sat, 20 Jul 2019 03:45:00 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/works/participative/2019/07/20/monogatari-web-visual-novel-engine.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/works/participative/2019/07/20/monogatari-web-visual-novel-engine.html</guid>
+        
+        <category>모노가타리</category>
+        
+        <category>HTML</category>
+        
+        <category>CSS</category>
+        
+        <category>엔진</category>
+        
+        <category>게임</category>
+        
+        <category>소설</category>
+        
+        <category>창작</category>
+        
+        <category>개발</category>
+        
+        <category>제작</category>
+        
+        <category>무료</category>
+        
+        <category>번역</category>
+        
+        <category>프로그래밍</category>
+        
+        <category>오픈소스</category>
+        
+        
+        <category>Works</category>
+        
+        <category>Participative</category>
+        
+      </item>
+    
+      <item>
+        <title>스플래툰2 스페셜 데모+닌텐도 스위치 온라인 7일 무료 평가판 이벤트</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/qN4w5D2tzME&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;스플래툰2-스페셜-데모닌텐도-스위치-온라인-7일-무료-평가판-이벤트&quot;&gt;스플래툰2 스페셜 데모+닌텐도 스위치 온라인 7일 무료 평가판 이벤트&lt;/h2&gt; &lt;p&gt;스플래툰2의 스페셜 데모와 함께 닌&lt;strong&gt;텐도 스위치 온라인을 7일간 무료로 체험&lt;/strong&gt;할 수 있는 리딤 코드를 제공하는 이벤트가 열렸다. 이 데모 이벤트는 현지시각으로 3월 19일 오전 7시 ~ 3월 25일 오전 6시 59분까지 활성화된다.&lt;/p&gt; &lt;p&gt;스플래툰2 스페셜 데모(Splatoon 2 Special Demo)를 플레이하려면 인터넷 연결과 닌텐도 스위치 온라인 멤버십이 필요하나, 닌텐도 e숍에서 데모를 다운로드하면 닌텐도 스위치 온라인 7일 무료 평가판 리딤 코드를 받을 수 있다. 데모를 다운로드하면 닌텐도 계정에 등록된 이메일로 닌텐도 스위치 온라인 7일 무료 평가판 리딤 코드가 발송되므로 수신한 리딤 코드를...</description>
+        <pubDate>Thu, 21 Mar 2019 03:19:00 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/info/game-news/2019/03/21/splatoon2-special-demo-nintendo-switch.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/info/game-news/2019/03/21/splatoon2-special-demo-nintendo-switch.html</guid>
+        
+        <category>게임</category>
+        
+        <category>닌텐도</category>
+        
+        <category>스위치</category>
+        
+        <category>체험판</category>
+        
+        <category>콘솔</category>
+        
+        <category>슈팅</category>
+        
+        <category>멀티플레이</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Game-News</category>
+        
+      </item>
+    
+      <item>
+        <title>아이콘 생성기(Icon Generator)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/03/icon-generator-screenshot.webp&quot; alt=&quot;Icon Generator Screenshot&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;아이콘-생성기&quot;&gt;아이콘 생성기&lt;/h2&gt; &lt;p&gt;개발자가 더 쉽게 많은 응용 프로그램 아이콘을 생성할 수 있는 쉘 스크립트입니다. iOS 아이콘 생성기로부터 파생된 깃허브(GitHub) 저장소에는 과거의 ImageMagick 버전을 복원하고 다양한 플랫폼에 대한 아이콘을 만드는 스크립트가 새로이 추가되었습니다.&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;버전: 1.0.0 사용: SH INPUT OUTPUT 예제: all.sh icon.png icons 설명: 이 스크립트는 많은 앱 아이콘을 쉽고 간단히 생성하는 작업을 수행합니다. INPUT - 소스 이미지는 1024x1024 픽셀이어야 합니다. OUTPUT - 아이콘이 생성될 위치입니다. 저자: Lee Yunseok &amp;lt;thericke00@gmail.com&amp;gt; smallmuou &amp;lt;smallmuou@163.com&amp;gt; &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt; &lt;h3 id=&quot;지원하는-아이콘&quot;&gt;지원하는 아이콘&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;스팀(클라이언트 이미지) - &lt;strong&gt;steam.sh&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;스팀(도전과제와 트레이딩 카드 이미지) - &lt;strong&gt;items.sh&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;험블 스토어(위젯) - &lt;strong&gt;humble.sh&lt;/strong&gt;&lt;/li&gt;...</description>
+        <pubDate>Wed, 20 Mar 2019 07:12:47 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/works/productive/2019/03/20/icon-generator-shell-script.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/works/productive/2019/03/20/icon-generator-shell-script.html</guid>
+        
+        <category>아이콘</category>
+        
+        <category>Imagemagick</category>
+        
+        <category>쉘스크립트</category>
+        
+        <category>스팀</category>
+        
+        <category>험블</category>
+        
+        <category>앱스토어</category>
+        
+        <category>안드로이드</category>
+        
+        <category>윈도우즈</category>
+        
+        <category>웹사이트</category>
+        
+        <category>사파리</category>
+        
+        <category>맥OS</category>
+        
+        <category>개발</category>
+        
+        <category>무료</category>
+        
+        
+        <category>Works</category>
+        
+        <category>Productive</category>
+        
+      </item>
+    
+      <item>
+        <title>PW 지킬 테마(PW Jekyll Theme)</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/11/pw_jekyll_website.webp&quot; alt=&quot;PW Jekyll Theme screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pw-지킬-테마pw-jekyll-theme&quot;&gt;PW 지킬 테마(PW Jekyll Theme)&lt;/h2&gt;
+
+&lt;p&gt;깃허브 페이지에 개인 웹사이트를 만들 용도로 제작한 테마다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+카드 기반 포스트를 아카이브로 제공하는 &lt;a href=&quot;https://github.com/willianjusten/cards-jekyll-template&quot;&gt;카드 지킬 테마&lt;/a&gt;를 개조해 부트스트랩과 폰트어썸, 라이트 슬라이더, 바닐라 투 더 톱, 페이지네이션, 디스커스, 구글 애드센스, 구글 애널리틱스 등을 적용해 깃허브 페이지로 호스트하여 사용하고 있었다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+개인 웹사이트를 리뉴얼하면서 공개배포를 고려했으나, 애초에 배포 용도로 제작한 것이 아니라서 소스코드의 수정이 많이 필요했기에 손대지 않고 그냥 보관하기로 했다.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+메인 슬라이더와 포스트의 큼직큼직함이 마음에 들었었는데 콘텐츠 위주의 테마라 꾸준한 포스팅이 부담돼 리뉴얼을 결정했다.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Mar 2019 02:38:26 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/works/practice/2019/03/20/pw-jekyll-theme-github-pages.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/works/practice/2019/03/20/pw-jekyll-theme-github-pages.html</guid>
+        
+        <category>지킬</category>
+        
+        <category>Jekyll</category>
+        
+        <category>테마</category>
+        
+        <category>깃허브</category>
+        
+        <category>개발</category>
+        
+        <category>부트스트랩</category>
+        
+        <category>폰트어썸</category>
+        
+        <category>웹</category>
+        
+        <category>웹사이트</category>
+        
+        
+        <category>Works</category>
+        
+        <category>Practice</category>
+        
+      </item>
+    
+      <item>
+        <title>[워드프레스] 깃허브(GitHub) 프로필 위젯</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/03/wordpress_github_profile_widget_1.webp&quot; alt=&quot;GitHub Profile Widget&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;깃허브github-프로필-위젯&quot;&gt;깃허브(GitHub) 프로필 위젯&lt;/h2&gt;
+
+&lt;p&gt;워드프레스(WordPress) 블로그에 &lt;strong&gt;깃허브(GitHub) 프로필이나 단체를 보여줄 위젯&lt;/strong&gt;을 제공하는 아주 간단한 플러그인입니다. 설치가 매우 쉽습니다. 사용자 이름(또는 단체의 슬러그)을 넣고 표시할 항목을 선택하기만 하면 됩니다.&lt;/p&gt;
+
+&lt;h4 id=&quot;특징은-다음과-같습니다&quot;&gt;특징은 다음과 같습니다:&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;기본 정보 (username, name)&lt;/li&gt;
+  &lt;li&gt;회사, 지역, 이메일, 웹 사이트 및 깃허브(GitHub) 가입일자.&lt;/li&gt;
+  &lt;li&gt;팔로워와 그 수.&lt;/li&gt;
+  &lt;li&gt;저장소(repository) 및 요점(gists).&lt;/li&gt;
+  &lt;li&gt;속한 단체.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;면책-조항--우리는-github와-제휴-관계가-아닙니다&quot;&gt;면책 조항 : 우리는 GitHub와 제휴 관계가 아닙니다.&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/refactors/github-profile-widget&quot;&gt;깃허브 저장소 방문하기&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;작업내용: 버그 고침&lt;/p&gt;
+
+&lt;p&gt;작업일자: 2018년 9월 4일&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Mar 2019 02:38:26 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/works/participative/2019/03/20/github-wordpress-profile-widget.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/works/participative/2019/03/20/github-wordpress-profile-widget.html</guid>
+        
+        <category>워드프레스</category>
+        
+        <category>깃허브</category>
+        
+        <category>개발</category>
+        
+        <category>무료</category>
+        
+        <category>웹</category>
+        
+        
+        <category>Works</category>
+        
+        <category>Participative</category>
+        
+      </item>
+    
+      <item>
+        <title>[닌텐도 스위치] 요시 크래프트 월드 게임 소개 및 체험판 플레이</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/zCNuiDgz84A&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;요시-크래프트-월드yoshis-crafted-world&quot;&gt;요시 크래프트 월드(Yoshi’s Crafted World)&lt;/h2&gt; &lt;p&gt;요시 크래프트 월드(Yoshi’s Crafted World)는 2019년 3월 29일 국내 정식 출시 예정인 닌텐도 스위치 타이틀이다. 현재 체험판 배포 및 예약 구매가 진행되고 있다.&lt;/p&gt; &lt;h4 id=&quot;상자와-종이컵-같은-일상의-물건으로-만들어진-세상에서-요시의-새로운-모험으로-뛰어오르세요&quot;&gt;상자와 종이컵 같은 일상의 물건으로 만들어진 세상에서 요시의 새로운 모험으로 뛰어오르세요!&lt;/h4&gt; &lt;p&gt;요시가 되어, 당신은 높은 곳으로 도약하고, 적들을 물리치며, 모든 수집품을 찾기 위해 보물 찾기를 시작합니다. 스테이지는 역으로 뒤집어 플레이할 수 있으며 탐험할 새로운 길을 제공하고 숨겨진 물건을 좀 더 정교하게 찾게 해줍니다!&lt;/p&gt; &lt;ul&gt; &lt;li&gt;각각의 스테이지를 탐험하고 스테이지를 역으로 뒤집어 길을 만드는 것을 통해 더 많은 비밀을 찾으십시오!&lt;/li&gt; &lt;li&gt;좀비(Zombie...</description>
+        <pubDate>Wed, 13 Mar 2019 23:40:00 +0900</pubDate>
+        <link>https://Lee-Yunseok.GitHub.io/info/game-news/2019/03/13/yoshis-craft-world-demo-nintendo-switch.html</link>
+        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/info/game-news/2019/03/13/yoshis-craft-world-demo-nintendo-switch.html</guid>
+        
+        <category>게임</category>
+        
+        <category>공룡</category>
+        
+        <category>닌텐도</category>
+        
+        <category>스위치</category>
+        
+        <category>체험판</category>
+        
+        <category>콘솔</category>
+        
+        <category>퍼즐</category>
+        
+        <category>플랫포머</category>
+        
+        
+        <category>Info</category>
+        
+        <category>Game-News</category>
+        
+      </item>
     
       <item>
         <title>[닌텐도 스위치] 캡틴 토드: 트레져 트래커 게임 소개 및 체험판 플레이</title>
@@ -585,280 +892,6 @@
         <category>Info</category>
         
         <category>Game-News</category>
-        
-      </item>
-    
-      <item>
-        <title>오뚜기 3분요리 쇠고기 짜장/카레 레토르트 구매</title>
-        <description>&lt;p&gt;&lt;strong&gt;11번가&lt;/strong&gt;에서 3천 원 할인쿠폰을 주길래 저렴한 반찬거리를 찾다 오뚜기 3분요리 쇠고기 짜장/카레를 구매했다. 최근 건강에 많이 신경쓰고 있어서 레토르트 식품은 피하려 했으나 결국에는 구매를 하고 말았다.&lt;/p&gt;
-
-&lt;p&gt;10,600원에 판매하는 상품을 쿠폰을 사용해 3,180원을 할인받고 &lt;strong&gt;OK캐쉬백&lt;/strong&gt; 20원과 &lt;strong&gt;삼성카드&lt;/strong&gt; 포인트 25점을 사용해 7,335원에 최종 결제했다. 개당 611원 정도에 구매한 셈이다.&lt;/p&gt;
-
-&lt;p&gt;2월 2일에 주문해서 설 연휴를 보내고 8일에 배송받았다. 유통기한은 2020년으로 꽤 길었다.&lt;/p&gt;
-
-&lt;p&gt;해당 상품은 &lt;a href=&quot;http://11st.kr/QR/P/1189457562&quot;&gt;여기&lt;/a&gt;에서 구매할 수 있다.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 09 Feb 2019 00:53:48 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/life/diary/2019/02/09/ottogi-3minutes-11st.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/life/diary/2019/02/09/ottogi-3minutes-11st.html</guid>
-        
-        <category>11번가</category>
-        
-        <category>오뚜기</category>
-        
-        <category>쇼핑</category>
-        
-        <category>식품</category>
-        
-        <category>레토르트</category>
-        
-        
-        <category>Life</category>
-        
-        <category>Diary</category>
-        
-      </item>
-    
-      <item>
-        <title>[WoW] 다자알로 전투 신화 및 공격대, 복돼지 호그러스 업데이트</title>
-        <description>&lt;h2 id=&quot;다자알로-전투&quot;&gt;다자알로 전투&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/02/world-of-warcraft-mount-dazaralor.webp&quot; alt=&quot;다자알로 전투&quot; /&gt;&lt;/p&gt; &lt;p&gt;달의 축제가 진행되고 있는 현재 &lt;strong&gt;다자알로 전투&lt;/strong&gt; 신화 난이도와 공격대 찾기 1지구가 열렸다. 다자알로 전투는 얼라이언스 세력이 잔달라 제국의 심장부를 공격하는 이야기로, 호드와 얼라이언스 플레이어가 진영별로 독특한 전투를 경험할 수 있고 또 상대 진영의 시점에서 같은 사건을 체험할 수 있는 기회를 제공하는 새로운 공격대라고 소개된 바 있다. 얼라이언스는 &lt;strong&gt;다자알로 공성전&lt;/strong&gt;, 호드는 &lt;strong&gt;다자알로 방어전&lt;/strong&gt;을 치르게 되는 이번 다자알로 전투는 지난 &lt;a href=&quot;https://worldofwarcraft.com/ko-kr/news/22839056&quot;&gt;1월 24일 일반 및 영웅 난이도 추가&lt;/a&gt;로부터 일주일이 지난 현재 신화 난이도와 공격대 찾기 1지구가 열렸다. 과연 이번 &lt;a href=&quot;https://worldofwarcraft.com/ko-kr/game/hall-of-fame/mythic-raid/battle-of-dazaralor&quot;&gt;공격대 순위 명예의 전당&lt;/a&gt;에 오를 길드는 어디일지 기대된다.&lt;/p&gt; &lt;h3 id=&quot;복돼지-호그러스-탈것--180일-게임-시간-번들&quot;&gt;복돼지 호그러스 탈것 &amp;amp;...</description>
-        <pubDate>Fri, 01 Feb 2019 18:48:24 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/info/game-news/2019/02/01/dazaralor-world-of-warcraft-wow.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/info/game-news/2019/02/01/dazaralor-world-of-warcraft-wow.html</guid>
-        
-        <category>게임</category>
-        
-        <category>블리자드</category>
-        
-        <category>와우</category>
-        
-        <category>월드 오브 워크래프트</category>
-        
-        <category>MMORPG</category>
-        
-        
-        <category>Info</category>
-        
-        <category>Game-News</category>
-        
-      </item>
-    
-      <item>
-        <title>[포켓몬고] 토게키스 진화! 반짝반짝 테일로 포획!</title>
-        <description>&lt;h2 id=&quot;토게키스-진화&quot;&gt;토게키스 진화&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/pokemon_go_togekiss.webp&quot; alt=&quot;토게키스&quot; /&gt;&lt;/p&gt; &lt;p&gt;팀 발로의 리더 &lt;strong&gt;칸델라&lt;/strong&gt;로부터 얻은 &lt;strong&gt;신오의 돌&lt;/strong&gt;을 &lt;strong&gt;토게틱&lt;/strong&gt;에게 사용해 &lt;strong&gt;토게키스&lt;/strong&gt;로 진화시켰다. 토게틱이 처음 포켓몬 고에 추가됐을 때 겪은 신비로운 경험이 아직도 잊혀지질 않는데 진화체를 손에 넣는 날이 오다니 감개무량하다. 기술은 &lt;strong&gt;에어슬래시&lt;/strong&gt;와 &lt;strong&gt;제비반환&lt;/strong&gt;이 나왔는데 기술머신을 사용해 제비반환을 &lt;strong&gt;매지컬샤인&lt;/strong&gt;으로 변경할 계획이다.&lt;/p&gt; &lt;h2 id=&quot;반짝반짝-테일로-포획&quot;&gt;반짝반짝 테일로 포획&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/pokemon_go_shiny_swellow.webp&quot; alt=&quot;반짝반짝 테일로&quot; /&gt;&lt;/p&gt; &lt;p&gt;주말에는 &lt;strong&gt;반짝반짝 테일로&lt;/strong&gt;를 포획했다. &lt;strong&gt;스왈로&lt;/strong&gt;로 진화시킬지 한참을 고민하다 일단은 그냥 두기로 했다.&lt;/p&gt; &lt;h2 id=&quot;플라이곤-진화&quot;&gt;플라이곤 진화&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/pokemon_go_flygon.webp&quot; alt=&quot;플라이곤&quot; /&gt;&lt;/p&gt; &lt;p&gt;HP와 방어가 최고인 경이롭고 예술적인 &lt;strong&gt;비브라바&lt;/strong&gt;를 &lt;strong&gt;플라이곤&lt;/strong&gt;으로 진화시켰다. 기술이 &lt;strong&gt;머드숏&lt;/strong&gt;과 &lt;strong&gt;지진&lt;/strong&gt;의 땅 조합이라 &lt;strong&gt;드래곤테일&lt;/strong&gt;과 &lt;strong&gt;드래곤크루&lt;/strong&gt;의 드래곤 조합으로 변경하기 위해 기술머신이 두 개나 필요한 상황이다.&lt;/p&gt; &lt;h2 id=&quot;100-썬더라이-포획&quot;&gt;100%...</description>
-        <pubDate>Mon, 28 Jan 2019 07:45:13 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/life/game/2019/01/28/pokemon-go-togekiss-shiny-swellow.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/life/game/2019/01/28/pokemon-go-togekiss-shiny-swellow.html</guid>
-        
-        <category>AR</category>
-        
-        <category>게임</category>
-        
-        <category>나이언틱</category>
-        
-        <category>모바일</category>
-        
-        <category>증강현실</category>
-        
-        <category>포켓몬</category>
-        
-        <category>포켓몬고</category>
-        
-        <category>포켓몬스터</category>
-        
-        
-        <category>Life</category>
-        
-        <category>Game</category>
-        
-      </item>
-    
-      <item>
-        <title>친환경 무농약 산소 콩나물 구매</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/bean_sprouts_cjmall.webp&quot; alt=&quot;아삭아삭 친환경 무농약 산소콩나물 1kg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;씨제이몰(CJmall)&lt;/strong&gt;에서 적립금을 받았는데 마땅히 살 것이 없어 반찬거리를 검색하다 콩나물국과 무침을 해먹으려고 &lt;strong&gt;아삭아삭 친환경 무농약 산소 콩나물 1kg&lt;/strong&gt;을 구매해봤다. 4,500 원에 판매하는 식품을 적립금과 &lt;strong&gt;삼성카드&lt;/strong&gt;의 다 쓰고 남은 잔여 포인트를 사용해 &lt;strong&gt;2,380 원&lt;/strong&gt;에 결제했다.&lt;/p&gt;
-
-&lt;p&gt;1월 23일에 결제해 25일에 배송받아 상품 상세 페이지에서 알려준 보관 방법대로 통에 넣고 콩나물이 완전히 잠기도록 물을 채워 냉장고에 보관했다. 양이 많아서 오래 두고 먹으려면 2~3일에 한 번씩 물을 갈아줘야 한다.&lt;/p&gt;
-
-&lt;p&gt;주말에 시간 내서 &lt;strong&gt;콩나물무침&lt;/strong&gt;부터 해야겠다.&lt;/p&gt;
-
-&lt;p&gt;해당 상품은 &lt;a href=&quot;http://display.cjmall.com/p/item/49735575?channelCode=30001001&quot;&gt;여기&lt;/a&gt;에서 구매할 수 있다.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Jan 2019 10:30:32 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/life/diary/2019/01/25/bean-sprouts-cjmall.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/life/diary/2019/01/25/bean-sprouts-cjmall.html</guid>
-        
-        <category>CJmall</category>
-        
-        <category>쇼핑</category>
-        
-        <category>신선</category>
-        
-        <category>식품</category>
-        
-        <category>콩나물</category>
-        
-        <category>채소</category>
-        
-        
-        <category>Life</category>
-        
-        <category>Diary</category>
-        
-      </item>
-    
-      <item>
-        <title>올바른 양배추즙 설날 에디션 구매후기</title>
-        <description>&lt;div class=&quot;yslider&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/auction_lunar_sale_cabbage_juice_00.webp&quot; alt=&quot;올바른 양배추즙&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/auction_lunar_sale_cabbage_juice_01.webp&quot; alt=&quot;올바른 양배추즙&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt; &lt;p&gt;&lt;strong&gt;옥션&lt;/strong&gt;에서 양배추즙을 구매했다. 역류성 식도염에 소화기관도 엉망이라 괜찮은 것이 있을까 검색하다 &lt;strong&gt;올바른 양배추즙 설날 에디션&lt;/strong&gt;을 발견해 살펴보고는 구매를 결정, 정가 22,000 원인 상품을 &lt;strong&gt;스마일카드&lt;/strong&gt; 만 원 할인, 중복할인, 즉시할인 등의 쿠폰을 적용해 &lt;strong&gt;9,270 원&lt;/strong&gt;에 결제를 완료했다.&lt;/p&gt; &lt;p&gt;1월 19일에 결제해 23일에 택배로 배송받아 박스를 뜯으니 손잡이가 달린 예쁘게 잘 만든 선물상자가 나를 반겼고, 상자를 열자 상자 앞면과 비슷한 디자인의 비닐팩들이 보였다. 그대로 하나 집어들어 우측 상단에 뜯기 편하게 만든 곳을 잡아당겨 팩을 뜯고 입으로 가져다 댄 채로 목을 위로 젖혀 벌컥벌컥 마셨다. 단숨에 다 마시고는 고개를 내리고 비닐팩을 입에서 떼어내 쳐다보다...</description>
-        <pubDate>Fri, 25 Jan 2019 05:38:21 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/life/diary/2019/01/25/cabbage-juice-auction-lunar-sale.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/life/diary/2019/01/25/cabbage-juice-auction-lunar-sale.html</guid>
-        
-        <category>옥션</category>
-        
-        <category>쇼핑</category>
-        
-        <category>건강</category>
-        
-        <category>음료</category>
-        
-        <category>후기</category>
-        
-        <category>양배추</category>
-        
-        <category>채소</category>
-        
-        
-        <category>Life</category>
-        
-        <category>Diary</category>
-        
-      </item>
-    
-      <item>
-        <title>[언리얼 엔진] 2019년 1월 마켓플레이스 무료 콘텐츠</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/unreal_engine_2019_01_marketplace_free.webp&quot; alt=&quot;Ancient Treasures&quot; /&gt;&lt;/p&gt; &lt;p&gt;지난 1월 2일, &lt;strong&gt;아만다 보트(Amanda Bott)&lt;/strong&gt;가 언리얼 엔진 블로그에 1월의 마켓플레이스 무료 콘텐츠를 공개했다. 주인장은 정신이 없어 공개된 줄도 모르고 있다가 전자우편을 받고서 부랴부랴 이동해 항목들을 라이브러리에 추가할 수 있었다.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;&lt;em&gt;언리얼 엔진 마켓플레이스 제작자들과의 협력 아래, 매달 선정된 콘텐츠들을 무료로 제공하여, UE4 커뮤니티의 아티스트, 디자이너 및 프로그래머가 더 많은 자료들을 추가 비용없이 이용할 수 있습니다. 이번 달 새로운 콘텐츠들을 살펴보세요!&lt;br /&gt;- Amanda Bott&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;h4 id=&quot;이달의-무료-콘텐츠&quot;&gt;이달의 무료 콘텐츠:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.unrealengine.com/marketplace/autumn-audio-bundle&quot;&gt;가을 오디오 번들(Autumn Audio Bundle)&lt;/a&gt;: 발소리, 빗소리, 자물쇠 따는 소리가 포함된 236 SFX 컬렉션&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.unrealengine.com/marketplace/interactive-open-world-foliage&quot;&gt;인터렉티브 오픈 월드 폴리지(Interactive Open World Foliage)&lt;/a&gt;: 최소한의 사양으로...</description>
-        <pubDate>Thu, 24 Jan 2019 07:15:38 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/info/software/2019/01/24/unreal-engine-4-marketplace-free-contents-jan.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/info/software/2019/01/24/unreal-engine-4-marketplace-free-contents-jan.html</guid>
-        
-        <category>개발</category>
-        
-        <category>게임</category>
-        
-        <category>엔진</category>
-        
-        <category>언리얼</category>
-        
-        <category>무료</category>
-        
-        
-        <category>Info</category>
-        
-        <category>Software</category>
-        
-      </item>
-    
-      <item>
-        <title>[포켓몬고] 황금 파비코 포획! 거대 코뿌리, 게을킹, 고래왕 진화!</title>
-        <description>&lt;p&gt;호연위크가 진행되고 있는 요즘, 주인장은 여러 포켓몬들을 첫 진화해 도감에 등록하는 한편 &lt;strong&gt;이로치 파비코&lt;/strong&gt;를 포획하고 필드 리서치 일주일 보상으로 얻은 &lt;strong&gt;신오의 돌&lt;/strong&gt;을 사용해 코뿌리를 &lt;strong&gt;거대 코뿌리&lt;/strong&gt;로 진화시키고 &lt;strong&gt;썬더&lt;/strong&gt;도 포획하는 등 많은 일들이 있었다.&lt;/p&gt; &lt;h2 id=&quot;고래왕-진화&quot;&gt;고래왕 진화&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/pokemon_go_evolution_waiload.webp&quot; alt=&quot;고래왕&quot; /&gt;&lt;/p&gt; &lt;p&gt;먼저 그간 파트너로 데리고 다니던 &lt;strong&gt;고래왕자&lt;/strong&gt;를 사탕 400개를 들여 &lt;strong&gt;고래왕&lt;/strong&gt;으로 진화시켰는데, 보유한 여섯 마리의 고래왕자 중에서 1월 17일에 포획한 개체값이 가장 높은, HP와 방어가 최고 수준으로 평균보다 큰 녀석이다. 진화를 했음에도 사탕이 많이 남아 있어서 모래수급만 잘 한다면 쉽게 강화할 수 있을 것 같다.&lt;/p&gt; &lt;h2 id=&quot;이로치-파비코-포획&quot;&gt;이로치 파비코 포획&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/pokemon_go_irochi_golden_swablu.webp&quot; alt=&quot;황금 파비코&quot; /&gt;&lt;/p&gt; &lt;p&gt;고래왕을 진화시키고서 배회하던 중 포획한 &lt;strong&gt;황금 파비코&lt;/strong&gt;다....</description>
-        <pubDate>Wed, 23 Jan 2019 04:28:37 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/life/game/2019/01/23/pokemon-go-irochi-evolution.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/life/game/2019/01/23/pokemon-go-irochi-evolution.html</guid>
-        
-        <category>AR</category>
-        
-        <category>게임</category>
-        
-        <category>나이언틱</category>
-        
-        <category>모바일</category>
-        
-        <category>증강현실</category>
-        
-        <category>포켓몬</category>
-        
-        <category>포켓몬고</category>
-        
-        <category>포켓몬스터</category>
-        
-        
-        <category>Life</category>
-        
-        <category>Game</category>
-        
-      </item>
-    
-      <item>
-        <title>KNDW 클론다이크 솔리테어(KNDW Klondike Solitaire)</title>
-        <description>&lt;div class=&quot;yslider&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_1_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 01&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_2_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 02&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_3_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 03&quot; /&gt;&lt;/li&gt;&lt;li&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/01/100842_4_koreana.webp&quot; alt=&quot;KNDW Klondike Solitaire Screenshot 04&quot; /&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt; &lt;table&gt; &lt;thead&gt; &lt;tr&gt; &lt;th&gt;Main Distribution Platform&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt; &lt;tbody&gt; &lt;tr&gt; &lt;td&gt;&lt;a href=&quot;https://store.steampowered.com/app/1008420/Discouraged_Workers_MOD__Klondike_Solitaire/&quot;&gt;&lt;i class=&quot;fab fa-steam&quot;&gt;&lt;/i&gt; 스팀(Steam)&lt;/a&gt;&lt;/td&gt; &lt;/tr&gt; &lt;/tbody&gt; &lt;/table&gt; &lt;ul&gt; &lt;li&gt;가장 널리 알려진 솔리테어 카드 게임인 클론다이크를 기반으로 합니다.&lt;/li&gt; &lt;li&gt;우리의 타로 덱으로부터 만들어진 오리지널 카드 이미지를 사용합니다.&lt;/li&gt; &lt;li&gt;조커가 없는 52장의 표준 덱으로 플레이합니다.&lt;/li&gt; &lt;li&gt;에이스에서 왕까지 한 벌인 네 개의 재단이 카드로 구성돼 있습니다.&lt;/li&gt; &lt;li&gt;때때로 태진이 플레이어에게 조언을 해줍니다.&lt;/li&gt; &lt;li&gt;이 미니게임은 프로젝트 DW를 위한 후원 용도로 제작됐습니다.&lt;/li&gt; &lt;li&gt;One Sweetly Solemn Thought.&lt;/li&gt; &lt;/ul&gt;...</description>
-        <pubDate>Tue, 22 Jan 2019 02:00:00 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/works/productive/2019/01/22/kndw-klondike-solitaire.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/works/productive/2019/01/22/kndw-klondike-solitaire.html</guid>
-        
-        <category>스팀</category>
-        
-        <category>실망실업자</category>
-        
-        <category>제작</category>
-        
-        <category>카드</category>
-        
-        <category>DLC</category>
-        
-        <category>게임</category>
-        
-        <category>깃허브</category>
-        
-        
-        <category>Works</category>
-        
-        <category>Productive</category>
-        
-      </item>
-    
-      <item>
-        <title>제 15회 IMGA(국제 모바일 게이밍상) 온라인 심사 선임</title>
-        <description>&lt;blockquote&gt; &lt;p&gt;&lt;em&gt;제 15회 &lt;a href=&quot;https://www.imgawards.com/&quot;&gt;IMGA(국제 모바일 게이밍상)&lt;/a&gt;의 온라인 심사를 선임했다. IMGA는 2월 6일까지 심사, 동월 19일에 후보를 발표하고, 3월 19일 샌 프란시스코에서 어워드 세레모니를 펼치게 된다. 내가 할 일은 시상식에 앞서 수상할 게임들을 선정하는 과정에서 후보에 오를 게임들을 추천하는 것이다. 내게 배정된 게임은 다섯 개인데, 확인해보니 모두 &lt;a href=&quot;https://unity3d.com/&quot;&gt;유니티 엔진&lt;/a&gt;으로 제작된 것들이었다. 어떤 게임들인지 아래에 하나하나 기록해 둔다.&lt;/em&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;h2 id=&quot;쉬룸-스네쳐shroom-snatcher---3v3-brawler&quot;&gt;쉬룸 스네쳐(Shroom Snatcher) - 3v3 Brawler&lt;/h2&gt; &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kZl6ImyX6cc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;Shroom Snatcher는 3대3 멀티플레이 게임이다. 버섯을 수확하거나 날치기하여 득점하고, 또는 사탕으로 상대를 혼란에 빠뜨릴 수 있다. 구글 플레이와 페이스북 연동이 가능하며 기본 무료에...</description>
-        <pubDate>Sun, 20 Jan 2019 10:30:45 +0900</pubDate>
-        <link>https://Lee-Yunseok.GitHub.io/life/diary/2019/01/20/15th-imga-online-jury-preselection.html</link>
-        <guid isPermaLink="true">https://Lee-Yunseok.GitHub.io/life/diary/2019/01/20/15th-imga-online-jury-preselection.html</guid>
-        
-        <category>게임</category>
-        
-        <category>게임상</category>
-        
-        <category>모바일</category>
-        
-        <category>퍼즐</category>
-        
-        <category>액션</category>
-        
-        <category>플랫포머</category>
-        
-        <category>아케이드</category>
-        
-        <category>캐주얼</category>
-        
-        <category>유니티</category>
-        
-        <category>iOS</category>
-        
-        <category>안드로이드</category>
-        
-        <category>애플리케이션</category>
-        
-        <category>스팀</category>
-        
-        <category>IMGA</category>
-        
-        <category>인디케이드</category>
-        
-        
-        <category>Life</category>
-        
-        <category>Diary</category>
         
       </item>
     
