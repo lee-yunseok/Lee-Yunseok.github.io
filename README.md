@@ -9,7 +9,6 @@ _My personal website project made with :hearts: and [Jekyll](https://jekyllrb.co
   - [Raspbian](https://www.raspbian.org/)
 - [Chromium Web Browser](https://www.chromium.org/Home)
   - [DuckDuckGo](https://duckduckgo.com/)
-- [Guake Terminal](http://guake.org/)
 - [Geany](https://www.geany.org/)
 - [muCommander](http://www.mucommander.com/)
 - [GitHub Personal Website](https://github.dev/)
