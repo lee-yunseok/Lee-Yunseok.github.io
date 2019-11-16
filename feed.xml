@@ -5,16 +5,16 @@
     <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>http://lee-yunseok.github.io</link>
     <atom:link href="http://lee-yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Nov 2019 17:04:37 +0900</pubDate>
-    <lastBuildDate>Sat, 16 Nov 2019 17:04:37 +0900</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2019 17:13:01 +0900</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2019 17:13:01 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>손상된 RAW 디스크 드라이브 포맷하기</title>
         <description>&lt;h2 id=&quot;손상된-raw-디스크-드라이브-포맷하기&quot;&gt;손상된 RAW 디스크 드라이브 포맷하기&lt;/h2&gt; &lt;p&gt;어떤 이유로 손상된 RAW 디스크를 &lt;strong&gt;HDD LLF 툴&lt;/strong&gt;을 사용해 포맷하는 방법에 관한 글이다. 디스크가 마운트되지 않고 검사나 복구가 불가능하며 포맷도 안되는 상황에서 할 수 있는 방법으로, 주인장의 경우 바로 이틀 전에 외장하드 하나를 라즈베리 파이에서 포맷하던 중 시스템이 다운돼 외장하드가 작동하지 않게 돼 이 툴을 사용해 포맷했다. 이 방법은 &lt;s&gt;데이터를 복구&lt;/s&gt;하는 것이 아닌 &lt;strong&gt;디스크를 포맷하는 것&lt;/strong&gt;임을 염두하길 바란다.&lt;/p&gt; &lt;h3 id=&quot;hdd-llf-툴&quot;&gt;HDD LLF 툴&lt;/h3&gt; &lt;p&gt;먼저 &lt;a href=&quot;http://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/&quot;&gt;HDDGURU의 LLF(Low Level Format) 툴&lt;/a&gt;을 내려받아야 한다. 윈도우즈에서만 작동하는 툴로 &lt;a href=&quot;http://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/HDDLLFsetup.4.40.exe&quot;&gt;인스톨러&lt;/a&gt;와 &lt;a href=&quot;http://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/HDDLLF.4.40.exe&quot;&gt;포터블 아카이브&lt;/a&gt; 중에 선택할 수 있다. 주인장은 포터블(익스큐터블) 버전을 내려받았다.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;참고로 LLF 툴이라고 해서 실제로 로우...</description>
-        <pubDate>Fri, 15 Nov 2019 22:58:46 +0900</pubDate>
-        <link>http://lee-yunseok.github.io/info/software/2019/11/15/hdd-llf-raw-format-drive.html</link>
-        <guid isPermaLink="true">http://lee-yunseok.github.io/info/software/2019/11/15/hdd-llf-raw-format-drive.html</guid>
+        <pubDate>Sat, 16 Nov 2019 07:12:46 +0900</pubDate>
+        <link>http://lee-yunseok.github.io/info/software/2019/11/16/hdd-llf-raw-format-drive.html</link>
+        <guid isPermaLink="true">http://lee-yunseok.github.io/info/software/2019/11/16/hdd-llf-raw-format-drive.html</guid>
         
         <category>포맷</category>
         
