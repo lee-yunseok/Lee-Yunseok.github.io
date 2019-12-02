@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>이윤석 - 독립 문화예술 창작가</title>
-    <description>대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
+    <title>이윤석(Lee Yunseok) - 독립 문화예술 창작가(Independent Cultural Artist)</title>
+    <description>Personal website of Lee Yunseok. 대한민국의 독립 문화예술 창작가 이윤석의 개인 누리집. 소개와 작품, 인생, 그리고 정보를 기록.</description>
     <link>https://lee-yunseok.github.io</link>
     <atom:link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Nov 2019 15:50:14 +0900</pubDate>
-    <lastBuildDate>Fri, 29 Nov 2019 15:50:14 +0900</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2019 12:13:06 +0900</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2019 12:13:06 +0900</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>[당근마켓] 블루투스 스피커 거래 완료, 주먹보다 작은 블루투스 미니 스피커</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio.sirv.com/lee_yunseok/2019/11/mini-speaker-danggeun.webp&quot; alt=&quot;충전식 블루투스 미니 스피커&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;블루투스 미니 스피커를 당근마켓에 올려 판매를 완료했다. 짐정리를 하며 나온 것들을 하나하나 정리하고 있는 현재, 당근마켓을 이용해 두 개의 물품을 정리하고서 블루투스 스피커를 양구로 배송받고 싶다는 분이 계셔 GS편의점 반값 택배로 배송을 보냈다. 생각보다 배송이 오래 걸렸지만 별 탈 없이 도착해 현재는 잘 사용하고 계신 것 같다.&lt;/p&gt;
+
+&lt;p&gt;아직 정리해야 할 물건들이 많이 남아 저녁 때 마저 준비해 당근마켓에 내놓아야 겠다.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Nov 2019 02:30:00 +0900</pubDate>
+        <link>https://lee-yunseok.github.io/life/diary/2019/11/30/daangn-market-sell-mini-speaker.html</link>
+        <guid isPermaLink="true">https://lee-yunseok.github.io/life/diary/2019/11/30/daangn-market-sell-mini-speaker.html</guid>
+        
+        <category>당근마켓</category>
+        
+        <category>중고물품</category>
+        
+        <category>거래</category>
+        
+        <category>일상</category>
+        
+        
+        <category>Life</category>
+        
+        <category>Diary</category>
+        
+      </item>
     
       <item>
         <title>Security Cam - Litmor Battery Cam IndieGoGo Crowdfunding</title>
@@ -882,30 +909,6 @@
         <category>Info</category>
         
         <category>Open-Source</category>
-        
-      </item>
-    
-      <item>
-        <title>[포켓몬스터] 포켓몬 소드 &amp; 쉴드 제작 발표</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://yggdrasilstudio-cdn.sirv.com/lee_yunseok/2019/03/nintendo_switch_coming_soon.webp&quot; alt=&quot;닌텐도 스위치 출시예정 타이틀&quot; /&gt;&lt;/p&gt; &lt;h2&gt;포켓몬스터 검&amp;amp;방패(소드&amp;amp;쉴드) 제작 발표&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;해피 포켓몬 데이 2019&lt;/strong&gt;를 맞아 &lt;strong&gt;포켓몬 다이렉트&lt;/strong&gt;에서 새로운 세대의 포켓몬 게임, &lt;strong&gt;포켓몬 소드&lt;/strong&gt;와 &lt;strong&gt;포켓몬 쉴드&lt;/strong&gt;를 처음으로 발표했다. 이번 발표에서는 새로운 탐험 지방과 파트너 포켓몬, 개발 중인 게임 푸티지, 연출 등을 확인할 수 있었다. 그럼 지금부터 공식 포켓몬 유튜브 채널 영상과 포켓몬 다이렉트, 닌텐도 스위치 상품 페이지의 공개된 정보를 살펴보도록 하자.&lt;/p&gt; &lt;iframe width=&quot;100%&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BdA22Lh6Rwk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h4&gt;새로운 세대의 포켓몬이 닌텐도 스위치로 출시됩니다.&lt;/h4&gt; &lt;p&gt;포켓몬 트레이너가 되어 새로운 &lt;strong&gt;가라르 지방&lt;/strong&gt;으로 새로운 여정을 떠나십시오! &lt;strong&gt;세 가지 새로운 파트너 포켓몬&lt;/strong&gt; 그루키(Grookey), 스콜버니(Scorbunny) 또는 소블(Sobble) 중 하나를 선택하십시오. 이...</description>
-        <pubDate>Fri, 01 Mar 2019 10:34:42 +0900</pubDate>
-        <link>https://lee-yunseok.github.io/info/game-news/2019/03/01/pokemon-sword-shield.html</link>
-        <guid isPermaLink="true">https://lee-yunseok.github.io/info/game-news/2019/03/01/pokemon-sword-shield.html</guid>
-        
-        <category>게임</category>
-        
-        <category>닌텐도</category>
-        
-        <category>스위치</category>
-        
-        <category>포켓몬</category>
-        
-        <category>포켓몬스터</category>
-        
-        
-        <category>Info</category>
-        
-        <category>Game-News</category>
         
       </item>
     
