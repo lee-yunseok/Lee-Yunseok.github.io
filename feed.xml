@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-18T10:03:31+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist</subtitle><author><name>Lee Yunseok</name></author><entry><title type="html">Raspberry Pi 4 B 3 Months Review</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months.html" rel="alternate" type="text/html" title="Raspberry Pi 4 B 3 Months Review" /><published>2019-11-27T22:48:52+09:00</published><updated>2019-11-27T22:48:52+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months.html">&lt;em&gt;Lee Yunseok's Raspberry Pi 4 Micro Desktop Reviews and Default Settings.&lt;/em&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-18T11:49:27+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist</subtitle><author><name>Lee Yunseok</name></author><entry><title type="html">Raspberry Pi 4 B 3 Months Review</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months.html" rel="alternate" type="text/html" title="Raspberry Pi 4 B 3 Months Review" /><published>2019-11-27T22:48:52+09:00</published><updated>2019-11-27T22:48:52+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months.html">&lt;em&gt;Lee Yunseok's Raspberry Pi 4 Micro Desktop Reviews and Default Settings.&lt;/em&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/lee-yunseok-7HG-RPi4-small.webp&quot; alt=&quot;Lee Yunseok's Raspberry Pi 4 Raspbian Screen Capture&quot;&gt;
 &lt;span class=&quot;caption text-muted&quot;&gt;Lee Yunseok's Raspberry Pi 4 Raspbian Screen Capture&lt;/span&gt;&lt;/p&gt;
@@ -86,7 +86,7 @@ sudo apt-get install ibus ibus-hangul fonts-unfonts-core fonts-nanum ttf-aenigma
 
 &lt;p&gt;Okay, now it's time to configure firewall. &lt;strong&gt;This is the last step.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;code&gt;sudo ufw allow 22 &amp;&amp; sudo ufw allow 80 &amp;&amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;&amp; sudo ufw --force enable &amp;&amp; sudo reboot&lt;code&gt;
+&lt;code&gt;sudo ufw allow 22 &amp;&amp; sudo ufw allow 80 &amp;&amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;&amp; sudo ufw --force enable &amp;&amp; sudo reboot&lt;/code&gt;
 
 &lt;hr /&gt;
 
@@ -131,7 +131,170 @@ sudo apt-get install ibus ibus-hangul fonts-unfonts-core fonts-nanum ttf-aenigma
 		&lt;code&gt;./Discouraged-Workers.sh&lt;/code&gt;
 &lt;/ol&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/404910/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn't test it.</summary></entry><entry><title type="html">Discouraged Workers - Extras</title><link href="https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers - Extras" /><published>2015-09-24T04:36:00+09:00</published><updated>2015-09-24T04:36:00+09:00</updated><id>https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+&lt;iframe src=&quot;https://store.steampowered.com/widget/404910/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn't test it.</summary></entry><entry><title type="html">Where is My Cranberry Jam? - Alpha Prototype V 0.1.1</title><link href="https://lee-yunseok.github.io/2016/05/20/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype.html" rel="alternate" type="text/html" title="Where is My Cranberry Jam? - Alpha Prototype V 0.1.1" /><published>2016-05-20T23:15:00+09:00</published><updated>2016-05-20T23:15:00+09:00</updated><id>https://lee-yunseok.github.io/2016/05/20/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype</id><content type="html" xml:base="https://lee-yunseok.github.io/2016/05/20/where-is-my-cranberry-jam-v-0-1-1-alpha-prototype.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;carousel-item active&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj-title.webp&quot; alt=&quot;1st slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_1.webp&quot; alt=&quot;2nd slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_2.webp&quot; alt=&quot;3rd slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_3.webp&quot; alt=&quot;4th slide&quot;&gt;
+    &lt;/div&gt;
+	&lt;div class=&quot;carousel-item&quot;&gt;
+	  &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_4.webp&quot; alt=&quot;5th slide&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;carousel-item&quot;&gt;
+	  &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_5.webp&quot; alt=&quot;6th slide&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;carousel-item&quot;&gt;
+	  &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_6.webp&quot; alt=&quot;7th slide&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;carousel-item&quot;&gt;
+	  &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_7.webp&quot; alt=&quot;8th slide&quot;&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;carousel-item&quot;&gt;
+	  &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/wimcj_ss_lg_8.webp&quot; alt=&quot;9th slide&quot;&gt;
+	&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Where is my cranberry jam?&lt;/strong&gt; is an indie adventure created by YGGDRASIL STUDIO. Ga-yeon must find the missing cranberry jam.&lt;/p&gt;
+
+&lt;h4&gt;Description&lt;/h4&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;The game is an extra-sequel in the Project DW series, a very short and small mini-game.&lt;/li&gt;
+	&lt;li&gt;Scenarios will be moved through the third person point of view, and the levels will be moved through Ga-yeon's point of view.&lt;/li&gt;
+	&lt;li&gt;In the levels, you can control Ga-yeon and explore the voxel world.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Features&lt;/h4&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;The animation-style art with voxel world.&lt;/li&gt;
+	&lt;li&gt;Room contains a Gallery and Trophies, and Objects that you collect.&lt;/li&gt;
+	&lt;li&gt;Full controller support.&lt;/li&gt;
+	&lt;li&gt;Game Jolt Scoreboards, Trophies support.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Key records&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;Participated in the AdventureJam2016(#AdvJam2016)&lt;/li&gt;&lt;/ul&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers Digital Art Book</title><link href="https://lee-yunseok.github.io/2015/11/04/discouraged-workers-digital-art-book-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers Digital Art Book" /><published>2015-11-04T05:31:00+09:00</published><updated>2015-11-04T05:31:00+09:00</updated><id>https://lee-yunseok.github.io/2015/11/04/discouraged-workers-digital-art-book-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/11/04/discouraged-workers-digital-art-book-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;carousel-item active&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_382390_ss_1.webp&quot; alt=&quot;1st slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_382390_ss_2.webp&quot; alt=&quot;2nd slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_382390_ss_3.webp&quot; alt=&quot;3rd slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_382390_ss_4.webp&quot; alt=&quot;4th slide&quot;&gt;
+    &lt;/div&gt;
+	&lt;div class=&quot;carousel-item&quot;&gt;
+	  &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_382390_ss_5.webp&quot; alt=&quot;5th slide&quot;&gt;
+	&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2&gt;Discouraged Workers Digital Art Book&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Contains 50 pages in PDF&lt;/li&gt;
+	&lt;li&gt;Contains 50cm*150cm Dakimakura cover arts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://store.steampowered.com/widget/382390/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers Digital Concept Book</title><link href="https://lee-yunseok.github.io/2015/10/23/discouraged-workers-digital-concept-book-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers Digital Concept Book" /><published>2015-10-23T05:05:00+09:00</published><updated>2015-10-23T05:05:00+09:00</updated><id>https://lee-yunseok.github.io/2015/10/23/discouraged-workers-digital-concept-book-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/10/23/discouraged-workers-digital-concept-book-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+  &lt;/ol&gt;
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    &lt;div class=&quot;carousel-item active&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_384650_ss_1.webp&quot; alt=&quot;1st slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_384650_ss_koreana_2.webp&quot; alt=&quot;2nd slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_384650_ss_koreana_3.webp&quot; alt=&quot;3rd slide&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;carousel-item&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_384650_ss_koreana_4.webp&quot; alt=&quot;4th slide&quot;&gt;
+    &lt;/div&gt;
+	&lt;div class=&quot;carousel-item&quot;&gt;
+	  &lt;img class=&quot;d-block w-100&quot; src=&quot;/img/posts/discouraged_workers_384650_ss_koreana_5.webp&quot; alt=&quot;5th slide&quot;&gt;
+	&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2&gt;Discouraged Workers Digital Concept Book&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Contains 44~47 Pages in PDF&lt;/li&gt;
+	&lt;li&gt;Contains Characters Archive&lt;/li&gt;
+	&lt;li&gt;Contains Concept Archive&lt;/li&gt;
+	&lt;li&gt;Contains Diary Archive&lt;/li&gt;
+	&lt;li&gt;Contains Miscellaneous&lt;/li&gt;
+	&lt;li&gt;Contains History of the project&lt;/li&gt;
+	&lt;li&gt;Spanish PDF is currently in beta&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://store.steampowered.com/widget/384650/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers - Extras</title><link href="https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers - Extras" /><published>2015-09-24T04:36:00+09:00</published><updated>2015-09-24T04:36:00+09:00</updated><id>https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
   &lt;ol class=&quot;carousel-indicators&quot;&gt;
     &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
     &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
