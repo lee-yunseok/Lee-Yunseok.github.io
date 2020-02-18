@@ -5,7 +5,7 @@ _My personal website project made with :hearts: and [Jekyll](https://jekyllrb.co
 - 35 years old human
 - [Raspberry Pi 4](https://www.raspberrypi.org/)
   - [Raspbian](https://www.raspbian.org/)
-- [Min Web Browser](https://minbrowser.github.io/min/)
+- [Min](https://minbrowser.github.io/min/)
   - [DuckDuckGo](https://duckduckgo.com/)
 - [GNU Nano](https://www.nano-editor.org/)
 - [muCommander](http://www.mucommander.com/)
