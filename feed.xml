@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-19T11:25:23+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok – Independent Cultural Artist</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Raspberry Pi 4 B 3 Months Review</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months/" rel="alternate" type="text/html" title="Raspberry Pi 4 B 3 Months Review" /><published>2019-11-27T22:48:52+09:00</published><updated>2019-11-27T22:48:52+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months/">&lt;p&gt;&lt;em&gt;Lee Yunseok’s Raspberry Pi 4 Micro Desktop Reviews and Default Settings.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-20T08:06:45+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok – Independent Cultural Artist</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">A second pull request to the Min web browser project</title><link href="https://lee-yunseok.github.io/2020/02/17/min-web-browser/" rel="alternate" type="text/html" title="A second pull request to the Min web browser project" /><published>2020-02-17T13:38:56+09:00</published><updated>2020-02-17T13:38:56+09:00</updated><id>https://lee-yunseok.github.io/2020/02/17/min-web-browser</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/17/min-web-browser/">&lt;p&gt;A few days ago I completed a second pull request for the &lt;strong&gt;Min&lt;/strong&gt; web browser’s GitHub project. Commit was a Korean translation of the &lt;strong&gt;password manager&lt;/strong&gt; that was added to &lt;strong&gt;Min&lt;/strong&gt; a while ago.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Last november I completed my first pull request. It contains Korean translation and Raspberry Pi 4 Raspbian build script(&lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;armhf&lt;/code&gt;&lt;/small&gt;), debian pre/postinst scripts that add Min to &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;update-alternatives&lt;/code&gt;&lt;/small&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Min is my favorite web browser. It’s chromium-based, open source, minimal and fast. Also support content blocking. I’m only using Min after imort bookmark feature added. It’s not perfect browser yet but enough for me.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="min" /><category term="web" /><category term="browser" /><category term="open-source" /><category term="minimal" /><summary type="html">A few days ago I completed a second pull request for the Min web browser’s GitHub project. Commit was a Korean translation of the password manager that was added to Min a while ago.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/min-browser-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/min-browser-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Complete the Korean translation of Weblate</title><link href="https://lee-yunseok.github.io/2019/12/07/weblate/" rel="alternate" type="text/html" title="Complete the Korean translation of Weblate" /><published>2019-12-07T20:10:27+09:00</published><updated>2019-12-07T20:10:27+09:00</updated><id>https://lee-yunseok.github.io/2019/12/07/weblate</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/12/07/weblate/">&lt;p&gt;I’ve complete the Korean translation of Weblate. Worked for all website, hosted, application, application javascript, application language categories. This took about nine hours.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Weblate is an web-based continuous localization platform, copylefted libre software. It currently used by over 1150 libre software projects and companies in over 115 countries.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hosted.weblate.org/engage/weblate/ko/?utm_source=widget&quot;&gt;
+&lt;img src=&quot;https://hosted.weblate.org/widgets/weblate/ko/svg-badge.svg&quot; alt=&quot;Statics&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;weblate-robust-features&quot;&gt;Weblate robust Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Continuous Localization&lt;/strong&gt;: automated localization workflow follows your project development closely.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quality Checks&lt;/strong&gt;: customizable quality checks helps improve translation quality.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attribution&lt;/strong&gt;:  all translators are properly credited in the version control system.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hosting Plans&lt;/strong&gt;: use Weblate as a service starting at 19 EUR.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cloud Ready&lt;/strong&gt;: comes with appliances, ready to deploy in your cloud.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Libre Software&lt;/strong&gt;: copylefted; use, see, modigy and share at will, and with everyone.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Looking for a web-based localization platform?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+If so, I suggest Weblate or Zanata. Weblate is a popular platform already used by many companies, and Zanata is a platform that is still considered to be in development.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://weblate.org/&quot;&gt;Visit Weblate&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://zanata.org/&quot;&gt;Visit Zanata&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="weblate" /><category term="localization" /><category term="translation" /><category term="korean" /><category term="open-source" /><summary type="html">I’ve complete the Korean translation of Weblate. Worked for all website, hosted, application, application javascript, application language categories. This took about nine hours.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/weblate-background-512.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/weblate-background-512.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Raspberry Pi 4 B 3 Months Review</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months/" rel="alternate" type="text/html" title="Raspberry Pi 4 B 3 Months Review" /><published>2019-11-27T22:48:52+09:00</published><updated>2019-11-27T22:48:52+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months/">&lt;p&gt;&lt;em&gt;Lee Yunseok’s Raspberry Pi 4 Micro Desktop Reviews and Default Settings.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;raspberry-pi-4-review&quot;&gt;Raspberry Pi 4 Review&lt;/h2&gt;
 
@@ -648,37 +691,4 @@ AUTHOR:
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;license&quot;&gt;License&lt;/h4&gt;
-&lt;p&gt;Icon Generator for Game Developers is covered by the terms of the MIT license.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="icon" /><category term="imagemagick" /><category term="game" /><category term="development" /><category term="script" /><category term="open-source" /><summary type="html">Shell scripts to generate many app icons more easier for developers. This is a cloned repository, restored the old ImageMagick version and added scripts for game developers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/icon-generator-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/icon-generator-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">WordPress GitHub Profile Widget</title><link href="https://lee-yunseok.github.io/2019/03/20/github-wordpress-profile-widget/" rel="alternate" type="text/html" title="WordPress GitHub Profile Widget" /><published>2019-03-20T02:38:26+09:00</published><updated>2019-03-20T02:38:26+09:00</updated><id>https://lee-yunseok.github.io/2019/03/20/github-wordpress-profile-widget</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/03/20/github-wordpress-profile-widget/">&lt;p&gt;A widget to show a small version of your GitHub personal profile (or organization).&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;This is a very simple plugin which gives you a widget to show your GitHub profile or organization in your blog. It’s very easy to setup. You just have to put your username (or organization’s slug) and select the things you want to show.&lt;/p&gt;
-
-&lt;h4 id=&quot;features-include&quot;&gt;Features include:&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Basic information (username, name);&lt;/li&gt;
-  &lt;li&gt;Company, local, email, website and when you joined to GitHub;&lt;/li&gt;
-  &lt;li&gt;Followers and following numbers;&lt;/li&gt;
-  &lt;li&gt;Repositories and gists;&lt;/li&gt;
-  &lt;li&gt;The organizations where you are included.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Disclaimer: we are not affiliated with GitHub.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;contributions&quot;&gt;Contributions&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fix bug &lt;small&gt;-September 04, 2018&lt;/small&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/refactors/github-profile-widget&quot;&gt;Visit GitHub&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="wordpress" /><category term="github" /><category term="widget" /><category term="open-source" /><category term="web" /><summary type="html">A widget to show a small version of your GitHub personal profile (or organization).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/wordpress_github_profile_widget_1.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/wordpress_github_profile_widget_1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">PW Jekyll Theme</title><link href="https://lee-yunseok.github.io/2019/03/20/pw-jekyll-theme-github-pages/" rel="alternate" type="text/html" title="PW Jekyll Theme" /><published>2019-03-20T02:38:26+09:00</published><updated>2019-03-20T02:38:26+09:00</updated><id>https://lee-yunseok.github.io/2019/03/20/pw-jekyll-theme-github-pages</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/03/20/pw-jekyll-theme-github-pages/">&lt;h2 id=&quot;pw-jekyll-theme&quot;&gt;PW Jekyll Theme&lt;/h2&gt;
-
-&lt;p&gt;This theme is designed to create my personal website on the GitHub page.&lt;/p&gt;
-
-&lt;p&gt;Modified &lt;a href=&quot;https://github.com/willianjusten/cards-jekyll-templat&quot;&gt;Card Jekyll Theme&lt;/a&gt;, which provides card-based posts as an archive and hosts Github pages with Bootstrap, Font Awesome, Light Slider, Vanilla to the Top, Pagination, Discus, Google AdSense and Google Analytics.&lt;/p&gt;
-
-&lt;p&gt;I liked the size of the main slider and the post. However, this theme was content-oriented, I decided to renew the site because of the burdened posting.&lt;/p&gt;
-
-&lt;p&gt;Considering the public distribution while renewing the personal website, but it wasn’t originally intended for distribution, so it needed to modify many source code so I decided to archive it without touching it.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="jekyll" /><category term="theme" /><category term="website" /><category term="github" /><category term="bootstrap" /><category term="fontawesome" /><category term="web" /><summary type="html">PW Jekyll Theme</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/pw_jekyll_website.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/pw_jekyll_website.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Icon Generator for Game Developers is covered by the terms of the MIT license.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="icon" /><category term="imagemagick" /><category term="game" /><category term="development" /><category term="script" /><category term="open-source" /><summary type="html">Shell scripts to generate many app icons more easier for developers. This is a cloned repository, restored the old ImageMagick version and added scripts for game developers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/icon-generator-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/icon-generator-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
