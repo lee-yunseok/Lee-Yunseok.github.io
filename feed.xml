@@ -1,623 +1,684 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-18T20:11:05+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist</subtitle><author><name>Lee Yunseok</name></author><entry><title type="html">Raspberry Pi 4 B 3 Months Review</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months.html" rel="alternate" type="text/html" title="Raspberry Pi 4 B 3 Months Review" /><published>2019-11-27T22:48:52+09:00</published><updated>2019-11-27T22:48:52+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months.html">&lt;em&gt;Lee Yunseok's Raspberry Pi 4 Micro Desktop Reviews and Default Settings.&lt;/em&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-19T09:46:02+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok – Independent Cultural Artist</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Raspberry Pi 4 B 3 Months Review</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months/" rel="alternate" type="text/html" title="Raspberry Pi 4 B 3 Months Review" /><published>2019-11-27T22:48:52+09:00</published><updated>2019-11-27T22:48:52+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-review-with-3-months/">&lt;p&gt;&lt;em&gt;Lee Yunseok’s Raspberry Pi 4 Micro Desktop Reviews and Default Settings.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/posts/lee-yunseok-7HG-RPi4-small.webp&quot; alt=&quot;Lee Yunseok's Raspberry Pi 4 Raspbian Screen Capture&quot;&gt;
-&lt;span class=&quot;caption text-muted&quot;&gt;Lee Yunseok's Raspberry Pi 4 Raspbian Screen Capture&lt;/span&gt;&lt;/p&gt;
-
-&lt;h2&gt;Raspberry Pi 4 Review&lt;/h2&gt;
+&lt;h2 id=&quot;raspberry-pi-4-review&quot;&gt;Raspberry Pi 4 Review&lt;/h2&gt;
 
 &lt;p&gt;I have been using Raspberry Pi 4 for full of 3 months and a half. It has a reset eight times within use, and has been stabilized by 64-bit kernel firmware and several updates, and is now the main micro desktop completely replacing my laptop PC. Raspberry Pi 4 takes into my desk, and a laptop PC went in the briefcase. This article is also being written in Raspberry Pi.&lt;/p&gt;
 
-&lt;p&gt;I'm using Raspbian OS called Raspbian Buster. Raspbian is the operating system of Raspberry Pi, based on the Linux Debian Buster, provided by the Raspberry Pi Foundation for Raspberry Pi users. There is a pre-installed version of the Raspbian and recommended software, and a default desktop version used by me, lastly a small Cli-based Raspbian Buster Lite that is good for use on a server or a specific project.&lt;/p&gt;
+&lt;p&gt;I’m using Raspbian OS called Raspbian Buster. Raspbian is the operating system of Raspberry Pi, based on the Linux Debian Buster, provided by the Raspberry Pi Foundation for Raspberry Pi users. There is a pre-installed version of the Raspbian and recommended software, and a default desktop version used by me, lastly a small Cli-based Raspbian Buster Lite that is good for use on a server or a specific project.&lt;/p&gt;
 
-&lt;blockquote&gt;Gentoo64 didn't recognize the Bluetooth keyboard at initial setup, so I just giveup, and my favorite TinyCoreLinux PiCore came out with a version of PiCore 11 Alpha that supports Raspberry Pi 4, but it still offers only Cli-based OS images. So it is not suitable for desktop use because it requires a lot of effort to configure the GUI environment.&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Gentoo64 didn’t recognize the Bluetooth keyboard at initial setup, so I just giveup, and my favorite TinyCoreLinux PiCore came out with a version of PiCore 11 Alpha that supports Raspberry Pi 4, but it still offers only Cli-based OS images. So it is not suitable for desktop use because it requires a lot of effort to configure the GUI environment.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;My devices include Raspberry Pi 4 B 4GB RAM and case, 64GB SD card, 32GB USB and 1TB external hard drive, 15.6-inch portable monitor and 7-inch official Raspberry Pi touchscreen monitor, CSI webcam camera, keyboard and mouse. When working for sounds, the Audio Injector Ultra 2 sound card and Scarlett Sole 3rd Gen audio interface, MXL 770 condenser microphone, PreSonus Eris E3.5 monitor speakers, Tescam TH03 Headphones, mAudio Keystation 88es Master Keyboard and more.&lt;/p&gt;
 
-&lt;blockquote&gt;Will Raspberry Pi 4 replace desktops? My answer is &lt;strong&gt;&quot;yes.&quot;&lt;/strong&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Will Raspberry Pi 4 replace desktops? My answer is &lt;strong&gt;“yes.”&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;The Raspberry Pi Foundation has said it's the first micro desktop environment to replace desktops, and I think so. Basic things like surfing the internet, playing video, listening to music, writing documents, and anything you can do in a commonly used desktop environment, such as accounting, programming, graphics, 3D graphics, CAD, MIDI, and recording, are also available in Raspberry Pi 4.&lt;/p&gt;
+&lt;p&gt;The Raspberry Pi Foundation has said it’s the first micro desktop environment to replace desktops, and I think so. Basic things like surfing the internet, playing video, listening to music, writing documents, and anything you can do in a commonly used desktop environment, such as accounting, programming, graphics, 3D graphics, CAD, MIDI, and recording, are also available in Raspberry Pi 4.&lt;/p&gt;
 
-&lt;p&gt;If your main use is gaming, it's a bit different at the moment, but there are many advantages of Raspberry Pi that you can use. First of all, it's a Raspberry Pi that's similar in size to a credit card.&lt;/p&gt;
+&lt;p&gt;If your main use is gaming, it’s a bit different at the moment, but there are many advantages of Raspberry Pi that you can use. First of all, it’s a Raspberry Pi that’s similar in size to a credit card.&lt;/p&gt;
 
-&lt;p&gt;I'm very happy with the three months since I bought and used the Raspberry Pi 4 through Amazon's official seller Canakit on the day that Raspberry Pi 4 was released globally. Compared to its predecessor, the Raspberry Pi 3 B +, it has made it possible to replace laptop PCs. With a 7-inch or 3.5-inch touch display, a keyboard and mouse, and a power supply You can carry it in your bag and use it anywhere. If you're going to use it as a touch when you're carrying it, you don't even need a keyboard and mouse.&lt;/p&gt;
+&lt;p&gt;I’m very happy with the three months since I bought and used the Raspberry Pi 4 through Amazon’s official seller Canakit on the day that Raspberry Pi 4 was released globally. Compared to its predecessor, the Raspberry Pi 3 B +, it has made it possible to replace laptop PCs.&lt;/p&gt;
 
-&lt;h3&gt;Raspberry Pi 4 Default Settings&lt;/h3&gt;
+&lt;p&gt;With a 7-inch or 3.5-inch touch display, a keyboard and mouse, and a power supply You can carry it in your bag and use it anywhere. If you’re going to use it as a touch when you’re carrying it, you don’t even need a keyboard and mouse.&lt;/p&gt;
 
-&lt;p&gt;Now let's show you the basic configuration of Raspberry Pi 4. This process is &lt;u&gt;optimized for me&lt;/u&gt;, so please follow only what you need.&lt;/p&gt;
+&lt;h3 id=&quot;raspberry-pi-4-default-settings&quot;&gt;Raspberry Pi 4 Default Settings&lt;/h3&gt;
+
+&lt;p&gt;Now let’s show you the basic configuration of Raspberry Pi 4. This process is &lt;u&gt;optimized for me&lt;/u&gt;, so please follow only what you need.&lt;/p&gt;
 
 &lt;p&gt;First, plug in and power the SD card containing the Raspbian Buster OS image into the Raspberry Pi, and the Raspberry Pi will automatically expand the file system and run Raspbian. Here, you can change the default password, set the user language, internet connection, etc., and check if there is a black margin on the monitor screen.&lt;/p&gt;
 
-&lt;p&gt;Next, it asks if you want to proceed with the basic update. The user can update at any time, so if you fail here, it's not a problem. If the update is successful, Raspbian will ask if you want to reboot.&lt;/p&gt;
+&lt;p&gt;Next, it asks if you want to proceed with the basic update. The user can update at any time, so if you fail here, it’s not a problem. If the update is successful, Raspbian will ask if you want to reboot.&lt;/p&gt;
 
-&lt;p&gt;In my case, the &lt;u&gt;mouse movement was too slow at first boot&lt;/u&gt;. If you same, open the terminal(Ctrl+Alt+T) and set the mouse. Open &lt;font color=&quot;purple&quot;&gt;&lt;strong&gt;cmdline.txt&lt;/strong&gt;&lt;/font&gt; in the nano console editor, configure &lt;font color=&quot;purple&quot;&gt;&lt;strong&gt;mousepoll&lt;/strong&gt;&lt;/font&gt; to the last and reboot your Raspberry Pi. This will move your mouse at normal speed.&lt;/p&gt;
+&lt;p&gt;In my case, the &lt;u&gt;mouse movement was too slow at first boot&lt;/u&gt;. If you same, open the terminal(Ctrl+Alt+T) and set the mouse. Open &lt;strong&gt;cmdline.txt&lt;/strong&gt; in the nano console editor, configure &lt;strong&gt;mousepoll&lt;/strong&gt; to the last and reboot your Raspberry Pi. This will move your mouse at normal speed.&lt;/p&gt;
 
-&lt;code&gt;
-sudo nano /boot/cmdline.txt&lt;br /&gt;
-usbhid.mousepoll=0 //add this to last&lt;br /&gt;
-Ctrl+X //save&lt;br /&gt;
-Y //overwrite&lt;br /&gt;
-Enter //confirm&lt;br /&gt;
-sudo reboot&lt;br /&gt;
-&lt;/code&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /boot/cmdline.txt
+usbhid.mousepoll=0 //add this to last
+Ctrl+X //save
+Y //overwrite
+Enter //confirm
+sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Then set up user account. To add a user and grant permission, finish and reboot Raspberry Pi.&lt;/p&gt;
 
-&lt;code&gt;
-sudo adduser your_username&lt;br /&gt;
-sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi your_username&lt;br /&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo adduser your_username
+sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi your_username
 sudo nano /etc/lightdm/lightdm.conf
-//change autologin username. Find default autologin user pi and replace as your_username&lt;br /&gt;
+//change autologin username. Find default autologin user pi and replace as your_username
 sudo nano /etc/sudoers
-//find root ALL=(ALL:ALL) ALL) and add permissions to new user below, like root.&lt;br /&gt;
+//find root ALL=(ALL:ALL) ALL) and add permissions to new user below, like root.
 sudo reboot
-&lt;/code&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Now delete the default user account &lt;font color=&quot;purple&quot;&gt;&lt;strong&gt;pi&lt;/strong&gt;&lt;/font&gt; and reboot after updating the Raspbian 64-bit kernel firmware configuration.&lt;/p&gt;
+&lt;p&gt;Now delete the default user account &lt;strong&gt;pi&lt;/strong&gt; and reboot after updating the Raspbian 64-bit kernel firmware configuration.&lt;/p&gt;
 
-&lt;code&gt;
-sudo userdel -r pi&lt;br /&gt;
-sudo nano /boot/config.txt&lt;br /&gt;
-//add arm_64bit=1 to last empty line&lt;br /&gt;
-sudo rpi-update &amp;&amp; sudo reboot
-&lt;/code&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo userdel -r pi
+sudo nano /boot/config.txt
+//add arm_64bit=1 to last empty line
+sudo rpi-update &amp;amp;&amp;amp; sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Next update default softwares.&lt;/p&gt;
 
-&lt;code&gt;sudo apt update &amp;&amp; sudo apt list --upgradable &amp;&amp; sudo apt full-upgrade&lt;/code&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt list --upgradable &amp;amp;&amp;amp; sudo apt full-upgrade
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Set the user boot options and graphics driver.&lt;/p&gt;
 
-&lt;code&gt;sudo raspi-config&lt;/code&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo raspi-config
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Entering the above command in the terminal brings up the light gray setting screen on a blue background. From there, select &lt;strong&gt;Boot Options&gt; Desktop / CLi&gt; B4 Desktop Autologin&lt;/strong&gt; to configure the desktop to automatically login to your account and boot. Then set &lt;strong&gt;Memory Split&lt;/strong&gt; to 256MB and &lt;strong&gt;GL Driver&lt;/strong&gt; to GL (Fake KMS) in Advanced Option. Finish and &lt;strong&gt;reboot&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Entering the above command in the terminal brings up the light gray setting screen on a blue background. From there, select &lt;strong&gt;Boot Options&amp;gt; Desktop / CLi&amp;gt; B4 Desktop Autologin&lt;/strong&gt; to configure the desktop to automatically login to your account and boot. Then set &lt;strong&gt;Memory Split&lt;/strong&gt; to 256MB and &lt;strong&gt;GL Driver&lt;/strong&gt; to GL (Fake KMS) in Advanced Option. Finish and &lt;strong&gt;reboot&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;After reboot, type &lt;code&gt;sudo apt autoremove&lt;/code&gt; in terminal, then unnecessary programs will be removed.&lt;/p&gt;
+&lt;p&gt;After reboot, type &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo apt autoremove&lt;/code&gt; in terminal, then unnecessary programs will be removed.&lt;/p&gt;
 
-&lt;p&gt;Now install the software you need from &lt;font color=&quot;purple&quot;&gt;&lt;strong&gt;apt-get&lt;/strong&gt;&lt;/font&gt; or Menu&gt;Preferences&gt;Add/Remove Software. I have installed the following programs.&lt;/p&gt;
+&lt;p&gt;Now install the software you need from &lt;strong&gt;apt-get&lt;/strong&gt; or Menu&amp;gt;Preferences&amp;gt;Add/Remove Software. I have installed the following programs.&lt;/p&gt;
 
-&lt;code&gt;
-sudo apt-get install ibus ibus-hangul fonts-unfonts-core fonts-nanum ttf-aenigma fonts-tuffy fonts-noto-cjk zip p7zip unrar-free software-properties-common screen libreoffice-writer libreoffice-calc libreoffice-impress gnucash gimp tiled webp imagemagick birdfont lmms jackd2 audacious audacity opus-tools picard libx11-dev libfontconfig1-dev libxft-dev libcairo2-dev libjpeg-dev libjack-jackd2-dev liblo-ocaml-dev libsndfile1-dev libladspa-ocaml-dev liblrdf0-dev libsigc++-2.0-dev kdenlive openjdk-11-jdk-headless poedit cmake ufw ruby-full-dev clang zlib1g-dev npm cmdtest grunt apache2 php mariadb-server wordpress godot3 godot3-runner mesa-utils glew-utils blender makehuman freecad freecad-python3 parallel libgvc6&lt;/code&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt-get install ibus ibus-hangul fonts-unfonts-core fonts-nanum ttf-aenigma fonts-tuffy fonts-noto-cjk zip p7zip unrar-free software-properties-common screen libreoffice-writer libreoffice-calc libreoffice-impress gnucash gimp tiled webp imagemagick birdfont lmms jackd2 audacious audacity opus-tools picard libx11-dev libfontconfig1-dev libxft-dev libcairo2-dev libjpeg-dev libjack-jackd2-dev liblo-ocaml-dev libsndfile1-dev libladspa-ocaml-dev liblrdf0-dev libsigc++-2.0-dev kdenlive openjdk-11-jdk-headless poedit cmake ufw ruby-full-dev clang zlib1g-dev npm cmdtest grunt apache2 php mariadb-server wordpress godot3 godot3-runner mesa-utils glew-utils blender makehuman freecad freecad-python3 parallel libgvc6
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;And I installed the following software myself:&lt;/p&gt;
 
-&lt;small&gt;GitHub clones, Fonts, Soundfonts, Ren'Py, Piskel, Non, muCommander, Voxelshop, IzPack, node-modules and Bundler.&lt;/small&gt;
+&lt;p&gt;&lt;small&gt;GitHub clones, Fonts, Soundfonts, Ren’Py, Piskel, Non, muCommander, Voxelshop, IzPack, node-modules and Bundler.&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Also set the desktop font sizes and menu bar panels, Dracula colorscheme for Geany, sync and set Google Chromium, configure git, other etc.&lt;/p&gt;
 
-&lt;p&gt;Okay, now it's time to configure firewall. &lt;strong&gt;This is the last step.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Okay, now it’s time to configure firewall. &lt;strong&gt;This is the last step.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;code&gt;sudo ufw allow 22 &amp;&amp; sudo ufw allow 80 &amp;&amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;&amp; sudo ufw --force enable &amp;&amp; sudo reboot&lt;/code&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo ufw allow 22 &amp;amp;&amp;amp; sudo ufw allow 80 &amp;amp;&amp;amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;amp;&amp;amp; sudo ufw --force enable &amp;amp;&amp;amp; sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;hr /&gt;
 
-&lt;h4&gt;Closing...&lt;/h4&gt;
+&lt;h4 id=&quot;closing&quot;&gt;Closing…&lt;/h4&gt;
 
-&lt;blockquote&gt;It is true that many software is not yet supported in Raspberry Pi 4. But there will be software to replace them, and in the near future there will be more software supporting the aarch64 architecture. So..., just enjoy this time now!&lt;/blackquote&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Lee Yunseok's Raspberry Pi 4 Micro Desktop Reviews and Default Settings.</summary></entry><entry><title type="html">Discouraged Workers now support Raspberry Pi 4 Raspbian</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-support-discouraged-workers-extras-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers now support Raspberry Pi 4 Raspbian" /><published>2019-11-27T21:21:24+09:00</published><updated>2019-11-27T21:21:24+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-support-discouraged-workers-extras-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-support-discouraged-workers-extras-dlc.html">&lt;p&gt;Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn't test it.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;It is true that many software is not yet supported in Raspberry Pi 4. But there will be software to replace them, and in the near future there will be more software supporting the aarch64 architecture. So…, just enjoy this time now!&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><summary type="html">Lee Yunseok’s Raspberry Pi 4 Micro Desktop Reviews and Default Settings.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/lee-yunseok-7HG-RPi4-small.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/lee-yunseok-7HG-RPi4-small.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Discouraged Workers now support Raspberry Pi 4 Raspbian</title><link href="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-support-discouraged-workers-extras-dlc/" rel="alternate" type="text/html" title="Discouraged Workers now support Raspberry Pi 4 Raspbian" /><published>2019-11-27T21:21:24+09:00</published><updated>2019-11-27T21:21:24+09:00</updated><id>https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-support-discouraged-workers-extras-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/27/raspberry-pi-4-support-discouraged-workers-extras-dlc/">&lt;p&gt;Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn’t test it.&lt;/p&gt;
 
-&lt;h2&gt;Changelog&lt;/h2&gt;
+&lt;h2 id=&quot;changelog&quot;&gt;Changelog&lt;/h2&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;Update: Version 1.8.4.208 &gt; 1.8.4.21&lt;/li&gt;
-	&lt;li&gt;Update: Ren'Py Engine Version 7.2.2.491 &gt; 7.4.0.84&lt;/li&gt;
-		&lt;ul&gt;
-			&lt;li&gt;Fixed: A fairly major issue that could cause screens that interpolate text to not update, or update improperly.&lt;/li&gt;
-			&lt;li&gt;Fixed: properly runs the image prediction routine from the image prediction thread.&lt;/li&gt;
-			&lt;li&gt;Improved: The drag and drop system has been improved to better interact with updated screens.&lt;/li&gt;
-			&lt;li&gt;Notice: There will be more changes because I use &lt;strong&gt;nightly&lt;/strong&gt; build of Ren'Py.&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;li&gt;Added: Raspberry Pi 4 support.&lt;/li&gt;
-	&lt;li&gt;Improved: System console messages  are now displayed in your selected language.&lt;/li&gt;
-	&lt;li&gt;Fixed: Crash with Pydict import error.&lt;/li&gt;
+  &lt;li&gt;Update: Version 1.8.4.208 &amp;gt; 1.8.4.21&lt;/li&gt;
+  &lt;li&gt;Update: Ren’Py Engine Version 7.2.2.491 &amp;gt; 7.4.0.84&lt;/li&gt;
+  &lt;li&gt;Fixed: A fairly major issue that could cause screens that interpolate text to not update, or update improperly.&lt;/li&gt;
+  &lt;li&gt;Fixed: properly runs the image prediction routine from the image prediction thread.&lt;/li&gt;
+  &lt;li&gt;Improved: The drag and drop system has been improved to better interact with updated screens.&lt;/li&gt;
+  &lt;li&gt;Notice: There will be more changes because I use &lt;strong&gt;nightly&lt;/strong&gt; build of Ren’Py.&lt;/li&gt;
+  &lt;li&gt;Added: Raspberry Pi 4 support.&lt;/li&gt;
+  &lt;li&gt;Improved: System console messages  are now displayed in your selected language.&lt;/li&gt;
+  &lt;li&gt;Fixed: Crash with Pydict import error.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2&gt;Instructions&lt;/h2&gt;
+&lt;h2 id=&quot;instructions&quot;&gt;Instructions&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Download &lt;small&gt;Extras DLC&lt;/small&gt;.&lt;/li&gt;
+  &lt;li&gt;In the Steam client, right-click the Discouraged Workers, open &lt;small&gt;Properties&lt;/small&gt;, move to &lt;small&gt;LOCAL FILES&lt;/small&gt; tab, select the &lt;small&gt;BROWSE LOCAL FILES&lt;/small&gt;.&lt;/li&gt;
+  &lt;li&gt;Open Extras directory, then copy &lt;small&gt;Discouraged-Workers-1.8.4.21-&lt;strong&gt;raspi&lt;/strong&gt;.tar.bz2&lt;/small&gt; to somewhere that you can access on your Pi&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Configure your Pi with &lt;small&gt;raspi-config&lt;/small&gt;. In Advanced options,&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;Memory Split: 256MB&lt;/li&gt;
+      &lt;li&gt;GL Driver: GL (Fake kms)&lt;/li&gt;
+      &lt;li&gt;Reboot your Pi.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Copy the RPi build wherever you want.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In terminal, type:&lt;/p&gt;
+
+    &lt;p&gt;tar xf Discouraged-Workers-1.8.4.21-raspi.tar.bz2
+  cd Discouraged-Workers-1.8.4.21
+  ./Discouraged-Workers.sh&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Press &lt;small&gt;Shift+G&lt;/small&gt;, select &lt;small&gt;Force OpenGL Renderer&lt;/small&gt;, quit and re-run.&lt;/p&gt;
+
+    &lt;p&gt;./Discouraged-Workers.sh&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe src=&quot;https://store.steampowered.com/widget/404910/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="raspberry-pi" /><category term="raspbian" /><category term="discouraged-workers" /><category term="steam" /><summary type="html">Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn’t test it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/kndw_raspi.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/kndw_raspi.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jekyll Personal Website Theme</title><link href="https://lee-yunseok.github.io/2019/11/11/jekyll-personal-website-theme-github-pages/" rel="alternate" type="text/html" title="Jekyll Personal Website Theme" /><published>2019-11-11T02:38:26+09:00</published><updated>2019-11-11T02:38:26+09:00</updated><id>https://lee-yunseok.github.io/2019/11/11/jekyll-personal-website-theme-github-pages</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/11/jekyll-personal-website-theme-github-pages/">&lt;h1 id=&quot;jekyll-personal-website&quot;&gt;Jekyll Personal Website&lt;/h1&gt;
+
+&lt;p&gt;The theme is an blogger friendly Jekyll expansion port of GitHub official &lt;a href=&quot;https://github.com/github/personal-website&quot;&gt;personal website&lt;/a&gt; theme. It supports card-like archives as the latest posts. Each post can have image sliders and previous, next, related posts, and comments. Card archives support pagination by category are available. Designed to easily apply metadata, analytics, verification, rss feed and sitemap. Contact forms are also supported.&lt;/p&gt;
+
+&lt;p&gt;I’ve attached a screenshot of the archive below, and you can see my personal website as a demo page &lt;a href=&quot;https://Lee-Yunseok.GitHub.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;showcase-your-software-development-skills&quot;&gt;Showcase your software development skills&lt;/h3&gt;
+
+&lt;p&gt;This repository gives you the code you’ll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner’s photo and repositories.&lt;/p&gt;
+
+&lt;p&gt;Your personal website is waiting to be personalized, though. It includes space to highlight your specific areas of interest in software development, like languages or industries. And it’s standing by to publish your next great blog post.&lt;/p&gt;
+
+&lt;p&gt;It’s all possible using the combination of &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt; (for building your website), &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; (for hosting your website), and &lt;a href=&quot;https://developer.github.com/v3/&quot;&gt;GitHub’s API&lt;/a&gt; (for automatically populating your website with content).&lt;/p&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;h3 id=&quot;fork-the-lee-yunseokjekyll-personal-website-repo&quot;&gt;Fork the &lt;code class=&quot;highlighter-rouge&quot;&gt;lee-yunseok/jekyll-personal-website&lt;/code&gt; repo&lt;/h3&gt;
+
+&lt;p&gt;You’ll be making your own copy of the “personal website starter” repository so you have your own project to customize. A “fork” is a copy of a repository. So select “Fork” atop &lt;a href=&quot;https://github.com/lee-yunseok/jekyll-personal-website&quot;&gt;the &lt;code class=&quot;highlighter-rouge&quot;&gt;lee-yunseok/jekyll-personal-website&lt;/code&gt; repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve found a home for your forked repository, it’s yours. You’re the owner, so you’re ready to publish, if you wish.&lt;/p&gt;
+
+&lt;h3 id=&quot;install-in-your-local-development-environment&quot;&gt;Install in your local development environment&lt;/h3&gt;
+
+&lt;p&gt;If you want to manage your website in a local web development environment, you’ll be using &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Ruby&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve found a home for your forked repository, &lt;strong&gt;&lt;a href=&quot;https://help.github.com/articles/cloning-a-repository/&quot;&gt;clone it&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;install-jekyll&quot;&gt;Install Jekyll&lt;/h4&gt;
+
+&lt;p&gt;Jekyll is a &lt;a href=&quot;https://jekyllrb.com/docs/ruby-101/#gems&quot;&gt;Ruby Gem&lt;/a&gt; that can be installed on most systems.&lt;/p&gt;
+
 &lt;ol&gt;
-	&lt;li&gt;Download &lt;small&gt;Extras DLC&lt;/small&gt;.&lt;/li&gt;
-	&lt;li&gt;In the Steam client, right-click the Discouraged Workers, open &lt;small&gt;Properties&lt;/small&gt;, move to &lt;small&gt;LOCAL FILES&lt;/small&gt; tab, select the &lt;small&gt;BROWSE LOCAL FILES&lt;/small&gt;.&lt;/li&gt;
-	&lt;li&gt;Open Extras directory, then copy &lt;small&gt;Discouraged-Workers-1.8.4.21-&lt;strong&gt;raspi&lt;/strong&gt;.tar.bz2&lt;/small&gt; to somewhere that you can access on your Pi.&lt;/li&gt;
-	&lt;li&gt;Configure your Pi with &lt;small&gt;raspi-config&lt;/small&gt;. In Advanced options,&lt;/li&gt;
-		&lt;ul&gt;
-			&lt;li&gt;Memory Split: 256MB&lt;/li&gt;
-			&lt;li&gt;GL Driver: GL (Fake kms)&lt;/li&gt;
-			&lt;li&gt;Reboot your Pi.&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;li&gt;Copy the RPi build wherever you want.&lt;/li&gt;
-	&lt;li&gt;In terminal, type:&lt;/li&gt;
-		&lt;code&gt;
-			tar xf Discouraged-Workers-1.8.4.21-raspi.tar.bz2&lt;/br /&gt;
-			cd Discouraged-Workers-1.8.4.21&lt;br /&gt;
-			./Discouraged-Workers.sh
-		&lt;/code&gt;
-	&lt;li&gt;Press &lt;small&gt;Shift+G&lt;/small&gt;, select &lt;small&gt;Force OpenGL Renderer&lt;/small&gt;, quit and re-run.&lt;/li&gt;
-		&lt;code&gt;./Discouraged-Workers.sh&lt;/code&gt;
+  &lt;li&gt;Install a full &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Ruby development environment&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Install Jekyll and &lt;a href=&quot;https://jekyllrb.com/docs/ruby-101/#bundler&quot;&gt;bundler&lt;/a&gt; &lt;a href=&quot;https://jekyllrb.com/docs/ruby-101/#gems&quot;&gt;gems&lt;/a&gt;
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem install jekyll bundler
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Change into your new directory
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd jekyll-personal-website
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Install missing gems
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Build the site and make it available on a local server
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle exec jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;You should see something like:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Configuration file: /octocat/personal-website/_config.yml
+             Source: /octocat/personal-website
+        Destination: /octocat/_site
+  Incremental build: disabled. Enable with --incremental
+       Generating...
+    GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+                     done in 14.729 seconds.
+  Auto-regeneration: enabled for '/octocat/personal-website'
+     Server address: http://127.0.0.1:4000
+   Server running... press ctrl-c to stop.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+
+    &lt;p&gt;Don’t worry about the “No GitHub API authentication could be found” message. &lt;a href=&quot;https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md&quot;&gt;API authentication is only necessary&lt;/a&gt; if you intend to display more detailed metadata, like a branch name.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Now browse to &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/404910/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn't test it.</summary></entry><entry><title type="html">Where is My Cranberry Jam? - Alpha Prototype</title><link href="https://lee-yunseok.github.io/2016/05/20/where-is-my-cranberry-jam-alpha-prototype.html" rel="alternate" type="text/html" title="Where is My Cranberry Jam? - Alpha Prototype" /><published>2016-05-20T23:15:00+09:00</published><updated>2016-05-20T23:15:00+09:00</updated><id>https://lee-yunseok.github.io/2016/05/20/where-is-my-cranberry-jam-alpha-prototype</id><content type="html" xml:base="https://lee-yunseok.github.io/2016/05/20/where-is-my-cranberry-jam-alpha-prototype.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj-title.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_1.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_2.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_3.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-	&lt;div class=&quot;carousel-item&quot;&gt;
-	  &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_4.webp&quot; alt=&quot;5th slide&quot;&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;carousel-item&quot;&gt;
-	  &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_5.webp&quot; alt=&quot;6th slide&quot;&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;carousel-item&quot;&gt;
-	  &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_6.webp&quot; alt=&quot;7th slide&quot;&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;carousel-item&quot;&gt;
-	  &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_7.webp&quot; alt=&quot;8th slide&quot;&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;carousel-item&quot;&gt;
-	  &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/wimcj_ss_lg_8.webp&quot; alt=&quot;9th slide&quot;&gt;
-	&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;h3 id=&quot;publish&quot;&gt;Publish&lt;/h3&gt;
 
-&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;When you host your personal website’s code on GitHub, you get the support of free hosting through GitHub Pages.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Where is my cranberry jam?&lt;/strong&gt; is an indie adventure created by YGGDRASIL STUDIO. Ga-yeon must find the missing cranberry jam.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The fastest approach&lt;/strong&gt; is to rename your repository &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt;, where &lt;code class=&quot;highlighter-rouge&quot;&gt;username&lt;/code&gt; is your GitHub username (or organization name). Then, the next time you push any changes to your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch, they’ll be accessible on the web at your &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; address.&lt;/p&gt;
 
-&lt;h4&gt;Description&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;If you want to use a custom domain&lt;/strong&gt;, you’ll want to add it to your repository’s “Custom domain” settings on github.com. And then register and/or &lt;a href=&quot;https://help.github.com/articles/quick-start-setting-up-a-custom-domain/&quot;&gt;configure your domain with a DNS provider&lt;/a&gt;.&lt;/p&gt;
 
-&lt;ul&gt;
-	&lt;li&gt;The game is an extra-sequel in the Project DW series, a very short and small mini-game.&lt;/li&gt;
-	&lt;li&gt;Scenarios will be moved through the third person point of view, and the levels will be moved through Ga-yeon's point of view.&lt;/li&gt;
-	&lt;li&gt;In the levels, you can control Ga-yeon and explore the voxel world.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;customization&quot;&gt;Customization&lt;/h2&gt;
 
-&lt;h4&gt;Features&lt;/h4&gt;
+&lt;p&gt;It’s your website, and you control the source code. So you can customize everything, if you like. But we’ve provided a handful of quick customizations for you to consider as you get your website off the ground.&lt;/p&gt;
+
+&lt;h3 id=&quot;quick-configuration-changes&quot;&gt;Quick configuration changes&lt;/h3&gt;
+
+&lt;p&gt;Most customizations can be done in a matter of seconds, by revising your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file. Just remember to restart your local server each time you save new changes so your Jekyll-powered website rebuilds correctly:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Shut down your server by entering the keyboard command &lt;kbd&gt;CTRL&lt;/kbd&gt;+&lt;kbd&gt;c&lt;/kbd&gt;&lt;/li&gt;
+  &lt;li&gt;Restart your server: &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;layout&quot;&gt;Layout&lt;/h4&gt;
+
+&lt;p&gt;Your website will display in a two-column layout by default on larger-screen devices, with your photo, name, and basic information displayed in a left-aligned “sidebar.” You can quickly switch to a “stacked” single-column layout by changing the line in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file that reads &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: sidebar&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: stacked&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;style&quot;&gt;Style&lt;/h4&gt;
+
+&lt;p&gt;Your website appears with a “light” white and gray background by default, with dark text. You can quickly switch to a “dark” background with white text by changing the line in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file that reads &lt;code class=&quot;highlighter-rouge&quot;&gt;style: light&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;style: dark&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;timezone&quot;&gt;Timezone&lt;/h4&gt;
+
+&lt;p&gt;Set your &lt;a href=&quot;https://github.com/tzinfo/tzinfo-data/blob/master/lib/tzinfo/data/indexes/countries.rb&quot;&gt;timezone&lt;/a&gt; like this below so your posts will be displayed in your timezone.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;timezone: America/Los_Angeles&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;github-user-settings&quot;&gt;GitHub User Settings&lt;/h4&gt;
+
+&lt;p&gt;This theme requires you to enter GitHub user data.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;repository: your_login_name/your_repository
+name: Your name.
+email: Your email address. Leave it blank if you don't want to show your email.
+bio: Your short bio.
+org: Your GitHub organization. Leave it blank if you don't have your own organization.
+location: Your location.
+hireable: Set &quot;true&quot; or &quot;false&quot;.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;default-metadata-tags&quot;&gt;Default Metadata tags&lt;/h4&gt;
+
+&lt;p&gt;This will fill &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt; &amp;lt;/head&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;title: Your website title.
+description: Your website description.
+keyword: Your website keyword.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;projects&quot;&gt;Projects&lt;/h4&gt;
+
+&lt;p&gt;The “My Projects” section of your website is generated by default with your nine most recently “pushed” repositories. It also excludes repositories that you forked, by default. But each of these parameters can be quickly customized in your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, under the &lt;code class=&quot;highlighter-rouge&quot;&gt;projects&lt;/code&gt; dictionary line.&lt;/p&gt;
+
+&lt;p&gt;Parameters include:&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li&gt;The animation-style art with voxel world.&lt;/li&gt;
-	&lt;li&gt;Room contains a Gallery and Trophies, and Objects that you collect.&lt;/li&gt;
-	&lt;li&gt;Full controller support.&lt;/li&gt;
-	&lt;li&gt;Game Jolt Scoreboards, Trophies support.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sort_by&lt;/code&gt;: The method by which repositories are sorted. Options include &lt;code class=&quot;highlighter-rouge&quot;&gt;pushed&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;stars&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;limit&lt;/code&gt;: The maximum number of repositories that will be displayed in the “My Projects” section of your website. Out of the box, this number is set to &lt;code class=&quot;highlighter-rouge&quot;&gt;9&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;exclude&lt;/code&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;forks&lt;/code&gt;: When &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;, repositories you’ve forked will be excluded from the listing.&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;projects&lt;/code&gt;: A list the repository names you want to exclude from the listing.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;Key records&lt;/h4&gt;
-&lt;ul&gt;&lt;li&gt;Participated in the AdventureJam2016(#AdvJam2016)&lt;/li&gt;&lt;/ul&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers Digital Art Book</title><link href="https://lee-yunseok.github.io/2015/11/04/discouraged-workers-digital-art-book-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers Digital Art Book" /><published>2015-11-04T05:31:00+09:00</published><updated>2015-11-04T05:31:00+09:00</updated><id>https://lee-yunseok.github.io/2015/11/04/discouraged-workers-digital-art-book-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/11/04/discouraged-workers-digital-art-book-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_382390_ss_1.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_382390_ss_2.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_382390_ss_3.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_382390_ss_4.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-	&lt;div class=&quot;carousel-item&quot;&gt;
-	  &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_382390_ss_5.webp&quot; alt=&quot;5th slide&quot;&gt;
-	&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;h4 id=&quot;topics&quot;&gt;Topics&lt;/h4&gt;
 
-&lt;h2&gt;Discouraged Workers Digital Art Book&lt;/h2&gt;
+&lt;p&gt;Your website comes pre-configured with three topics (e.g. “Web design” and “Sass”) that appear in a section titled “My Interests.” These are also stored in your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, where you can define each topic’s name and two other optional details:&lt;/p&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;Contains 50 pages in PDF&lt;/li&gt;
-	&lt;li&gt;Contains 50cm*150cm Dakimakura cover arts&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;web_url&lt;/code&gt;: The web address you’d like to your topic to link to (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;https://github.com/topics/sass&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;image_url&lt;/code&gt;: The web address of an (ideally square) image that you’d like to appear with your topic.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/382390/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers Digital Concept Book</title><link href="https://lee-yunseok.github.io/2015/10/23/discouraged-workers-digital-concept-book-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers Digital Concept Book" /><published>2015-10-23T05:05:00+09:00</published><updated>2015-10-23T05:05:00+09:00</updated><id>https://lee-yunseok.github.io/2015/10/23/discouraged-workers-digital-concept-book-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/10/23/discouraged-workers-digital-concept-book-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_384650_ss_1.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_384650_ss_koreana_2.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_384650_ss_koreana_3.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_384650_ss_koreana_4.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-	&lt;div class=&quot;carousel-item&quot;&gt;
-	  &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_384650_ss_koreana_5.webp&quot; alt=&quot;5th slide&quot;&gt;
-	&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;h4 id=&quot;social-media&quot;&gt;Social media&lt;/h4&gt;
 
-&lt;h2&gt;Discouraged Workers Digital Concept Book&lt;/h2&gt;
+&lt;p&gt;Your website supports linking and sharing to social media services you’re using, including Behance, Dribbble, Facebook, LinkedIn, Medium, Stack Overflow, Twitter, and YouTube. To identify the services you use:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Edit your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edit the &lt;code class=&quot;highlighter-rouge&quot;&gt;social_media&lt;/code&gt; dictionary line, and represent the services you like in a simple &lt;code class=&quot;highlighter-rouge&quot;&gt;key: value&lt;/code&gt; form:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; social_media:
+   behance: your_username
+   dribbble: your_username  
+   facebook: your_username
+   hackerrank: your_username
+   instagram: your_username
+   keybase: your_username
+   linkedin: your_username
+   medium: your_username
+   stackoverflow: your_user_id
+   telegram: your_username
+   twitter: your_username
+   unsplash: your_username
+   vk: your_username
+   website: http://your_website_url
+   youtube: your_username
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Links to your profile for each of the services you define will appear in the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;header&amp;gt;&lt;/code&gt; of your website, appended to your bio. And if those services support sharing, any blog posts that you publish will include links to share that post using each social media service.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This feature is supported by two files in your repository:&lt;/p&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;Contains 44~47 Pages in PDF&lt;/li&gt;
-	&lt;li&gt;Contains Characters Archive&lt;/li&gt;
-	&lt;li&gt;Contains Concept Archive&lt;/li&gt;
-	&lt;li&gt;Contains Diary Archive&lt;/li&gt;
-	&lt;li&gt;Contains Miscellaneous&lt;/li&gt;
-	&lt;li&gt;Contains History of the project&lt;/li&gt;
-	&lt;li&gt;Spanish PDF is currently in beta&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/_data/social_media.yml&lt;/code&gt;: Defines each of the supported services, including variable name, display name, URL path, and SVG icon.&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/_includes/social_media_share_url.html&lt;/code&gt;: Outputs the share URL required for any of the supported social media services that support sharing URLs.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/384650/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers - Extras</title><link href="https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers - Extras" /><published>2015-09-24T04:36:00+09:00</published><updated>2015-09-24T04:36:00+09:00</updated><id>https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/09/24/discouraged-workers-extras-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_raspi_koreana.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_404910_ss_1.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_404910_ss_2.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_404910_ss_3.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;If you’re interested in adding a social media service that’s not already supported in this repo, you can edit these two files to build that support.&lt;/p&gt;
 
-&lt;h2&gt;Discouraged Workers - Extras&lt;/h2&gt;
+&lt;h4 id=&quot;facebook-admin&quot;&gt;Facebook admin&lt;/h4&gt;
+
+&lt;p&gt;This will use your &lt;a href=&quot;https://www.facebook.com/help/community/question/?id=759789947398518&quot;&gt;facebook page metadata&lt;/a&gt; when who share your post. Leave it blank if you don’t want it.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;facebook_admins: Your Facebook admin number.&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;disqus-comment&quot;&gt;Disqus comment&lt;/h4&gt;
+
+&lt;p&gt;People can leave comments on your posts. Add your site and just type your &lt;a href=&quot;https://help.disqus.com/en/articles/1717111-what-s-a-shortname&quot;&gt;Disqus short name&lt;/a&gt;. Leave it blank if you don’t want it.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;disqus: Your Disqus short name.&lt;/code&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;website-verification&quot;&gt;Website verification&lt;/h4&gt;
+
+&lt;p&gt;Enter the verification codes to make them work.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;google_verification: YOUR_VERIFICATION_CODE
+bing_verification: YOUR_VERIFICATION_CODE
+naver_verification: YOUR_VERIFICATION_CODE
+norton_verification: YOUR_VERIFICATION_CODE
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;google-analytics&quot;&gt;Google Analytics&lt;/h4&gt;
+
+&lt;p&gt;Just add your &lt;a href=&quot;https://support.google.com/analytics/answer/1008080&quot;&gt;tracking code&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;google_analytics: YOUR_TRACKING_CODE&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;about-page&quot;&gt;About page&lt;/h2&gt;
+
+&lt;p&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_/includes/about.html&lt;/code&gt; file using HTML and &lt;a href=&quot;https://jekyllrb.com/docs/liquid/&quot;&gt;Liquid&lt;/a&gt; so you can include more information about you.&lt;/p&gt;
+
+&lt;h2 id=&quot;adding-pages&quot;&gt;Adding pages&lt;/h2&gt;
+
+&lt;p&gt;To &lt;strong&gt;add a page&lt;/strong&gt; to your website (e.g. detailed resume):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;.html&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file at the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_pages/&lt;/code&gt; of your repository.&lt;/li&gt;
+  &lt;li&gt;Give it a filename that you want to be used in the page’s URL (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;http://yourname.github.io/pages/filename&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;At the start of your file, include the following &lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;front matter&lt;/a&gt;:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ---
+ layout: pages
+ title: &quot;YOUR_PAGE_TITLE&quot;
+ description: &quot;YOUR_PAGE_DESCRIPTION&quot;
+ permalink: pages/YOUR_PAGE/
+ ---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you want to use Liquid, enter only front matter in your page file, then create a file with the contents in &lt;code class=&quot;highlighter-rouge&quot;&gt;_includes&lt;/code&gt;, and add &lt;code class=&quot;highlighter-rouge&quot;&gt;include_html: YOUR_LIQUID_FILE&lt;/code&gt; to front matter in the page file.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;adding-category-page&quot;&gt;Adding category page&lt;/h2&gt;
+
+&lt;p&gt;To &lt;strong&gt;add a category page&lt;/strong&gt; to your website like &lt;strong&gt;Blog&lt;/strong&gt; menu:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;.html&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file at the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_categories/&lt;/code&gt; of your repository with front matter.&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ---
+ layout: categories
+ title: &quot;YOUR_CATEGORY_TITLE&quot;
+ description: &quot;YOUR_CATEGORY_DESCRIPTION&quot;
+ permalink: YOUR_CATEGORY_NAME
+ pagination:
+   enabled: true
+   category: YOUR_CATEGORY_NAME
+ ---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Add a new link in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; with their &lt;a href=&quot;https://octicons.github.com/&quot;&gt;Octicon&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; - title: YOUR_CATEGORY_NAME
+   octicon: OCTICON_NAME
+   url: YOUR_CATEGORY_NAME
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;adding-blog-posts&quot;&gt;Adding blog posts&lt;/h2&gt;
+
+&lt;p&gt;To &lt;strong&gt;add a blog post&lt;/strong&gt; to your website:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file in your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;/_posts/&lt;/code&gt; directory.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Give it a filename using the following format:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; YEAR-MONTH-DAY-title.MARKUP
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;At the start of your file, include the following &lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;front matter&lt;/a&gt;:&lt;/p&gt;
+
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ---
+ layout: post
+ title: &quot;YOUR_POST_TITLE&quot;
+ date: 2019-01-29 00:00:00
+ description: 'meta description'
+ og_type: article
+ tags:
+ - Blog
+ categories:
+ - Blog
+ twitter_text: 'Type description for twitter card'
+ introduction: 'Type your description for Thought section or category page'
+ ---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Your website comes with a placeholder blog post that you can reference. Notably, its &lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;front matter&lt;/a&gt; declares &lt;code class=&quot;highlighter-rouge&quot;&gt;published&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt;, so that it won’t appear on your website.&lt;/p&gt;
+
+&lt;p&gt;While you can define a &lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; in the front matter, your website is pre-configured to assign the &lt;code class=&quot;highlighter-rouge&quot;&gt;post&lt;/code&gt; layout to all of the posts in your &lt;code class=&quot;highlighter-rouge&quot;&gt;/_posts/&lt;/code&gt; directory. So you don’t have to declare that in your posts.&lt;/p&gt;
+
+&lt;p&gt;Jekyll’s conventions for authoring and managing blog posts is very flexible. You can &lt;a href=&quot;https://jekyllrb.com/docs/posts/&quot;&gt;learn more in Jekyll’s documentation for “Posts.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also specify an image or video to be used as a thumbnail in Thought section or category page. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;image: YOUR_IMAGE_URL&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube: YOUTUBE_VIDEO_URL&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;vimeo: VIMEO_VIDEO_URL&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;video: YOUR_VIDEO_URL&lt;/code&gt; to the front matter.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-jquery-lightslider-in-your-post&quot;&gt;Use jQuery lightSlider in your post&lt;/h3&gt;
+
+&lt;p&gt;Add image sliders on your post using the &lt;a href=&quot;https://github.com/sachinchoolur/lightslider&quot;&gt;jQuery lightSlider&lt;/a&gt; supported by the theme. Just write the code anywhere you want in the post.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;yslider&quot;&amp;gt;
+  &amp;lt;ul&amp;gt;
+    &amp;lt;li&amp;gt;
+      &amp;lt;img src=&quot;YOUR_IMG_URL&quot; alt=&quot;YOUR_IMG_DESCRIPTION&quot; /&amp;gt;
+    &amp;lt;/li&amp;gt;
+    ## INSERT MORE &amp;lt;li&amp;gt;&amp;lt;img&amp;gt;&amp;lt;/li&amp;gt; LIKE ABOVE IN ORDER ##
+  &amp;lt;/ul&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;use-formspree-contact-form&quot;&gt;Use Formspree contact form&lt;/h2&gt;
+
+&lt;p&gt;Replace your email address to &lt;code class=&quot;highlighter-rouge&quot;&gt;YOUR_EMAIL_ADDRESS&lt;/code&gt; in the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_pages/contact.md&lt;/code&gt;. So people can send you an inquiry mail via &lt;a href=&quot;https://formspree.io/&quot;&gt;Formspree&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;privacy-policy&quot;&gt;Privacy policy&lt;/h2&gt;
+
+&lt;p&gt;Enter your privacy policy at the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_pages/privacy-policy.md&lt;/code&gt;. You can easily make using &lt;a href=&quot;https://www.privacypolicygenerator.info/&quot;&gt;Privacy Policy Generator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;styles&quot;&gt;Styles&lt;/h2&gt;
+
+&lt;p&gt;Your website is pre-configured to use &lt;a href=&quot;https://styleguide.github.com/primer/&quot;&gt;GitHub’s very flexible CSS framework called “Primer,”&lt;/a&gt;. It’s currently referenced within your &lt;code class=&quot;highlighter-rouge&quot;&gt;styles.scss&lt;/code&gt; file, using the CSS import at-rule:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@import url('https://unpkg.com/primer/build/build.css');
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;You are, of course, welcome to remove it or replace it with another framework. Just bear in mind that the HTML that your website came pre-packaged with references multiple Primer “utility classes” to define things like column widths, margins, and background colors.&lt;/p&gt;
+
+&lt;p&gt;You also have the option to add on to and extend Primer’s styles by adding custom CSS to your &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/styles.scss&lt;/code&gt; Sass stylesheet. By editing this file, you can customize your website’s color scheme, typography, and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;The theme is available as open source under the terms of the &lt;a href=&quot;https://opensource.org/licenses/MIT&quot;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="jekyll" /><category term="theme" /><category term="github" /><category term="web" /><category term="website" /><category term="development" /><category term="open-source" /><summary type="html">Jekyll Personal Website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/jekyll-personal-website-posts-cards-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/jekyll-personal-website-posts-cards-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Monogatari, web-based visual novel engine</title><link href="https://lee-yunseok.github.io/2019/07/20/monogatari-web-visual-novel-engine/" rel="alternate" type="text/html" title="Monogatari, web-based visual novel engine" /><published>2019-07-20T03:45:00+09:00</published><updated>2019-07-20T03:45:00+09:00</updated><id>https://lee-yunseok.github.io/2019/07/20/monogatari-web-visual-novel-engine</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/07/20/monogatari-web-visual-novel-engine/">&lt;h2 id=&quot;monogatari-visual-novel-engine&quot;&gt;Monogatari Visual Novel Engine&lt;/h2&gt;
+
+&lt;p&gt;Built for the modern web, making it easy to create and distribute visual novels that anyone can play pretty much anywhere!&lt;/p&gt;
+
+&lt;h3 id=&quot;simple-syntax&quot;&gt;Simple Syntax&lt;/h3&gt;
+
+&lt;p&gt;You don’t need to be a developer to start creating a game, Monogatari features a friendly language designed to be incredibly simple and yet very powerful, which will allow you to write your story as easy as if you where just writing it.&lt;/p&gt;
+
+&lt;h3 id=&quot;multimedia-support&quot;&gt;Multimedia Support&lt;/h3&gt;
+
+&lt;p&gt;Want to show images or videos? Maybe even play some music and sound effects! With Monogatari, you can use all sorts of media to enhance the experience on your game and provide a richer content and experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;multi-language&quot;&gt;Multi-language&lt;/h3&gt;
+
+&lt;p&gt;Break any language barrier! Monogatari comes with built in functionality for you to translate your game to multiple languages and let your players choose what language they want to play it on.&lt;/p&gt;
+
+&lt;h3 id=&quot;feature-full&quot;&gt;Feature Full&lt;/h3&gt;
+
+&lt;p&gt;Monogatari comes pre-loaded with features you and your players will love such as load and save support, animations, ability to go back to previous states, auto play mode, ability to skip text and more!&lt;/p&gt;
+
+&lt;h3 id=&quot;customizable&quot;&gt;Customizable&lt;/h3&gt;
+
+&lt;p&gt;With Monogatari, you are in control of your visual novel like never before! You can change, add and remove anything you need. Think of your game as a website, everything you’ve seen before on any website is now within your reach!&lt;/p&gt;
+
+&lt;h3 id=&quot;responsive&quot;&gt;Responsive&lt;/h3&gt;
+
+&lt;p&gt;Wouldn’t it be awesome if anyone could play your game from any device? Monogatari is responsive out off the box and will adapt to any screen size so that anyone can play your game from any device they want!&lt;/p&gt;
+
+&lt;h3 id=&quot;progressive-web-app&quot;&gt;Progressive Web App&lt;/h3&gt;
+
+&lt;p&gt;Responsiveness is not the only benefit from the web, any Monogatari game is a Progressive Web App that can be installed as if it where a native app on any mobile device and computer right from your browser, bringing benefits such as offline play!&lt;/p&gt;
+
+&lt;h3 id=&quot;open-source&quot;&gt;Open Source&lt;/h3&gt;
+
+&lt;p&gt;Monogatari is an open source project released under the MIT License which means you can use it for any commercial or non-commercial project without any limitation and it’s completely free!&lt;/p&gt;
+
+&lt;h3 id=&quot;multi-platform&quot;&gt;Multi-Platform&lt;/h3&gt;
+
+&lt;p&gt;Not only can you release your game to the web where anyone will be able to play it from their browser, you can also build your game for Windows, macOS, Linux, Android and iOS!&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;Extras Vol.1 - Disc Labels&lt;/li&gt;
-	&lt;li&gt;Extras Vol.2 - Wallpapers&lt;/li&gt;
-	&lt;li&gt;Extras Vol.3 - Raspberry Pi Build&lt;/li&gt;
-	&lt;li&gt;Extras Vol.4 - Android APK&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;Official Website: &lt;a href=&quot;https://monogatari.io/&quot;&gt;Monogatari&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Contributions: &lt;a href=&quot;https://github.com/Monogatari/Monogatari/pull/87&quot;&gt;Korean translation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="monogatari" /><category term="html" /><category term="css" /><category term="web" /><category term="game" /><category term="engine" /><category term="novel" /><category term="open-source" /><summary type="html">Monogatari Visual Novel Engine</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/monogatari-website-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/monogatari-website-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">YGGDRASIL JIGSAW PUZZLE - NATURE</title><link href="https://lee-yunseok.github.io/2019/06/06/yggdrasil-jigsaw-puzzle-nature-dlc/" rel="alternate" type="text/html" title="YGGDRASIL JIGSAW PUZZLE - NATURE" /><published>2019-06-06T05:30:00+09:00</published><updated>2019-06-06T05:30:00+09:00</updated><id>https://lee-yunseok.github.io/2019/06/06/yggdrasil-jigsaw-puzzle-nature-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/06/06/yggdrasil-jigsaw-puzzle-nature-dlc/">&lt;h3 id=&quot;2nd-theme-nature&quot;&gt;2nd THEME: NATURE&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/steam_store_yjp_1079930_brand.png&quot; alt=&quot;2nd THEME: NATURE&quot; /&gt;&lt;/p&gt;
 
-&lt;h4&gt;Description&lt;/h4&gt;
 &lt;ul&gt;
-	&lt;li&gt;Extras Vol.1 - Formtec 16mm&amp;40mm Label DGO, LightScribe Label LSL&lt;/li&gt;
-	&lt;li&gt;Extras Vol.2 - 1920x1080 FHD Wallpapers(same as the Steam Profile Backgrounds with best quality)&lt;/li&gt;
-	&lt;li&gt;Extras Vol.3 - Raspberry Pi Build(included only in the extras of the PC version)&lt;/li&gt;
-	&lt;li&gt;Extras Vol.4 - Android APK(included only in the extras of the PC version)&lt;/li&gt;
+  &lt;li&gt;This DLC was launched on June 5, 2019, in honor of World Environment Day.&lt;/li&gt;
+  &lt;li&gt;The DLC has 100 retouched puzzle images about &lt;strong&gt;“NATURE”&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Theme set includes both of background and frame, bottom.&lt;/li&gt;
+  &lt;li&gt;Contains one BGM. This is automatically applied to the playlist.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/404910/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers Original Sound Track</title><link href="https://lee-yunseok.github.io/2015/09/15/discouraged-workers-original-sound-track-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers Original Sound Track" /><published>2015-09-15T06:08:00+09:00</published><updated>2015-09-15T06:08:00+09:00</updated><id>https://lee-yunseok.github.io/2015/09/15/discouraged-workers-original-sound-track-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/09/15/discouraged-workers-original-sound-track-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_ost_steam_ko1.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_ost_steam_ko2.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_375160_ss_1.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_375160_ss_2.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_375160_ss_3.webp&quot; alt=&quot;5th slide&quot;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
+&lt;iframe src=&quot;https://store.steampowered.com/widget/1079930/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="puzzle" /><category term="renpy" /><category term="steam" /><category term="nature" /><category term="jigsaw" /><summary type="html">2nd THEME: NATURE</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/ss_1079930_1.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/ss_1079930_1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">YGGDRASIL JIGSAW PUZZLE - KNDW</title><link href="https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle-kndw-dlc/" rel="alternate" type="text/html" title="YGGDRASIL JIGSAW PUZZLE - KNDW" /><published>2019-04-20T06:30:00+09:00</published><updated>2019-04-20T06:30:00+09:00</updated><id>https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle-kndw-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle-kndw-dlc/">&lt;h3 id=&quot;ex-theme-kndw&quot;&gt;EX THEME: KNDW&lt;/h3&gt;
 
-&lt;iframe src=&quot;https://bandcamp.com/EmbeddedPlayer/album=4255025971/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/&quot; width=&quot;560&quot; height=&quot;120&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/steam_store_yjp_1045560_brand.png&quot; alt=&quot;EX THEME: KNDW&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;Discouraged Workers - Original Sound Track&lt;/h2&gt;
 &lt;ul&gt;
-	&lt;li&gt;Contains 13 &lt;a href=&quot;https://yggdrasilstudio.bandcamp.com/album/discouraged-workers-ost&quot; target=&quot;_blank&quot; title=&quot;soundtrack&quot;&gt;&lt;u&gt;Soundtrack&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;Contains Crossover and Orchestra, Oriental and Rock music.&lt;/li&gt;
-	&lt;li&gt;Contains 48kMHz 320kbps MP3&lt;/li&gt;
-	&lt;li&gt;Contains PDF Manual&lt;/li&gt;
-	&lt;li&gt;Contains &lt;a href=&quot;https://lightscribesoftware.org/&quot; target=&quot;_blank&quot; title=&quot;LightScribe&quot;&gt;&lt;u&gt;LightScribe&lt;/u&gt;&lt;/a&gt; Label LSL&lt;/li&gt;
-	&lt;li&gt;Contains &lt;a href=&quot;http://www.formtecusa.com/software/designpro7.html&quot; target=&quot;_blank&quot; title=&quot;Formtec&quot;&gt;&lt;u&gt;Formtec&lt;/u&gt;&lt;/a&gt; Label DGO&lt;/li&gt;
+  &lt;li&gt;The DLC has twenty playable puzzle images and one obstacle called &lt;strong&gt;“Teddy Rain”&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Theme set includes both of background and frame, bottom.&lt;/li&gt;
+  &lt;li&gt;Sound set contains one BGM and SE.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;Additional Formats&lt;/h4&gt;
+&lt;iframe src=&quot;https://store.steampowered.com/widget/1045560/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="puzzle" /><category term="renpy" /><category term="steam" /><category term="discouraged-workers" /><category term="jigsaw" /><summary type="html">EX THEME: KNDW</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/ss_1045560_02.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/ss_1045560_02.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">YGGDRASIL JIGSAW PUZZLE</title><link href="https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle/" rel="alternate" type="text/html" title="YGGDRASIL JIGSAW PUZZLE" /><published>2019-04-20T05:30:00+09:00</published><updated>2019-04-20T05:30:00+09:00</updated><id>https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle/">&lt;h2 id=&quot;yggdrasil-jigsaw-puzzle&quot;&gt;YGGDRASIL JIGSAW PUZZLE&lt;/h2&gt;
+
+&lt;p&gt;Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRASIL JIGSAW PUZZLE is an independent puzzle game created by YGGDRASIL STUDIO.&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;Contains 96kMHz 4608~6144kbps FLAC&lt;/li&gt;
+  &lt;li&gt;Lightweight but powerful. Optimized for Steam Workshop and customizable.
+Relaxing or hardcore gaming. Control the difficulty by number of pieces and time, obstacle.&lt;/li&gt;
+  &lt;li&gt;Basically works in random mode. Also you can play the puzzles you want in the gallery.&lt;/li&gt;
+  &lt;li&gt;Easily customize the puzzle images and themes from made with community or yourself.&lt;/li&gt;
+  &lt;li&gt;Steam Achievements, Workshop. Cross-platform auto-cloud sync with Steam Cloud.&lt;/li&gt;
+  &lt;li&gt;Full Controller support with Steam Input.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/375160/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next</summary></entry><entry><title type="html">Discouraged Workers</title><link href="https://lee-yunseok.github.io/2015/06/25/discouraged-workers.html" rel="alternate" type="text/html" title="Discouraged Workers" /><published>2015-06-25T15:50:00+09:00</published><updated>2015-06-25T15:50:00+09:00</updated><id>https://lee-yunseok.github.io/2015/06/25/discouraged-workers</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/06/25/discouraged-workers.html">&lt;iframe src=&quot;https://player.vimeo.com/video/247191774&quot; width=&quot;100%&quot; height=&quot;315&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;h3 id=&quot;1st-theme-together&quot;&gt;1st theme: TOGETHER&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Discouraged Workers&lt;/strong&gt; is an independent progressive kinetic novel created by YGGDRASIL STUDIO. The episode is the fifth in the Project DW series, a satirical story based on the popular Korean soap operas-styled plot. It compares Ga-yeon’s bleak everyday life to the dark side of youth.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/steam_store_yjp_1045400_brand.png&quot; alt=&quot;1st theme: TOGETHER&quot; /&gt;&lt;/p&gt;
 
-&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged_workers_logo.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged-workers-ss-ko-lg-1.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged-workers-ss-ko-lg-2.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged-workers-ss-ko-lg-3.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged-workers-ss-ko-lg-5.webp&quot; alt=&quot;5th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged-workers-ss-ko-lg-6.webp&quot; alt=&quot;6th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged-workers-ss-ko-lg-7.webp&quot; alt=&quot;7th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/discouraged-workers-ss-ko-lg-8.webp&quot; alt=&quot;8th slide&quot;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;h2&gt;Overview&lt;/h2&gt;
-
-&lt;blockquote&gt;&lt;p&gt;As a hospital coordinator, Ga-yeon fell in love with a doctor at the hospital she was working in and they had an affair even though the doctor was a married man. When the director found out, she was fired. For over a year she tried to find another job, but her mental uneasiness eventually made her give up and she became a recluse.&lt;/p&gt;
-&lt;p&gt;A year later, in the spring of 2013, her younger sister, Hye-na, and her first love Yunwoo come to her.&lt;/p&gt;
-&lt;p&gt;A story about the dark side of today’s youth and serious life events happening around Ga-yeon.&lt;/p&gt;
-&lt;p&gt;Discouraged Workers&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;h3&gt;Description&lt;/h3&gt;
 &lt;ul&gt;
-	&lt;li&gt;The basic mechanism is based on a Kinetic Novel.&lt;/li&gt;
-	&lt;li&gt;The episode is adult content. The program contains Violence, Blood, Strong Sexual Content, Nudity, Strong Language, Use of Tobacco, Alcohol Reference. Not recommended for Children, Seniors or Pregnant, Feeble-Minded Person.&lt;/li&gt;
-	&lt;li&gt;You will be moved on mostly through Ga-yeon’s point of view and the Archives will be also helpful for you to understand the whole story.&lt;/li&gt;
-	&lt;li&gt;Basically you don’t need to be directly involved – just watch, read, listen, and feel it.&lt;/li&gt;
-	&lt;li&gt;However sometimes, you may be required to do something to collect some records or scenes.&lt;/li&gt;
-	&lt;li&gt;Discouraged Workers is played automatically. You can toggle this function.&lt;/li&gt;
+  &lt;li&gt;The first theme with the release is &lt;strong&gt;“TOGETHER”&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;You can play 100 retouched images with jigsaw puzzle.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Features&lt;/h3&gt;
+
+&lt;iframe src=&quot;https://store.steampowered.com/widget/1045400/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I worked one hour a day for two weeks for this project.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="puzzle" /><category term="renpy" /><category term="steam" /><category term="jigsaw" /><summary type="html">YGGDRASIL JIGSAW PUZZLE</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/yjp-logo.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/yjp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Icon Generator for Game Developers</title><link href="https://lee-yunseok.github.io/2019/03/20/icon-generator-shell-script/" rel="alternate" type="text/html" title="Icon Generator for Game Developers" /><published>2019-03-20T07:12:47+09:00</published><updated>2019-03-20T07:12:47+09:00</updated><id>https://lee-yunseok.github.io/2019/03/20/icon-generator-shell-script</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/03/20/icon-generator-shell-script/">&lt;p&gt;Shell scripts to generate many app icons more easier for developers. This is a &lt;a href=&quot;https://github.com/smallmuou/ios-icon-generator&quot;&gt;cloned repository&lt;/a&gt;, restored the old &lt;strong&gt;ImageMagick&lt;/strong&gt; version and added scripts for game developers.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;VERSION: 1.0.0
+USAGE:
+    SH INPUT OUTPUT
+EXAMPLE:
+    all.sh icon.png icons
+DESCRIPTION:
+    This scripts aim to generate many app icons easier and simply.
+    INPUT - The source png image must be 1024x1024 pixels.
+    OUTPUT - The destination path where the icons generate to.
+AUTHOR:
+    smallmuou &amp;lt;smallmuou@163.com&amp;gt;
+    Lee Yunseok &amp;lt;ironyunseok@protonmail.com&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;supported-icons&quot;&gt;Supported Icons&lt;/h3&gt;
 &lt;ul&gt;
-	&lt;li&gt;A Korean-based densely-plotted story with the gloomy theme.&lt;/li&gt;
-	&lt;li&gt;The short but intense 120+ minutes, with the real soap opera-like directing.&lt;/li&gt;
-	&lt;li&gt;The animation-style hand-drawn sprites &amp; CGs, and backgrounds based on retouched real pictures.&lt;/li&gt;
-	&lt;li&gt;Archives contains 90+ records(Characters and Concept, Diary, Gallery, Music, and Replay).&lt;/li&gt;
-	&lt;li&gt;30+ Steam Achievements, full Steam Trading Cards series, Steam Workshop, cross-platform auto-cloud sync with Steam Cloud.&lt;/li&gt;
-	&lt;li&gt;Full Controller Support, Steam Controller support.&lt;/li&gt;
-	&lt;li&gt;Blind-friendly support.&lt;/li&gt;
+  &lt;li&gt;Steam(client images) - &lt;strong&gt;steam.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Steam(achievement and trading card images) - &lt;strong&gt;items.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Humble Store(widget) - &lt;strong&gt;humble.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;App Store App(iOS/macOS/watchOS) - &lt;strong&gt;ios.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Android App(not adaptive icon) - &lt;strong&gt;android.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Windows Ico - &lt;strong&gt;ico.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;macOS Icns - &lt;strong&gt;icns.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Website favicon - included in &lt;strong&gt;ico.sh&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Safari extension - included in &lt;strong&gt;icns.sh&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;Key Records&lt;/h4&gt;
+&lt;h3 id=&quot;usage&quot;&gt;Usage&lt;/h3&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;SlideDB 2016 AOTY TOP 50&lt;/li&gt;
-	&lt;li&gt;EMOTIONAL GAMES AWARDS 2016 Nominee&lt;/li&gt;
-	&lt;li&gt;SlideDB 2015 AOTY TOP 50&lt;/li&gt;
-	&lt;li&gt;Greenlit on Steam Greenlight&lt;/li&gt;
-	&lt;li&gt;The second Adult Only title on Steam&lt;/li&gt;
-	&lt;li&gt;Very first released for Adult and TEEN version on Steam&lt;/li&gt;
-	&lt;li&gt;Very first native Steam Controller support in Korea, Republic of.&lt;/li&gt;
-	&lt;li&gt;Funded with Tumblbug&lt;/li&gt;
-	&lt;li&gt;Participated in the FUCK CAPITALISM JAM(#FuckJam2k15)&lt;/li&gt;
-	&lt;li&gt;Amazon Top 100 selling Indie Games PC Games #12, Mac Games #4&lt;/li&gt;
-	&lt;li&gt;IndieGameStand Top Sellers #1 -TEEN version&lt;/li&gt;
-	&lt;li&gt;itch.io Top games #51, Adventure games #7, Android adventure #1&lt;/li&gt;
-	&lt;li&gt;SlideDB Popular Games #1(2 times), IndieDB #11, ModDB #45&lt;/li&gt;
-	&lt;li&gt;App Store iPad Top Paid Educational Games #2, iPhone Top Paid Adventure Games #10, Top Paid Educational Games #1 in Singapore -TEEN version&lt;/li&gt;
-	&lt;li&gt;Google Play Top Paid Adventure #20 in India, Top New Paid Adventure #7 in Korea, Republic of., Top New Paid Adventure #20 in 8 countries -TEEN version&lt;/li&gt;
+  &lt;li&gt;Install &lt;a href=&quot;https://www.imagemagick.org/&quot;&gt;ImageMagick&lt;/a&gt; on your device.&lt;/li&gt;
+  &lt;li&gt;clone this repository:
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/lee-yunseok/Icon-Generator-for-Game-Developers
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Prepare &lt;strong&gt;just one image&lt;/strong&gt; for use as your all icon. &lt;strong&gt;The image file must be 1024x1024 pixels png format.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Run the shell-script(.sh) you want. If you want all icons, just run &lt;em&gt;all.sh&lt;/em&gt;. For example:
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;all.sh icon.png icons
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you want to &lt;strong&gt;iOS iconset&lt;/strong&gt; in your Mac, before run the script, open &lt;em&gt;&lt;strong&gt;ios.sh&lt;/strong&gt;&lt;/em&gt; or &lt;em&gt;&lt;strong&gt;all.sh&lt;/strong&gt;&lt;/em&gt; and &lt;strong&gt;remove ‘#’&lt;/strong&gt; in the line below.
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;#iconutil -c icns &quot;$OUT\iOS.iconset&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Note that the script of Steam achievements and trading cards are not included in &lt;em&gt;all.sh&lt;/em&gt; because it requires image set. After preparing a set of images &lt;strong&gt;above 256x256 pixels&lt;/strong&gt;-It does not matter if it has a border- you have to use &lt;em&gt;&lt;strong&gt;items.sh&lt;/strong&gt;&lt;/em&gt; for it.
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;items.sh icons icons
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Use the generated icons. For Steam client images, open &lt;em&gt;OUTPUT\steam&lt;/em&gt; folder, &lt;strong&gt;compress &lt;em&gt;linux-*.png&lt;/em&gt; into a zip file&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;Credits&lt;/h4&gt;
+&lt;h4 id=&quot;troubleshooting-guide&quot;&gt;Troubleshooting Guide&lt;/h4&gt;
 &lt;ul&gt;
-	&lt;li&gt;Lee Yunseok: Directing, Design, Programming, Music, Sound, Writing, UI Design, Backgournd CGs, Object sprites, Packaging, Movie, Website -From April 21, 2013&lt;/li&gt;
-	&lt;li&gt;chibilis studio: Animation, Character Sprites, CG Sprites -From March 10, 2015&lt;/li&gt;
-	&lt;li&gt;Brian Connors: English Translation Adviser -June 3, 2015~July 1, 2017&lt;/li&gt;
-	&lt;li&gt;Ga Younghee: English Translator -April 11, 2015~June 10, 2016&lt;/li&gt;
-	&lt;li&gt;IVY: Chinese Translator -July 25, 2016~February 10, 2018&lt;/li&gt;
-	&lt;li&gt;Roman Koledin: Russian Translator -August 28, 2016~December 7, 2017&lt;/li&gt;
-	&lt;li&gt;Oscar Ballona Centeno: Project Leader in Spanish, Spanish Translator -From May 29, 2017&lt;/li&gt;
-	&lt;li&gt;AxelBodga: Spanish Editor -From May 29, 2017&lt;/li&gt;
-	&lt;li&gt;Yisus: Spanish Translator -From May 29, 2017&lt;/li&gt;
-	&lt;li&gt;Adam Patric Kratz: Epilepsy Adviser -November 15, 2015~November 20, 2015&lt;/li&gt;
+  &lt;li&gt;Permission denied
+    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;chmod 777 &amp;lt;FILENAME&amp;gt;.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;If you have any other problem or request, just submit an &lt;a href=&quot;https://github.com/lee-yunseok/Icon-Generator-for-Game-Developers/issues&quot;&gt;issue&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&quot;license&quot;&gt;License&lt;/h4&gt;
+&lt;p&gt;Icon Generator for Game Developers is covered by the terms of the MIT license.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="icon" /><category term="imagemagick" /><category term="game" /><category term="development" /><category term="script" /><category term="open-source" /><summary type="html">Shell scripts to generate many app icons more easier for developers. This is a cloned repository, restored the old ImageMagick version and added scripts for game developers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/icon-generator-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/icon-generator-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">WordPress GitHub Profile Widget</title><link href="https://lee-yunseok.github.io/2019/03/20/github-wordpress-profile-widget/" rel="alternate" type="text/html" title="WordPress GitHub Profile Widget" /><published>2019-03-20T02:38:26+09:00</published><updated>2019-03-20T02:38:26+09:00</updated><id>https://lee-yunseok.github.io/2019/03/20/github-wordpress-profile-widget</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/03/20/github-wordpress-profile-widget/">&lt;p&gt;A widget to show a small version of your GitHub personal profile (or organization).&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;This is a very simple plugin which gives you a widget to show your GitHub profile or organization in your blog. It’s very easy to setup. You just have to put your username (or organization’s slug) and select the things you want to show.&lt;/p&gt;
+
+&lt;h4 id=&quot;features-include&quot;&gt;Features include:&lt;/h4&gt;
+
 &lt;ul&gt;
-	&lt;li&gt;YANG: Male sprites, CG sprites -April 8, 2015~September 13, 2015&lt;/li&gt;
-	&lt;li&gt;Jeon Junsik: Unofficial Demo Sprites -January 5, 2015~February 25, 2015&lt;/li&gt;
-	&lt;li&gt;Kyle Fawcett: English Demo Translation Adviser -June 3, 2015~June 14, 2015&lt;/li&gt;
+  &lt;li&gt;Basic information (username, name);&lt;/li&gt;
+  &lt;li&gt;Company, local, email, website and when you joined to GitHub;&lt;/li&gt;
+  &lt;li&gt;Followers and following numbers;&lt;/li&gt;
+  &lt;li&gt;Repositories and gists;&lt;/li&gt;
+  &lt;li&gt;The organizations where you are included.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4&gt;Thank You Letter&lt;/h4&gt;
-&lt;p&gt;ACOC, Aiman Sharul, Axel Mertes, Bgame, Brandon Tanimoto, Brian Connors, BRISAK Kim Doohyeon, cheif.choi, Choi Irang, Choi Jihye, clôture, Danielle Bell, Edward N Puckering, Gary King, Gwak Jaeryeol, Han Ihyeong, Hoe Namyoon, Hong Eunki, Hwang Daehoon, Hyojoon, James Emmerson, Jeong Dongwon, Jeong Wookjin, Jeong Yoonsoo, Jianmin Zhang, Karina Schulze, Keira Val'Azr, Kim Hanseol, Kim Hyeoncheol, Kim Jaeseong, Kim Jeongwoong, Kim Myeongwook, Lee Changki, Lee Eunji, Lee Gunhae, Lee Hyejin, Lee Jaewi, Light Twins, Lim Jisoo, Maddy Wootton, Marshall Proudfoot, Mirumu, Mojaeng, Oh Hyeonjun, Park Hyeonjun, Park JoonKoo, Rewind, Sander Tieleman, srwss, Sung Chanaul, YottaCho, Zerial.net&lt;/p&gt; 
-&lt;p&gt;Christopher Rice, George Winston, Kim Sooyoung, Lee Illseong, Pixabay, Shin Haechul,&lt;/p&gt;
-&lt;p&gt;So Reyeon, Tom Rothamel, Valve Corporation&lt;/p&gt;
-&lt;p&gt;This work was created by you. Yours Sincerely,&lt;/p&gt;
-&lt;p&gt;Lee Yunseok, Creator of YGGDRASIL STUDIO.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer: we are not affiliated with GitHub.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/371120/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html"></summary></entry><entry><title type="html">Discouraged Workers - Back to the Basic</title><link href="https://lee-yunseok.github.io/2015/06/25/discouraged-workers-back-to-the-basic-dlc.html" rel="alternate" type="text/html" title="Discouraged Workers - Back to the Basic" /><published>2015-06-25T09:00:00+09:00</published><updated>2015-06-25T09:00:00+09:00</updated><id>https://lee-yunseok.github.io/2015/06/25/discouraged-workers-back-to-the-basic-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2015/06/25/discouraged-workers-back-to-the-basic-dlc.html">&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_bttb_logo.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_bttb_screenshot_ko_01.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_bttb_screenshot_ko_02.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_bttb_screenshot_ko_03.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_bttb_screenshot_ko_04.webp&quot; alt=&quot;5th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_bttb_screenshot_ko_05.webp&quot; alt=&quot;6th slide&quot;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h4&gt;Back to the basic Discouraged Workers V 1.2.0.2, for your collection.&lt;/h4&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;Contains DRM-free and Android build, Books, and Extras based on the Discouraged Workers V 1.2.0.2.&lt;/p&gt;
+&lt;h4 id=&quot;contributions&quot;&gt;Contributions&lt;/h4&gt;
 
-&lt;p&gt;&lt;em&gt;For someone who loved the old version.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fix bug &lt;small&gt;-September 04, 2018&lt;/small&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/refactors/github-profile-widget&quot;&gt;Visit GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="wordpress" /><category term="github" /><category term="widget" /><category term="open-source" /><category term="web" /><summary type="html">A widget to show a small version of your GitHub personal profile (or organization).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/wordpress_github_profile_widget_1.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/wordpress_github_profile_widget_1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">PW Jekyll Theme</title><link href="https://lee-yunseok.github.io/2019/03/20/pw-jekyll-theme-github-pages/" rel="alternate" type="text/html" title="PW Jekyll Theme" /><published>2019-03-20T02:38:26+09:00</published><updated>2019-03-20T02:38:26+09:00</updated><id>https://lee-yunseok.github.io/2019/03/20/pw-jekyll-theme-github-pages</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/03/20/pw-jekyll-theme-github-pages/">&lt;h2 id=&quot;pw-jekyll-theme&quot;&gt;PW Jekyll Theme&lt;/h2&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/558690/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">Previous Next Back to the basic Discouraged Workers V 1.2.0.2, for your collection.</summary></entry><entry><title type="html">Discouraged Workers - Alpha Prototype</title><link href="https://lee-yunseok.github.io/2013/05/15/discouraged-workers-alpha-prototype.html" rel="alternate" type="text/html" title="Discouraged Workers - Alpha Prototype" /><published>2013-05-15T03:36:48+09:00</published><updated>2013-05-15T03:36:48+09:00</updated><id>https://lee-yunseok.github.io/2013/05/15/discouraged-workers-alpha-prototype</id><content type="html" xml:base="https://lee-yunseok.github.io/2013/05/15/discouraged-workers-alpha-prototype.html">&lt;p&gt;I started working for Discouraged Workers using &lt;a href=&quot;https://renpy.org&quot; target=&quot;_blank&quot; title=&quot;Ren'Py&quot;&gt;&lt;strong&gt;Ren'Py&lt;/strong&gt;&lt;/a&gt; and  &lt;a href=&quot;https://blog.naver.com/arami_o_8/70155390678&quot; target=&quot;_blank&quot; title=&quot;Aram&quot;&gt;&lt;strong&gt;Aram's SCG Maker&lt;/strong&gt;&lt;/a&gt; on April 21, 2013 and built a prototype on May 14, the same year. The prototype includes the current Demo volume.&lt;/p&gt;
+&lt;p&gt;This theme is designed to create my personal website on the GitHub page.&lt;/p&gt;
 
-&lt;div id=&quot;carouselIndicators&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
-  &lt;ol class=&quot;carousel-indicators&quot;&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
-    &lt;li data-target=&quot;#carouselIndicators&quot; data-slide-to=&quot;8&quot;&gt;&lt;/li&gt;
-  &lt;/ol&gt;
-  &lt;div class=&quot;carousel-inner&quot;&gt;
-    &lt;div class=&quot;carousel-item active&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_00.webp&quot; alt=&quot;1st slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_01.webp&quot; alt=&quot;2nd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_02.webp&quot; alt=&quot;3rd slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_03.webp&quot; alt=&quot;4th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_06.webp&quot; alt=&quot;5th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_04.webp&quot; alt=&quot;6th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_05.webp&quot; alt=&quot;7th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_07.webp&quot; alt=&quot;8th slide&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;carousel-item&quot;&gt;
-      &lt;img class=&quot;d-block w-100&quot; src=&quot;https://Lee-Yunseok.github.io/img/posts/kndw_2013_05_14_08.webp&quot; alt=&quot;Third slide&quot;&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-  &lt;a class=&quot;carousel-control-prev&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
-    &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
-  &lt;/a&gt;
-  &lt;a class=&quot;carousel-control-next&quot; href=&quot;#carouselIndicators&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
-    &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
-    &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;p&gt;Modified &lt;a href=&quot;https://github.com/willianjusten/cards-jekyll-templat&quot;&gt;Card Jekyll Theme&lt;/a&gt;, which provides card-based posts as an archive and hosts Github pages with Bootstrap, Font Awesome, Light Slider, Vanilla to the Top, Pagination, Discus, Google AdSense and Google Analytics.&lt;/p&gt;
 
-&lt;p&gt;After this I released version 0.1 on July 14th and continued it, finally I announced the complete of the project on March 12, 2018.&lt;/p&gt;
+&lt;p&gt;I liked the size of the main slider and the post. However, this theme was content-oriented, I decided to renew the site because of the burdened posting.&lt;/p&gt;
 
-&lt;p&gt;I haven't build of this version because I lost it with the accident. I only have the installer, the files it used to build the installer, and the screenshots.&lt;/p&gt;</content><author><name>Lee Yunseok</name></author><summary type="html">I started working for Discouraged Workers using Ren'Py and Aram's SCG Maker on April 21, 2013 and built a prototype on May 14, the same year. The prototype includes the current Demo volume.</summary></entry></feed>
+&lt;p&gt;Considering the public distribution while renewing the personal website, but it wasn’t originally intended for distribution, so it needed to modify many source code so I decided to archive it without touching it.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="jekyll" /><category term="theme" /><category term="website" /><category term="github" /><category term="bootstrap" /><category term="fontawesome" /><category term="web" /><summary type="html">PW Jekyll Theme</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/pw_jekyll_website.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/pw_jekyll_website.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
