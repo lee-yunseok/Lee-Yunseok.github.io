@@ -105,6 +105,10 @@
 <lastmod>2020-02-17T13:38:56+09:00</lastmod>
 </url>
 <url>
+<loc>https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/</loc>
+<lastmod>2020-02-21T03:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>https://lee-yunseok.github.io/about/</loc>
 </url>
 <url>
@@ -292,5 +296,8 @@
 </url>
 <url>
 <loc>https://lee-yunseok.github.io/tag/minimal/</loc>
+</url>
+<url>
+<loc>https://lee-yunseok.github.io/tag/blog/</loc>
 </url>
 </urlset>
