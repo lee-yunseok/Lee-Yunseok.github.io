@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-22T01:51:26+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">My personal Jekyll blog has been renewed</title><link href="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/" rel="alternate" type="text/html" title="My personal Jekyll blog has been renewed" /><published>2020-02-21T03:00:00+09:00</published><updated>2020-02-21T03:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/">&lt;p&gt;I’ve &lt;strong&gt;completed a renewal of my personal website&lt;/strong&gt; hosted on GitHub Pages. Previously, I used the GitHub official personal website theme modified by me, and I spent two days for the renew as a small blog.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-22T04:38:13+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Translate Safe Eyes into Korean</title><link href="https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean/" rel="alternate" type="text/html" title="Translate Safe Eyes into Korean" /><published>2020-02-21T05:47:23+09:00</published><updated>2020-02-21T05:47:23+09:00</updated><id>https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean/">&lt;p&gt;Three days ago I finished the Korean translation of Safe Eyes via Weblate. Safe Eyes is Linux-only open source(GPL v3) software designed to protect users from eye strain by providing break reminder based on default or user settings.&lt;/p&gt;
+
+&lt;p&gt;Before the localization I made suggestions for adding a Korean translation on Weblate, but developer Gobinath was too busy to check, so I left a suggestion on GitHub repository, he confirmed and approved it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://hosted.weblate.org/engage/safe-eyes/ko/?utm_source=widget&quot;&gt;
+&lt;img src=&quot;https://hosted.weblate.org/widgets/safe-eyes/ko/translations/svg-badge.svg&quot; alt=&quot;Statics&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This simple and beautiful Safe Eyes protects your eyes from eye fatigue with scalable break reminders. People who use the computer for a long time or have such jobs are injured by repetitive stress. This is called Repetitive Strain Injury (RSI), and Safe Eyes is designed to protect your eyes from these dangers by taking breaks to take action.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;features-from-official-website&quot;&gt;Features from official website&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Breaks with exercises&lt;/strong&gt;: The whole purpose of Safe Eyes is reminding you to take breaks while working on the computer for a long time. The break screen asks you to do some exercises which will reduce your RSI.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Strict break for workaholics&lt;/strong&gt;: ​Strict break mode prevents computer addicts from skipping breaks unconsciously. In skip break mode, the user cannot skip or postpone the break.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Multi-display support&lt;/strong&gt;: Workstations with dual monitors are cool to have but Safe Eyes locks all at the same time to relax your eyes during the break.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Notifications&lt;/strong&gt;: Safe Eyes shows a system notification before breaks and an audible alert at the end of breaks. Even if you are few steps away from your computer, you can hear the call for back to work.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Smart decisions&lt;/strong&gt;: If you are working with a fullscreen application, Safe Eyes will not bother you. It also can sense if your system is idle and postpone the break based on idle period.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lock screen&lt;/strong&gt;: Some long breaks may ask you to leave the computer for a while. In such scenarios, Safe Eyes locks the computer by starting the default screensaver to prevent unauthorized access to your computer.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sexy look and feel&lt;/strong&gt;: Compared to similar products, Safe Eyes comes with a simple and sexy look and feel and also provides the ability to customize the appearance using CSS stylesheet.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Extensible with plug-ins&lt;/strong&gt;: Plug-in support is one of the cool things Safe Eyes offers. You can customize almost everything using custom plug-ins.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;APIs for developers&lt;/strong&gt;: ​Safe Eyes can be controlled externally by using the Remote Procedure Call (RPC) API and command-line parameters.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;closing&quot;&gt;Closing…&lt;/h4&gt;
+
+&lt;p&gt;Last year, I spent about ten million won(KRW) on surgery and treatment to repair my overworked body, including eyes.&lt;/p&gt;
+
+&lt;p&gt;Two years ago, after the floaters and retinal breaks in the left eye, I discarded the lenses and purchased expensive glasses and used Safe Eyes for eye health. In particular, I have reduced using computers and are working for my health. The floaters still remains, but the general condition of the eyes has returned to normal.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Safe Eyes is essential software for me.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+People who use the computer for a long time or work a lot may have noticed eye fatigue or stinging. I think many people have experienced tears their eyes when they tightly close their eyes.&lt;/p&gt;
+
+&lt;p&gt;If you’re using a Linux-based OS, I’d recommend using Safe Eyes, and if you using different OS, I can recommend using Redshift or f.lux.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://slgobinath.github.io/SafeEyes/&quot;&gt;Visit Safe Eyes&lt;/a&gt;&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="eye" /><category term="health" /><category term="linux" /><category term="open-source" /><summary type="html">Three days ago I finished the Korean translation of Safe Eyes via Weblate. Safe Eyes is Linux-only open source(GPL v3) software designed to protect users from eye strain by providing break reminder based on default or user settings.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/safeeyes-website-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/safeeyes-website-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">My personal Jekyll blog has been renewed</title><link href="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/" rel="alternate" type="text/html" title="My personal Jekyll blog has been renewed" /><published>2020-02-21T03:00:00+09:00</published><updated>2020-02-21T03:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/">&lt;p&gt;I’ve &lt;strong&gt;completed a renewal of my personal website&lt;/strong&gt; hosted on GitHub Pages. Previously, I used the GitHub official personal website theme modified by me, and I spent two days for the renew as a small blog.&lt;/p&gt;
 
 &lt;p&gt;The basic framework used &lt;strong&gt;Jekyll&lt;/strong&gt;, a static blogging tool that is good to host in &lt;strong&gt;GitHub Pages&lt;/strong&gt;. There is another way to develop to &lt;strong&gt;LAMP WordPress&lt;/strong&gt; and extracted using &lt;strong&gt;Simply Static&lt;/strong&gt;. However, it took more time than Jekyll, so I decided to make it faster using Jekyll.&lt;/p&gt;
 
@@ -763,32 +807,4 @@ norton_verification: YOUR_VERIFICATION_CODE
   &lt;li&gt;Sound set contains one BGM and SE.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/1045560/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="puzzle" /><category term="renpy" /><category term="steam" /><category term="discouraged-workers" /><category term="jigsaw" /><summary type="html">EX THEME: KNDW</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/ss_1045560_02.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/ss_1045560_02.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">YGGDRASIL JIGSAW PUZZLE</title><link href="https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle/" rel="alternate" type="text/html" title="YGGDRASIL JIGSAW PUZZLE" /><published>2019-04-20T05:30:00+09:00</published><updated>2019-04-20T05:30:00+09:00</updated><id>https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/04/20/yggdrasil-jigsaw-puzzle/">&lt;h2 id=&quot;yggdrasil-jigsaw-puzzle&quot;&gt;YGGDRASIL JIGSAW PUZZLE&lt;/h2&gt;
-
-&lt;p&gt;Lightweight but powerful. Optimized for Steam Workshop and customizable. YGGDRASIL JIGSAW PUZZLE is an independent puzzle game created by YGGDRASIL STUDIO.&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lightweight but powerful. Optimized for Steam Workshop and customizable.
-Relaxing or hardcore gaming. Control the difficulty by number of pieces and time, obstacle.&lt;/li&gt;
-  &lt;li&gt;Basically works in random mode. Also you can play the puzzles you want in the gallery.&lt;/li&gt;
-  &lt;li&gt;Easily customize the puzzle images and themes from made with community or yourself.&lt;/li&gt;
-  &lt;li&gt;Steam Achievements, Workshop. Cross-platform auto-cloud sync with Steam Cloud.&lt;/li&gt;
-  &lt;li&gt;Full Controller support with Steam Input.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;1st-theme-together&quot;&gt;1st theme: TOGETHER&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/steam_store_yjp_1045400_brand.png&quot; alt=&quot;1st theme: TOGETHER&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The first theme with the release is &lt;strong&gt;“TOGETHER”&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;You can play 100 retouched images with jigsaw puzzle.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;https://store.steampowered.com/widget/1045400/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I worked one hour a day for two weeks for this project.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="puzzle" /><category term="renpy" /><category term="steam" /><category term="jigsaw" /><summary type="html">YGGDRASIL JIGSAW PUZZLE</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/yjp-logo.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/yjp-logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;iframe src=&quot;https://store.steampowered.com/widget/1045560/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="puzzle" /><category term="renpy" /><category term="steam" /><category term="discouraged-workers" /><category term="jigsaw" /><summary type="html">EX THEME: KNDW</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/ss_1045560_02.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/ss_1045560_02.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
