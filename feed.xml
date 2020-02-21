@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-21T17:33:17+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">My personal Jekyll blog has been renewed.</title><link href="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/" rel="alternate" type="text/html" title="My personal Jekyll blog has been renewed." /><published>2020-02-21T03:00:00+09:00</published><updated>2020-02-21T03:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/">&lt;p&gt;I’ve &lt;strong&gt;completed a renewal of my personal website&lt;/strong&gt; hosted on GitHub Pages. Previously, I used the GitHub official personal website theme modified by me, and I spent two days for the renew as a small blog.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-02-22T01:51:26+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">My personal Jekyll blog has been renewed</title><link href="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/" rel="alternate" type="text/html" title="My personal Jekyll blog has been renewed" /><published>2020-02-21T03:00:00+09:00</published><updated>2020-02-21T03:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/21/jekyll-personal-blog-renewal/">&lt;p&gt;I’ve &lt;strong&gt;completed a renewal of my personal website&lt;/strong&gt; hosted on GitHub Pages. Previously, I used the GitHub official personal website theme modified by me, and I spent two days for the renew as a small blog.&lt;/p&gt;
 
 &lt;p&gt;The basic framework used &lt;strong&gt;Jekyll&lt;/strong&gt;, a static blogging tool that is good to host in &lt;strong&gt;GitHub Pages&lt;/strong&gt;. There is another way to develop to &lt;strong&gt;LAMP WordPress&lt;/strong&gt; and extracted using &lt;strong&gt;Simply Static&lt;/strong&gt;. However, it took more time than Jekyll, so I decided to make it faster using Jekyll.&lt;/p&gt;
 
@@ -49,7 +49,7 @@ And include &lt;small&gt;ad.html&lt;/small&gt; in &lt;small&gt;_layouts/post.htm
 
 &lt;h3 id=&quot;vanilla---back-to-top&quot;&gt;Vanilla - Back to Top&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/personal_website_renewed_1.png&quot; alt=&quot;Vanilla Back to Top applied&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/personal_website_renewed_2.png&quot; alt=&quot;Vanilla Back to Top applied&quot; /&gt;
 &lt;em&gt;Vanilla Back to Top applied&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Derrick doesn’t pagination posts default. So I add Vanilla for move to top.&lt;/p&gt;
@@ -62,7 +62,7 @@ And include &lt;small&gt;ad.html&lt;/small&gt; in &lt;small&gt;_layouts/post.htm
 
 &lt;h3 id=&quot;formspree-and-contact-page&quot;&gt;Formspree and Contact page&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/personal_website_renewed_2.png&quot; alt=&quot;Contact page has been added&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/personal_website_renewed_5.png&quot; alt=&quot;Contact page has been added&quot; /&gt;
 &lt;em&gt;Contact page has been added&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Also Derrick didn’t support contact page. It just link to &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mailto:&lt;/code&gt;&lt;/small&gt; when user click the &lt;strong&gt;‘Say Hello’&lt;/strong&gt; in the first page, so I add contact page using Formspree.&lt;/p&gt;
