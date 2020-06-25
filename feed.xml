@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-06-26T01:33:51+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Personalized Raspberry Pi 4 B Micro Desktop Setting</title><link href="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/" rel="alternate" type="text/html" title="Personalized Raspberry Pi 4 B Micro Desktop Setting" /><published>2020-06-25T05:00:00+09:00</published><updated>2020-06-25T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/">&lt;p&gt;This article records the my own &lt;strong&gt;Raspberry Pi 4&lt;/strong&gt; micro-desktop settings, so you don’t have to repeat it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-06-26T05:36:53+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Personalized Raspberry Pi 4 B Micro Desktop Setting</title><link href="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/" rel="alternate" type="text/html" title="Personalized Raspberry Pi 4 B Micro Desktop Setting" /><published>2020-06-25T05:00:00+09:00</published><updated>2020-06-25T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/">&lt;p&gt;This article records the my own &lt;strong&gt;Raspberry Pi 4&lt;/strong&gt; micro-desktop settings, so you don’t have to repeat it.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -20,7 +20,7 @@ sudo reboot
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
-Next remove default user &lt;strong&gt;pi&lt;/strong&gt;, then &lt;strong&gt;overclock safely&lt;/strong&gt; and set the &lt;strong&gt;GPU memory&lt;/strong&gt; for Pi, reboot.&lt;/p&gt;
+Next remove default user &lt;strong&gt;pi&lt;/strong&gt;, then &lt;strong&gt;overclock safely&lt;/strong&gt; and set the &lt;strong&gt;GPU memory&lt;/strong&gt; for Pi. Also update Raspberry Pi Linux Kernel, copy some configurations from USB, reboot.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo userdel -r pi &amp;amp;&amp;amp; sudo nano /boot/config.txt
 add in [pi4],
@@ -31,11 +31,11 @@ initial_turbo=30
 temp_limit=75
 add in [all],
 gpu_mem=256
-sudo rpi-update &amp;amp;&amp;amp; sudo reboot
+sudo rpi-update &amp;amp;&amp;amp; cd **USB Directory** &amp;amp;&amp;amp; sudo cp sysctl.conf /etc &amp;amp;&amp;amp; sudo cp raspi-config /etc/init.d &amp;amp;&amp;amp; sudo reboot
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
-Now, update system and remove old unused kernel. Current Raspberry Pi Linux Kernel is &lt;strong&gt;5.4.y&lt;/strong&gt; so 4 version isn’t needed.&lt;/p&gt;
+Now, update softwares and remove old unused kernel. Current Raspberry Pi Linux Kernel is &lt;strong&gt;5.4.y&lt;/strong&gt; so 4 version isn’t needed.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt full-upgrade &amp;amp;&amp;amp; sudo rm -r /lib/modules/4* /lib/modules.bak/4*
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;

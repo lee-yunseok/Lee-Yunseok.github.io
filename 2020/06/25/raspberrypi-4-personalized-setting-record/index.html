@@ -6,7 +6,7 @@ sudo nano /etc/sudoers (add permission)
 sudo nano /etc/hostname (change hostname)
 sudo nano /etc/hosts (change hostname)
 sudo reboot
-</code></pre></div></div> <p><br /> Next remove default user <strong>pi</strong>, then <strong>overclock safely</strong> and set the <strong>GPU memory</strong> for Pi, reboot.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo userdel -r pi &amp;&amp; sudo nano /boot/config.txt
+</code></pre></div></div> <p><br /> Next remove default user <strong>pi</strong>, then <strong>overclock safely</strong> and set the <strong>GPU memory</strong> for Pi. Also update Raspberry Pi Linux Kernel, copy some configurations from USB, reboot.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo userdel -r pi &amp;&amp; sudo nano /boot/config.txt
 add in [pi4],
 over_voltage=2
 arm_freq=1750
@@ -15,8 +15,8 @@ initial_turbo=30
 temp_limit=75
 add in [all],
 gpu_mem=256
-sudo rpi-update &amp;&amp; sudo reboot
-</code></pre></div></div> <p><br /> Now, update system and remove old unused kernel. Current Raspberry Pi Linux Kernel is <strong>5.4.y</strong> so 4 version isn’t needed.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt full-upgrade &amp;&amp; sudo rm -r /lib/modules/4* /lib/modules.bak/4*
+sudo rpi-update &amp;&amp; cd **USB Directory** &amp;&amp; sudo cp sysctl.conf /etc &amp;&amp; sudo cp raspi-config /etc/init.d &amp;&amp; sudo reboot
+</code></pre></div></div> <p><br /> Now, update softwares and remove old unused kernel. Current Raspberry Pi Linux Kernel is <strong>5.4.y</strong> so 4 version isn’t needed.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update &amp;&amp; sudo apt full-upgrade &amp;&amp; sudo rm -r /lib/modules/4* /lib/modules.bak/4*
 </code></pre></div></div> <p><br /> I like <strong>GNU Nano</strong> but I don’t like its default appearance. So I need a little salt there.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo nano /etc/nanorc
 remove # to linenumbers, softwrap, tabsize and edit tabsize 8 to 4, numbercolor and edit numbercolor to magenta
 </code></pre></div></div> <p><br /> Good. Now I remove pre-installed components that I am not using and install the software I need.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt remove rp-bookshelf mousepad thonny dillo omxplayer vlc libvlc-bin chromium-browser chromium-codecs-ffmpeg-extra &amp;&amp; sudo apt remove leafpad &amp;&amp; sudo apt autoremove &amp;&amp; sudo rm -r /etc/chromium* /etc/dillo &amp;&amp; sudo apt install ibus ibus-hangul fonts-unfonts-core fonts-noto-cjk zip p7zip unrar-free exfat-fuse checkinstall software-properties-common gconf2 gvfs-bin pv libappindicator1 libpango1.0-0 libreoffice-writer libreoffice-calc gnucash gimp mypaint-brushes webp mmv parallel imagemagick audacious calf-plugins qt5-default libqt5svg5-dev libasound2-dev libjack-jackd2-dev portaudio19-dev librtmidi-dev libstk0-dev libqcustomplot-dev libvorbis-dev libogg-dev libflac-dev opus-tools lame picard mpv kdenlive default-jdk poedit git-lfs git-svn clamav ufw python3-pip python3-liblo python3-pyqt5.qtsvg cmake ruby-full clang npm dnsutils apache2 php mariadb-server wordpress safeeyes aria2 rpi-imager
