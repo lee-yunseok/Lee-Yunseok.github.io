@@ -1,4 +1,117 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-05-01T03:48:06+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">AsteroidOS, an open-source operating system for smartwatches.</title><link href="https://lee-yunseok.github.io/2020/04/30/asteroidos-translation-korean/" rel="alternate" type="text/html" title="AsteroidOS, an open-source operating system for smartwatches." /><published>2020-04-30T17:47:23+09:00</published><updated>2020-04-30T17:47:23+09:00</updated><id>https://lee-yunseok.github.io/2020/04/30/asteroidos-translation-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/04/30/asteroidos-translation-korean/">&lt;p&gt;AsteroidOS is an open source smart watch operating system. I did some of little Korean translation missing from Weblate. Most of the Korean translation was done by someone else, so I translate only a few words and sentences added over the past few months, and existing translations that needed to be corrected were also translated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-06-26T01:17:03+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Personalized Raspberry Pi 4 B Micro Desktop Setting</title><link href="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/" rel="alternate" type="text/html" title="Personalized Raspberry Pi 4 B Micro Desktop Setting" /><published>2020-06-25T05:00:00+09:00</published><updated>2020-06-25T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/">&lt;p&gt;This article records the my own &lt;strong&gt;Raspberry Pi 4&lt;/strong&gt; micro-desktop settings, so you don’t have to repeat it.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Note that I’m using Raspberry Pi 4 B 8GB and 5V 3A power adapter, CNC aluminium passive case, 15.6-inch portable HDMI monitor, 7-inch official Raspberry Pi touchscreen display, 64GB SDXC micro SD card, additional 256GB SDXC micro SD card, 32GB USB OTG, two externel hard drives, CSI webcam camera, Raspberry Pi official keyboard and mouse, Scarlett Sole 3rd Gen audio interface, MXL 770 condenser microphone, PreSonus Eris E3.5 monitor speakers, Tescam TH03 Headphones, and others.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;First boot &lt;strong&gt;RasPiOS 64Bit&lt;/strong&gt;, and after finished initial setup I will add my user and set the host, then reboot Pi.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo adduser lee-yunseok
+sudo nano /etc/systemd/system/autologin@.service (change autologin user)
+sudo nano /etc/lightdm/lightdm.conf (change autologin user)
+sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi lee-yunseok
+sudo nano /etc/sudoers (add permission)
+sudo nano /etc/hostname (change hostname)
+sudo nano /etc/hosts (change hostname)
+sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Next remove default user &lt;strong&gt;pi&lt;/strong&gt;, then &lt;strong&gt;overclock safely&lt;/strong&gt; and set the &lt;strong&gt;GPU memory&lt;/strong&gt; for Pi, reboot.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo userdel -r pi &amp;amp;&amp;amp; sudo nano /boot/config.txt
+add in [pi4],
+over_voltage=2
+arm_freq=1750
+gpu_freq=600
+initial_turbo=30
+temp_limit=75
+add in [all],
+gpu_mem=256
+sudo rpi-update &amp;amp;&amp;amp; sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Now, update system and remove old unused kernel. Current Raspberry Pi Linux Kernel is &lt;strong&gt;5.4.y&lt;/strong&gt; so 4 version isn’t needed.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt update &amp;amp;&amp;amp; sudo apt full-upgrade &amp;amp;&amp;amp; sudo rm -r /lib/modules/4* /lib/modules.bak/4*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I like &lt;strong&gt;GNU Nano&lt;/strong&gt; but I don’t like its default appearance. So I need a little salt there.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/nanorc
+remove # to linenumbers, softwrap, tabsize and edit tabsize 8 to 4, numbercolor and edit numbercolor to magenta
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Good. Now I remove pre-installed components that I am not using and install the software I need.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt remove rp-bookshelf mousepad thonny dillo omxplayer vlc libvlc-bin chromium-browser chromium-codecs-ffmpeg-extra &amp;amp;&amp;amp; sudo apt remove leafpad &amp;amp;&amp;amp; sudo apt autoremove &amp;amp;&amp;amp; sudo rm -r /etc/chromium* /etc/dillo &amp;amp;&amp;amp; sudo apt install ibus ibus-hangul fonts-unfonts-core fonts-noto-cjk zip p7zip unrar-free exfat-fuse checkinstall software-properties-common gconf2 gvfs-bin pv libappindicator1 libpango1.0-0 libreoffice-writer libreoffice-calc gnucash gimp mypaint-brushes webp mmv parallel imagemagick audacious calf-plugins qt5-default libqt5svg5-dev libasound2-dev libjack-jackd2-dev portaudio19-dev librtmidi-dev libstk0-dev libqcustomplot-dev libvorbis-dev libogg-dev libflac-dev opus-tools lame picard mpv kdenlive default-jdk poedit git-lfs git-svn clamav ufw python3-pip python3-liblo python3-pyqt5.qtsvg cmake ruby-full clang npm dnsutils apache2 php mariadb-server wordpress safeeyes aria2 rpi-imager
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+While Raspberry Pi installs the libraries, I will set a desktop preference and copy the necessary files, and manually install the softwares that cannot be installed with APT or need the latest. Large projects and soundfonts are stored on external hard drives.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Set desktop fontsize(16,14), wallpaper(/usr/share/rpdwallpaper)&lt;/li&gt;
+  &lt;li&gt;Add CPU Usage Monitor+CPU Temperature Monitor+Minimize All Windows&lt;/li&gt;
+  &lt;li&gt;LXTerminal preferences: fontsize 16, background #282a36, foreground #f8f8f2&lt;/li&gt;
+  &lt;li&gt;Copy HomeSetFiles Docs Works Dropbox-Uploader Ren’Py Zsign Polyphone Piskel Fonts fre:ac GitHub-Clones&lt;/li&gt;
+  &lt;li&gt;Install Min Waveform Collective DEC Carla GX Dexed Helm TAL Vex Oxe Zynaddsubfx SAFE SonicPi VoxelShop IzPack&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Well done. configure the basic &lt;strong&gt;UFW firewall&lt;/strong&gt; and install additional required softwares, Python modules, and NodeJS modules. Then remove unnecessary VST plugins.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo ufw allow 22 &amp;amp;&amp;amp; sudo ufw allow 80 &amp;amp;&amp;amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;amp;&amp;amp; sudo ufw --force enable &amp;amp;&amp;amp; sudo apt install -y openvpn dialog &amp;amp;&amp;amp; sudo pip3 install icloudpd protonvpn-cli &amp;amp;&amp;amp; sudo apt clean all &amp;amp;&amp;amp; sudo protonvpn init &amp;amp;&amp;amp; cd /usr/lib/nodejs &amp;amp;&amp;amp; sudo npm i -g n &amp;amp;&amp;amp; sudo n stable &amp;amp;&amp;amp; sudo npm i -g node-modules &amp;amp;&amp;amp; sudo npm i -g markdown-pdf --ignore-scripts &amp;amp;&amp;amp; sudo gem i jekyll bundler &amp;amp;&amp;amp; pip install pytinypng &amp;amp;&amp;amp; cd /usr/lib/vst &amp;amp;&amp;amp; sudo rm Hi* Juce* ReF* Stereo*
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Almost complete. Now configure detailed tuning.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Add VST path on Waveform: /usr/lib/lxvst&lt;/li&gt;
+  &lt;li&gt;Desktop Preferences: Move menubar to bottom+Very large size, Iconify&lt;/li&gt;
+  &lt;li&gt;Set iBus, Safeeyes and hide from menubar&lt;/li&gt;
+  &lt;li&gt;Always run vwebp for WebP format&lt;/li&gt;
+  &lt;li&gt;Always run gpicview for JPG and PNG format&lt;/li&gt;
+  &lt;li&gt;Install writer2pub plugin to Libreoffice Writer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Finished. Below is a record of the softwares I used before. Write them down here as I don’t know when they will be needed again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Old installation(Keep in mind)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install pandoc texlive-latex-base inkscape pencil2d tiled birdfont cmdtest grunt freecad freecad-python3 libgvc6 newsboat
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Waiting for update and support&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Surge G’Mic Godot3 Blender Makehuman LMMS&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Old manually installation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Non-DAW MusE Traverso-DAW Urho3D MonoGame Raylib Love2D&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Install Non-DAW&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git clone https://github.com/original-male/non.git &amp;amp;&amp;amp; cd non &amp;amp;&amp;amp; git submodule update –init &amp;amp;&amp;amp; sudo apt install xorg-dev libcairo2-dev libjpeg-dev libjack-jackd2-dev liblo-dev libsndfile1-dev ladspa-sdk liblrdf0-dev libsigc++-2.0-dev &amp;amp;&amp;amp; cd non/lib/ntk &amp;amp;&amp;amp; ./waf configure &amp;amp;&amp;amp; ./waf &amp;amp;&amp;amp; sudo ./waf install &amp;amp;&amp;amp; cd .. &amp;amp;&amp;amp; cd .. &amp;amp;&amp;amp; ./waf configure &amp;amp;&amp;amp; ./waf &amp;amp;&amp;amp; sudo ./waf install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Install MusE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install libsndfile1-dev libsamplerate0-dev libjack-jackd2-dev ladspa-sdk lv2-dev qttools5-dev qttools5-dev-tools liblo-dev dssi-dev liblilv-dev libfluidsynth-dev libgtkmm-2.4-dev librtaudio-dev libqt5svg5-dev libinstpatch-dev liblrdf0-dev librubberband-dev liblash-compat-dev &amp;amp;&amp;amp; git clone https://github.com/muse-sequencer/muse.git &amp;amp;&amp;amp; cd muse3 &amp;amp;&amp;amp; ./compile_muse.sh &amp;amp;&amp;amp; cd build &amp;amp;&amp;amp; sudo make install
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="raspberry-pi" /><category term="raspios" /><category term="linux" /><category term="desktop" /><summary type="html">This article records the my own Raspberry Pi 4 micro-desktop settings, so you don’t have to repeat it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/my-rpi-4-8gb.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/my-rpi-4-8gb.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">AsteroidOS, an open-source operating system for smartwatches.</title><link href="https://lee-yunseok.github.io/2020/04/30/asteroidos-translation-korean/" rel="alternate" type="text/html" title="AsteroidOS, an open-source operating system for smartwatches." /><published>2020-04-30T17:47:23+09:00</published><updated>2020-04-30T17:47:23+09:00</updated><id>https://lee-yunseok.github.io/2020/04/30/asteroidos-translation-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/04/30/asteroidos-translation-korean/">&lt;p&gt;AsteroidOS is an open source smart watch operating system. I did some of little Korean translation missing from Weblate, and most of the Korean translation was done by someone else, and only a few words and sentences added over the past few months, and existing translations that needed to be corrected were also translated.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -14,7 +127,7 @@
 &lt;h4 id=&quot;community-friendly&quot;&gt;Community-friendly&lt;/h4&gt;
 &lt;p&gt;Since its creation in 2015, AsteroidOS has been led by &lt;a href=&quot;https://www.linkedin.com/in/florentrevest&quot;&gt;Florent Revest&lt;/a&gt;, but is open towards external contribution and collaboration. The project is still in active development and if you want to help, make sure to check the &lt;a href=&quot;https://asteroidos.org/community&quot;&gt;Get Involved&lt;/a&gt; page.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://asteroidos.org/&quot;&gt;Visit AsteroidOS&lt;/a&gt;&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="os" /><category term="smart" /><category term="watch" /><category term="open-source" /><summary type="html">AsteroidOS is an open source smart watch operating system. I did some of little Korean translation missing from Weblate. Most of the Korean translation was done by someone else, so I translate only a few words and sentences added over the past few months, and existing translations that needed to be corrected were also translated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/asteroidos.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/asteroidos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Translate Safe Eyes into Korean</title><link href="https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean/" rel="alternate" type="text/html" title="Translate Safe Eyes into Korean" /><published>2020-02-21T05:47:23+09:00</published><updated>2020-02-21T05:47:23+09:00</updated><id>https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean/">&lt;p&gt;Three days ago I finished the Korean translation of Safe Eyes via Weblate. Safe Eyes is Linux-only open source(GPL v3) software designed to protect users from eye strain by providing break reminder based on default or user settings.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://asteroidos.org/&quot;&gt;Visit AsteroidOS&lt;/a&gt;&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="os" /><category term="smart" /><category term="watch" /><category term="open-source" /><summary type="html">AsteroidOS is an open source smart watch operating system. I did some of little Korean translation missing from Weblate, and most of the Korean translation was done by someone else, and only a few words and sentences added over the past few months, and existing translations that needed to be corrected were also translated.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/asteroidos.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/asteroidos.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Translate Safe Eyes into Korean</title><link href="https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean/" rel="alternate" type="text/html" title="Translate Safe Eyes into Korean" /><published>2020-02-21T05:47:23+09:00</published><updated>2020-02-21T05:47:23+09:00</updated><id>https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/21/safeeyes-translation-korean/">&lt;p&gt;Three days ago I finished the Korean translation of Safe Eyes via Weblate. Safe Eyes is Linux-only open source(GPL v3) software designed to protect users from eye strain by providing break reminder based on default or user settings.&lt;/p&gt;
 
 &lt;p&gt;Before the localization I made suggestions for adding a Korean translation on Weblate, but developer Gobinath was too busy to check, so I left a suggestion on GitHub repository, he confirmed and approved it.&lt;/p&gt;
 
@@ -803,14 +916,4 @@ norton_verification: YOUR_VERIFICATION_CODE
 &lt;ul&gt;
   &lt;li&gt;Official Website: &lt;a href=&quot;https://monogatari.io/&quot;&gt;Monogatari&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Contributions: &lt;a href=&quot;https://github.com/Monogatari/Monogatari/pull/87&quot;&gt;Korean translation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="monogatari" /><category term="html" /><category term="css" /><category term="web" /><category term="game" /><category term="engine" /><category term="novel" /><category term="open-source" /><summary type="html">Monogatari Visual Novel Engine</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/monogatari-website-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/monogatari-website-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">YGGDRASIL JIGSAW PUZZLE - NATURE</title><link href="https://lee-yunseok.github.io/2019/06/06/yggdrasil-jigsaw-puzzle-nature-dlc/" rel="alternate" type="text/html" title="YGGDRASIL JIGSAW PUZZLE - NATURE" /><published>2019-06-06T05:30:00+09:00</published><updated>2019-06-06T05:30:00+09:00</updated><id>https://lee-yunseok.github.io/2019/06/06/yggdrasil-jigsaw-puzzle-nature-dlc</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/06/06/yggdrasil-jigsaw-puzzle-nature-dlc/">&lt;h3 id=&quot;2nd-theme-nature&quot;&gt;2nd THEME: NATURE&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/img/steam_store_yjp_1079930_brand.png&quot; alt=&quot;2nd THEME: NATURE&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;This DLC was launched on June 5, 2019, in honor of World Environment Day.&lt;/li&gt;
-  &lt;li&gt;The DLC has 100 retouched puzzle images about &lt;strong&gt;“NATURE”&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Theme set includes both of background and frame, bottom.&lt;/li&gt;
-  &lt;li&gt;Contains one BGM. This is automatically applied to the playlist.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe src=&quot;https://store.steampowered.com/widget/1079930/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="puzzle" /><category term="renpy" /><category term="steam" /><category term="nature" /><category term="jigsaw" /><summary type="html">2nd THEME: NATURE</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/ss_1079930_1.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/ss_1079930_1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="monogatari" /><category term="html" /><category term="css" /><category term="web" /><category term="game" /><category term="engine" /><category term="novel" /><category term="open-source" /><summary type="html">Monogatari Visual Novel Engine</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/monogatari-website-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/monogatari-website-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

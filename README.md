@@ -3,12 +3,17 @@ _My personal website project made with :hearts: and [Derrick](https://github.com
 
 ## Development environment
 - 35 years old human
-- [Raspberry Pi 4](https://www.raspberrypi.org/)
-  - [Raspbian](https://www.raspbian.org/)
+- [Raspberry Pi 4 B 8GB](https://www.raspberrypi.org/)
+  - [Rasberry Pi OS](https://www.raspbian.org/)
 - [Min](https://minbrowser.github.io/min/)
 - [GNU Nano](https://www.nano-editor.org/)
-- [muCommander](http://www.mucommander.com/)
+- [Geany](https://www.geany.org/)
 - [GIMP 2](https://www.gimp.org/)
+- [ImageMagick](https://imagemagick.org/)
+- [Python](http://www.python.org/)
+  - [PyTinyPNG](https://github.com/vasilcovsky/pytinypng)
+- [Ruby](https://www.ruby-lang.org/)
+  - [Jekyll](https://jekyllrb.com/)
 - [Derrick](https://github.com/artemsheludko/derrick)
 - [Compress HTML in Jekyll](http://jch.penibelst.de/)
 - [Formspree](https://formspree.io/)
