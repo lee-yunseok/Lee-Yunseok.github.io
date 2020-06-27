@@ -6,7 +6,6 @@ _My personal website project made with :hearts: and [Derrick](https://github.com
 - [Raspberry Pi 4 B 8GB](https://www.raspberrypi.org/)
   - [Rasberry Pi OS](https://www.raspbian.org/)
 - [Min](https://minbrowser.github.io/min/)
-- [GNU Nano](https://www.nano-editor.org/)
 - [Geany](https://www.geany.org/)
 - [GIMP 2](https://www.gimp.org/)
 - [ImageMagick](https://imagemagick.org/)
