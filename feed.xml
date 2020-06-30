@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-06-28T03:27:29+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Personalized Raspberry Pi 4 B Micro Desktop Setting</title><link href="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/" rel="alternate" type="text/html" title="Personalized Raspberry Pi 4 B Micro Desktop Setting" /><published>2020-06-25T05:00:00+09:00</published><updated>2020-06-25T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/">&lt;p&gt;This article records the my own &lt;strong&gt;Raspberry Pi 4&lt;/strong&gt; micro-desktop settings, so you don’t have to repeat it.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-07-01T00:57:33+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Personalized Raspberry Pi 4 B Micro Desktop Setting</title><link href="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/" rel="alternate" type="text/html" title="Personalized Raspberry Pi 4 B Micro Desktop Setting" /><published>2020-06-25T05:00:00+09:00</published><updated>2020-06-25T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/06/25/raspberrypi-4-personalized-setting-record/">&lt;p&gt;This article records the my own &lt;strong&gt;Raspberry Pi 4&lt;/strong&gt; micro-desktop settings, so you don’t have to repeat it.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Last modified on 28th June, 2020.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Last modified on 30th June, 2020.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -56,14 +56,14 @@ Good. Now I remove pre-installed components that I am not using and install the 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
-While Raspberry Pi installs the libraries, I will set a desktop preference and copy the necessary files, and manually install the softwares that cannot be installed with APT or need the latest. Large projects and soundfonts are stored on external hard drives.&lt;/p&gt;
+While Raspberry Pi installs the libraries, I will set a desktop preference and copy the necessary files, and manually install the softwares that cannot be installed with APT or need the latest. Large projects are stored on external hard drives.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Set desktop fontsize(16,14), wallpaper(/usr/share/rpdwallpaper)&lt;/li&gt;
   &lt;li&gt;Add CPU Usage Monitor+CPU Temperature Monitor+Minimize All Windows&lt;/li&gt;
   &lt;li&gt;LXTerminal preferences: fontsize 16, background #282a36, foreground #f8f8f2&lt;/li&gt;
-  &lt;li&gt;Copy HomeSetFiles Docs Works Dropbox-Uploader Ren’Py Markdown-Editor Zsign Polyphone Piskel Fonts fre:ac GitHub-Clones&lt;/li&gt;
-  &lt;li&gt;Install Min Waveform Collective DEC Carla GX Dexed Helm TAL Vex Oxe Zynaddsubfx Dragonfly-Reverb VoxelShop IzPack&lt;/li&gt;
+  &lt;li&gt;Copy HomeSetFiles Docs Works Dropbox-Uploader Ren’Py Twine Markdown-Editor Zsign Polyphone Piskel Fonts Soundfonts fre:ac GitHub-Clones&lt;/li&gt;
+  &lt;li&gt;Install Min Waveform Collective DEC Carla GX Dexed Helm TAL Vex Oxe Zynaddsubfx SAFE Dragonfly-Reverb VoxelShop IzPack&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;br /&gt;
