@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-08-09T18:41:51+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Falling Slowly Ukulele Cover Play Tab Score</title><link href="https://lee-yunseok.github.io/2020/07/23/falling-slowly-ukulele-cover-play-tab-score/" rel="alternate" type="text/html" title="Falling Slowly Ukulele Cover Play Tab Score" /><published>2020-07-23T05:00:00+09:00</published><updated>2020-07-23T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/07/23/falling-slowly-ukulele-cover-play-tab-score</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/07/23/falling-slowly-ukulele-cover-play-tab-score/">&lt;p&gt;Today I share the &lt;strong&gt;Falling Slowly&lt;/strong&gt; Ukulele Cover Play Tab Score. &lt;strong&gt;Falling Slowly&lt;/strong&gt; is the soundtrack of the 2007 Irish musical remonce film &lt;strong&gt;Once&lt;/strong&gt;. This song won the &lt;u&gt;Best Original Song at the Academy in 2008&lt;/u&gt;. It is also a popular song in my country Korea, Republic of.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-08-12T22:21:36+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Polyphone Soundfont Editor</title><link href="https://lee-yunseok.github.io/2020/08/09/polyphone-soundfont-editor-into-korean/" rel="alternate" type="text/html" title="Polyphone Soundfont Editor" /><published>2020-08-09T23:30:08+09:00</published><updated>2020-08-09T23:30:08+09:00</updated><id>https://lee-yunseok.github.io/2020/08/09/polyphone-soundfont-editor-into-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/08/09/polyphone-soundfont-editor-into-korean/">&lt;p&gt;&lt;strong&gt;Polyphone&lt;/strong&gt; is a &lt;u&gt;soundfont editor&lt;/u&gt; for quickly designing musical instruments. It will help you to create and edit a musical instrument based on samples, using the sf2 format.&lt;/p&gt;
+
+&lt;p&gt;More than a simple editor, Polyphone has been designed to efficiently deal with big sets of instruments involving a large amount of data.&lt;/p&gt;
+
+&lt;p&gt;The software supports both of desktop(Windows/Mac/Linux) and Raspberry Pi. &lt;u&gt;Free to use&lt;/u&gt;, under GNU GPL 3.0 license.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;import-your-sounds&quot;&gt;Import your sounds&lt;/h4&gt;
+&lt;p&gt;Import any .wav sample to build your own musical instrument.&lt;/p&gt;
+
+&lt;h4 id=&quot;create-your-instrument&quot;&gt;Create your instrument&lt;/h4&gt;
+&lt;p&gt;Gather your finest audio samples and configure them to create a unique instrument.&lt;/p&gt;
+
+&lt;h4 id=&quot;preview-your-creations&quot;&gt;Preview your creations&lt;/h4&gt;
+&lt;p&gt;Play the instrument you just made with the virtual keyboard or an external midi device.&lt;/p&gt;
+
+&lt;h4 id=&quot;save-and-export&quot;&gt;Save and export&lt;/h4&gt;
+&lt;p&gt;Save your instruments in the sf2 format and export them as sfz or in the compressed sf3 format.&lt;/p&gt;
+
+&lt;h4 id=&quot;edit-existing-soundfonts&quot;&gt;Edit existing soundfonts&lt;/h4&gt;
+&lt;p&gt;Load existing files in the format sf2, sf3, sfz or sfArk (all versions).&lt;/p&gt;
+
+&lt;h4 id=&quot;use-convenient-tools&quot;&gt;Use convenient tools&lt;/h4&gt;
+&lt;p&gt;Enjoy tools for bulk editing, detecting pitch, creating loops, transposing, equalizing and filtering samples.&lt;/p&gt;
+
+&lt;h4 id=&quot;record-your-music&quot;&gt;Record your music&lt;/h4&gt;
+&lt;p&gt;A recorder is included to keep a track on what you played with Polyphone.&lt;/p&gt;
+
+&lt;h4 id=&quot;customize-the-interface&quot;&gt;Customize the interface&lt;/h4&gt;
+&lt;p&gt;Adapt Polyphone by choosing the language (English, Spanish, French, …) and the way keys are called.&lt;/p&gt;
+
+&lt;h4 id=&quot;check-your-work&quot;&gt;Check your work&lt;/h4&gt;
+&lt;p&gt;Tables are provided to summarize the content of your instrument, so that errors are easy to find.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;I worked on &lt;strong&gt;Korean translation&lt;/strong&gt; and minor modifications of the Polyphone project from July 7th until a few days ago.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.polyphone-soundfonts.com/&quot;&gt;Visit Polyphone&lt;/a&gt;&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="soundfont" /><category term="music" /><category term="instrument" /><category term="open-source" /><summary type="html">Polyphone is a soundfont editor for quickly designing musical instruments. It will help you to create and edit a musical instrument based on samples, using the sf2 format.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/polyphone-soundfont-editor.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/polyphone-soundfont-editor.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Falling Slowly Ukulele Cover Play Tab Score</title><link href="https://lee-yunseok.github.io/2020/07/23/falling-slowly-ukulele-cover-play-tab-score/" rel="alternate" type="text/html" title="Falling Slowly Ukulele Cover Play Tab Score" /><published>2020-07-23T05:00:00+09:00</published><updated>2020-07-23T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2020/07/23/falling-slowly-ukulele-cover-play-tab-score</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/07/23/falling-slowly-ukulele-cover-play-tab-score/">&lt;p&gt;Today I share the &lt;strong&gt;Falling Slowly&lt;/strong&gt; Ukulele Cover Play Tab Score. &lt;strong&gt;Falling Slowly&lt;/strong&gt; is the soundtrack of the 2007 Irish musical remonce film &lt;strong&gt;Once&lt;/strong&gt;. This song won the &lt;u&gt;Best Original Song at the Academy in 2008&lt;/u&gt;. It is also a popular song in my country Korea, Republic of.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -641,353 +680,4 @@ sudo rpi-update &amp;amp;&amp;amp; sudo reboot
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe src=&quot;https://store.steampowered.com/widget/404910/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="raspberry-pi" /><category term="raspbian" /><category term="discouraged-workers" /><category term="steam" /><summary type="html">Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn’t test it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/kndw_raspi.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/kndw_raspi.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jekyll Personal Website Theme</title><link href="https://lee-yunseok.github.io/2019/11/11/jekyll-personal-website-theme-github-pages/" rel="alternate" type="text/html" title="Jekyll Personal Website Theme" /><published>2019-11-11T02:38:26+09:00</published><updated>2019-11-11T02:38:26+09:00</updated><id>https://lee-yunseok.github.io/2019/11/11/jekyll-personal-website-theme-github-pages</id><content type="html" xml:base="https://lee-yunseok.github.io/2019/11/11/jekyll-personal-website-theme-github-pages/">&lt;h1 id=&quot;jekyll-personal-website&quot;&gt;Jekyll Personal Website&lt;/h1&gt;
-
-&lt;p&gt;The theme is an blogger friendly Jekyll expansion port of GitHub official &lt;a href=&quot;https://github.com/github/personal-website&quot;&gt;personal website&lt;/a&gt; theme. It supports card-like archives as the latest posts. Each post can have image sliders and previous, next, related posts, and comments. Card archives support pagination by category are available. Designed to easily apply metadata, analytics, verification, rss feed and sitemap. Contact forms are also supported.&lt;/p&gt;
-
-&lt;p&gt;I’ve attached a screenshot of the archive below, and you can see my personal website as a demo page &lt;a href=&quot;https://Lee-Yunseok.GitHub.io&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;showcase-your-software-development-skills&quot;&gt;Showcase your software development skills&lt;/h3&gt;
-
-&lt;p&gt;This repository gives you the code you’ll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner’s photo and repositories.&lt;/p&gt;
-
-&lt;p&gt;Your personal website is waiting to be personalized, though. It includes space to highlight your specific areas of interest in software development, like languages or industries. And it’s standing by to publish your next great blog post.&lt;/p&gt;
-
-&lt;p&gt;It’s all possible using the combination of &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;Jekyll&lt;/a&gt; (for building your website), &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; (for hosting your website), and &lt;a href=&quot;https://developer.github.com/v3/&quot;&gt;GitHub’s API&lt;/a&gt; (for automatically populating your website with content).&lt;/p&gt;
-
-&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
-
-&lt;h3 id=&quot;fork-the-lee-yunseokjekyll-personal-website-repo&quot;&gt;Fork the &lt;code class=&quot;highlighter-rouge&quot;&gt;lee-yunseok/jekyll-personal-website&lt;/code&gt; repo&lt;/h3&gt;
-
-&lt;p&gt;You’ll be making your own copy of the “personal website starter” repository so you have your own project to customize. A “fork” is a copy of a repository. So select “Fork” atop &lt;a href=&quot;https://github.com/lee-yunseok/jekyll-personal-website&quot;&gt;the &lt;code class=&quot;highlighter-rouge&quot;&gt;lee-yunseok/jekyll-personal-website&lt;/code&gt; repository&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you’ve found a home for your forked repository, it’s yours. You’re the owner, so you’re ready to publish, if you wish.&lt;/p&gt;
-
-&lt;h3 id=&quot;install-in-your-local-development-environment&quot;&gt;Install in your local development environment&lt;/h3&gt;
-
-&lt;p&gt;If you want to manage your website in a local web development environment, you’ll be using &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Ruby&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once you’ve found a home for your forked repository, &lt;strong&gt;&lt;a href=&quot;https://help.github.com/articles/cloning-a-repository/&quot;&gt;clone it&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;install-jekyll&quot;&gt;Install Jekyll&lt;/h4&gt;
-
-&lt;p&gt;Jekyll is a &lt;a href=&quot;https://jekyllrb.com/docs/ruby-101/#gems&quot;&gt;Ruby Gem&lt;/a&gt; that can be installed on most systems.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Install a full &lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot;&gt;Ruby development environment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Install Jekyll and &lt;a href=&quot;https://jekyllrb.com/docs/ruby-101/#bundler&quot;&gt;bundler&lt;/a&gt; &lt;a href=&quot;https://jekyllrb.com/docs/ruby-101/#gems&quot;&gt;gems&lt;/a&gt;
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem install jekyll bundler
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Change into your new directory
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cd jekyll-personal-website
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Install missing gems
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle install
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Build the site and make it available on a local server
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle exec jekyll serve
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;You should see something like:&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Configuration file: /octocat/personal-website/_config.yml
-             Source: /octocat/personal-website
-        Destination: /octocat/_site
-  Incremental build: disabled. Enable with --incremental
-       Generating...
-    GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
-                     done in 14.729 seconds.
-  Auto-regeneration: enabled for '/octocat/personal-website'
-     Server address: http://127.0.0.1:4000
-   Server running... press ctrl-c to stop.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-
-    &lt;p&gt;Don’t worry about the “No GitHub API authentication could be found” message. &lt;a href=&quot;https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md&quot;&gt;API authentication is only necessary&lt;/a&gt; if you intend to display more detailed metadata, like a branch name.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Now browse to &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;publish&quot;&gt;Publish&lt;/h3&gt;
-
-&lt;p&gt;When you host your personal website’s code on GitHub, you get the support of free hosting through GitHub Pages.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The fastest approach&lt;/strong&gt; is to rename your repository &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt;, where &lt;code class=&quot;highlighter-rouge&quot;&gt;username&lt;/code&gt; is your GitHub username (or organization name). Then, the next time you push any changes to your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;master&lt;/code&gt; branch, they’ll be accessible on the web at your &lt;code class=&quot;highlighter-rouge&quot;&gt;username.github.io&lt;/code&gt; address.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If you want to use a custom domain&lt;/strong&gt;, you’ll want to add it to your repository’s “Custom domain” settings on github.com. And then register and/or &lt;a href=&quot;https://help.github.com/articles/quick-start-setting-up-a-custom-domain/&quot;&gt;configure your domain with a DNS provider&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;customization&quot;&gt;Customization&lt;/h2&gt;
-
-&lt;p&gt;It’s your website, and you control the source code. So you can customize everything, if you like. But we’ve provided a handful of quick customizations for you to consider as you get your website off the ground.&lt;/p&gt;
-
-&lt;h3 id=&quot;quick-configuration-changes&quot;&gt;Quick configuration changes&lt;/h3&gt;
-
-&lt;p&gt;Most customizations can be done in a matter of seconds, by revising your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file. Just remember to restart your local server each time you save new changes so your Jekyll-powered website rebuilds correctly:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Shut down your server by entering the keyboard command &lt;kbd&gt;CTRL&lt;/kbd&gt;+&lt;kbd&gt;c&lt;/kbd&gt;&lt;/li&gt;
-  &lt;li&gt;Restart your server: &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;layout&quot;&gt;Layout&lt;/h4&gt;
-
-&lt;p&gt;Your website will display in a two-column layout by default on larger-screen devices, with your photo, name, and basic information displayed in a left-aligned “sidebar.” You can quickly switch to a “stacked” single-column layout by changing the line in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file that reads &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: sidebar&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;layout: stacked&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;style&quot;&gt;Style&lt;/h4&gt;
-
-&lt;p&gt;Your website appears with a “light” white and gray background by default, with dark text. You can quickly switch to a “dark” background with white text by changing the line in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file that reads &lt;code class=&quot;highlighter-rouge&quot;&gt;style: light&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;style: dark&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;timezone&quot;&gt;Timezone&lt;/h4&gt;
-
-&lt;p&gt;Set your &lt;a href=&quot;https://github.com/tzinfo/tzinfo-data/blob/master/lib/tzinfo/data/indexes/countries.rb&quot;&gt;timezone&lt;/a&gt; like this below so your posts will be displayed in your timezone.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;timezone: America/Los_Angeles&lt;/code&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;github-user-settings&quot;&gt;GitHub User Settings&lt;/h4&gt;
-
-&lt;p&gt;This theme requires you to enter GitHub user data.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;repository: your_login_name/your_repository
-name: Your name.
-email: Your email address. Leave it blank if you don't want to show your email.
-bio: Your short bio.
-org: Your GitHub organization. Leave it blank if you don't have your own organization.
-location: Your location.
-hireable: Set &quot;true&quot; or &quot;false&quot;.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;default-metadata-tags&quot;&gt;Default Metadata tags&lt;/h4&gt;
-
-&lt;p&gt;This will fill &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;head&amp;gt; &amp;lt;/head&amp;gt;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;title: Your website title.
-description: Your website description.
-keyword: Your website keyword.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;projects&quot;&gt;Projects&lt;/h4&gt;
-
-&lt;p&gt;The “My Projects” section of your website is generated by default with your nine most recently “pushed” repositories. It also excludes repositories that you forked, by default. But each of these parameters can be quickly customized in your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, under the &lt;code class=&quot;highlighter-rouge&quot;&gt;projects&lt;/code&gt; dictionary line.&lt;/p&gt;
-
-&lt;p&gt;Parameters include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;sort_by&lt;/code&gt;: The method by which repositories are sorted. Options include &lt;code class=&quot;highlighter-rouge&quot;&gt;pushed&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;stars&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;limit&lt;/code&gt;: The maximum number of repositories that will be displayed in the “My Projects” section of your website. Out of the box, this number is set to &lt;code class=&quot;highlighter-rouge&quot;&gt;9&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;exclude&lt;/code&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;forks&lt;/code&gt;: When &lt;code class=&quot;highlighter-rouge&quot;&gt;true&lt;/code&gt;, repositories you’ve forked will be excluded from the listing.&lt;/li&gt;
-      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;projects&lt;/code&gt;: A list the repository names you want to exclude from the listing.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;topics&quot;&gt;Topics&lt;/h4&gt;
-
-&lt;p&gt;Your website comes pre-configured with three topics (e.g. “Web design” and “Sass”) that appear in a section titled “My Interests.” These are also stored in your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, where you can define each topic’s name and two other optional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;web_url&lt;/code&gt;: The web address you’d like to your topic to link to (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;https://github.com/topics/sass&lt;/code&gt;).&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;image_url&lt;/code&gt;: The web address of an (ideally square) image that you’d like to appear with your topic.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;social-media&quot;&gt;Social media&lt;/h4&gt;
-
-&lt;p&gt;Your website supports linking and sharing to social media services you’re using, including Behance, Dribbble, Facebook, LinkedIn, Medium, Stack Overflow, Twitter, and YouTube. To identify the services you use:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Edit your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Edit the &lt;code class=&quot;highlighter-rouge&quot;&gt;social_media&lt;/code&gt; dictionary line, and represent the services you like in a simple &lt;code class=&quot;highlighter-rouge&quot;&gt;key: value&lt;/code&gt; form:&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; social_media:
-   behance: your_username
-   dribbble: your_username  
-   facebook: your_username
-   hackerrank: your_username
-   instagram: your_username
-   keybase: your_username
-   linkedin: your_username
-   medium: your_username
-   stackoverflow: your_user_id
-   telegram: your_username
-   twitter: your_username
-   unsplash: your_username
-   vk: your_username
-   website: http://your_website_url
-   youtube: your_username
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Links to your profile for each of the services you define will appear in the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;header&amp;gt;&lt;/code&gt; of your website, appended to your bio. And if those services support sharing, any blog posts that you publish will include links to share that post using each social media service.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt;: This feature is supported by two files in your repository:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/_data/social_media.yml&lt;/code&gt;: Defines each of the supported services, including variable name, display name, URL path, and SVG icon.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;/_includes/social_media_share_url.html&lt;/code&gt;: Outputs the share URL required for any of the supported social media services that support sharing URLs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you’re interested in adding a social media service that’s not already supported in this repo, you can edit these two files to build that support.&lt;/p&gt;
-
-&lt;h4 id=&quot;facebook-admin&quot;&gt;Facebook admin&lt;/h4&gt;
-
-&lt;p&gt;This will use your &lt;a href=&quot;https://www.facebook.com/help/community/question/?id=759789947398518&quot;&gt;facebook page metadata&lt;/a&gt; when who share your post. Leave it blank if you don’t want it.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;facebook_admins: Your Facebook admin number.&lt;/code&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;disqus-comment&quot;&gt;Disqus comment&lt;/h4&gt;
-
-&lt;p&gt;People can leave comments on your posts. Add your site and just type your &lt;a href=&quot;https://help.disqus.com/en/articles/1717111-what-s-a-shortname&quot;&gt;Disqus short name&lt;/a&gt;. Leave it blank if you don’t want it.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;disqus: Your Disqus short name.&lt;/code&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;website-verification&quot;&gt;Website verification&lt;/h4&gt;
-
-&lt;p&gt;Enter the verification codes to make them work.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;google_verification: YOUR_VERIFICATION_CODE
-bing_verification: YOUR_VERIFICATION_CODE
-naver_verification: YOUR_VERIFICATION_CODE
-norton_verification: YOUR_VERIFICATION_CODE
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h4 id=&quot;google-analytics&quot;&gt;Google Analytics&lt;/h4&gt;
-
-&lt;p&gt;Just add your &lt;a href=&quot;https://support.google.com/analytics/answer/1008080&quot;&gt;tracking code&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;google_analytics: YOUR_TRACKING_CODE&lt;/code&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;about-page&quot;&gt;About page&lt;/h2&gt;
-
-&lt;p&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_/includes/about.html&lt;/code&gt; file using HTML and &lt;a href=&quot;https://jekyllrb.com/docs/liquid/&quot;&gt;Liquid&lt;/a&gt; so you can include more information about you.&lt;/p&gt;
-
-&lt;h2 id=&quot;adding-pages&quot;&gt;Adding pages&lt;/h2&gt;
-
-&lt;p&gt;To &lt;strong&gt;add a page&lt;/strong&gt; to your website (e.g. detailed resume):&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;.html&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file at the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_pages/&lt;/code&gt; of your repository.&lt;/li&gt;
-  &lt;li&gt;Give it a filename that you want to be used in the page’s URL (e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;http://yourname.github.io/pages/filename&lt;/code&gt;).&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;At the start of your file, include the following &lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;front matter&lt;/a&gt;:&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ---
- layout: pages
- title: &quot;YOUR_PAGE_TITLE&quot;
- description: &quot;YOUR_PAGE_DESCRIPTION&quot;
- permalink: pages/YOUR_PAGE/
- ---
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;If you want to use Liquid, enter only front matter in your page file, then create a file with the contents in &lt;code class=&quot;highlighter-rouge&quot;&gt;_includes&lt;/code&gt;, and add &lt;code class=&quot;highlighter-rouge&quot;&gt;include_html: YOUR_LIQUID_FILE&lt;/code&gt; to front matter in the page file.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;adding-category-page&quot;&gt;Adding category page&lt;/h2&gt;
-
-&lt;p&gt;To &lt;strong&gt;add a category page&lt;/strong&gt; to your website like &lt;strong&gt;Blog&lt;/strong&gt; menu:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;.html&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file at the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_categories/&lt;/code&gt; of your repository with front matter.&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ---
- layout: categories
- title: &quot;YOUR_CATEGORY_TITLE&quot;
- description: &quot;YOUR_CATEGORY_DESCRIPTION&quot;
- permalink: YOUR_CATEGORY_NAME
- pagination:
-   enabled: true
-   category: YOUR_CATEGORY_NAME
- ---
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Add a new link in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; with their &lt;a href=&quot;https://octicons.github.com/&quot;&gt;Octicon&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; - title: YOUR_CATEGORY_NAME
-   octicon: OCTICON_NAME
-   url: YOUR_CATEGORY_NAME
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;adding-blog-posts&quot;&gt;Adding blog posts&lt;/h2&gt;
-
-&lt;p&gt;To &lt;strong&gt;add a blog post&lt;/strong&gt; to your website:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Create a new &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; file in your repository’s &lt;code class=&quot;highlighter-rouge&quot;&gt;/_posts/&lt;/code&gt; directory.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Give it a filename using the following format:&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; YEAR-MONTH-DAY-title.MARKUP
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;At the start of your file, include the following &lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;front matter&lt;/a&gt;:&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; ---
- layout: post
- title: &quot;YOUR_POST_TITLE&quot;
- date: 2019-01-29 00:00:00
- description: 'meta description'
- og_type: article
- tags:
- - Blog
- categories:
- - Blog
- twitter_text: 'Type description for twitter card'
- introduction: 'Type your description for Thought section or category page'
- ---
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Your website comes with a placeholder blog post that you can reference. Notably, its &lt;a href=&quot;https://jekyllrb.com/docs/front-matter/&quot;&gt;front matter&lt;/a&gt; declares &lt;code class=&quot;highlighter-rouge&quot;&gt;published&lt;/code&gt; as &lt;code class=&quot;highlighter-rouge&quot;&gt;false&lt;/code&gt;, so that it won’t appear on your website.&lt;/p&gt;
-
-&lt;p&gt;While you can define a &lt;code class=&quot;highlighter-rouge&quot;&gt;layout&lt;/code&gt; in the front matter, your website is pre-configured to assign the &lt;code class=&quot;highlighter-rouge&quot;&gt;post&lt;/code&gt; layout to all of the posts in your &lt;code class=&quot;highlighter-rouge&quot;&gt;/_posts/&lt;/code&gt; directory. So you don’t have to declare that in your posts.&lt;/p&gt;
-
-&lt;p&gt;Jekyll’s conventions for authoring and managing blog posts is very flexible. You can &lt;a href=&quot;https://jekyllrb.com/docs/posts/&quot;&gt;learn more in Jekyll’s documentation for “Posts.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You can also specify an image or video to be used as a thumbnail in Thought section or category page. Just add &lt;code class=&quot;highlighter-rouge&quot;&gt;image: YOUR_IMAGE_URL&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;youtube: YOUTUBE_VIDEO_URL&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;vimeo: VIMEO_VIDEO_URL&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;video: YOUR_VIDEO_URL&lt;/code&gt; to the front matter.&lt;/p&gt;
-
-&lt;h3 id=&quot;use-jquery-lightslider-in-your-post&quot;&gt;Use jQuery lightSlider in your post&lt;/h3&gt;
-
-&lt;p&gt;Add image sliders on your post using the &lt;a href=&quot;https://github.com/sachinchoolur/lightslider&quot;&gt;jQuery lightSlider&lt;/a&gt; supported by the theme. Just write the code anywhere you want in the post.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;div class=&quot;yslider&quot;&amp;gt;
-  &amp;lt;ul&amp;gt;
-    &amp;lt;li&amp;gt;
-      &amp;lt;img src=&quot;YOUR_IMG_URL&quot; alt=&quot;YOUR_IMG_DESCRIPTION&quot; /&amp;gt;
-    &amp;lt;/li&amp;gt;
-    ## INSERT MORE &amp;lt;li&amp;gt;&amp;lt;img&amp;gt;&amp;lt;/li&amp;gt; LIKE ABOVE IN ORDER ##
-  &amp;lt;/ul&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;use-formspree-contact-form&quot;&gt;Use Formspree contact form&lt;/h2&gt;
-
-&lt;p&gt;Replace your email address to &lt;code class=&quot;highlighter-rouge&quot;&gt;YOUR_EMAIL_ADDRESS&lt;/code&gt; in the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_pages/contact.md&lt;/code&gt;. So people can send you an inquiry mail via &lt;a href=&quot;https://formspree.io/&quot;&gt;Formspree&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;privacy-policy&quot;&gt;Privacy policy&lt;/h2&gt;
-
-&lt;p&gt;Enter your privacy policy at the &lt;code class=&quot;highlighter-rouge&quot;&gt;/_pages/privacy-policy.md&lt;/code&gt;. You can easily make using &lt;a href=&quot;https://www.privacypolicygenerator.info/&quot;&gt;Privacy Policy Generator&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;styles&quot;&gt;Styles&lt;/h2&gt;
-
-&lt;p&gt;Your website is pre-configured to use &lt;a href=&quot;https://styleguide.github.com/primer/&quot;&gt;GitHub’s very flexible CSS framework called “Primer,”&lt;/a&gt;. It’s currently referenced within your &lt;code class=&quot;highlighter-rouge&quot;&gt;styles.scss&lt;/code&gt; file, using the CSS import at-rule:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@import url('https://unpkg.com/primer/build/build.css');
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;You are, of course, welcome to remove it or replace it with another framework. Just bear in mind that the HTML that your website came pre-packaged with references multiple Primer “utility classes” to define things like column widths, margins, and background colors.&lt;/p&gt;
-
-&lt;p&gt;You also have the option to add on to and extend Primer’s styles by adding custom CSS to your &lt;code class=&quot;highlighter-rouge&quot;&gt;/assets/styles.scss&lt;/code&gt; Sass stylesheet. By editing this file, you can customize your website’s color scheme, typography, and more.&lt;/p&gt;
-
-&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;The theme is available as open source under the terms of the &lt;a href=&quot;https://opensource.org/licenses/MIT&quot;&gt;MIT License&lt;/a&gt;.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="jekyll" /><category term="theme" /><category term="github" /><category term="web" /><category term="website" /><category term="development" /><category term="open-source" /><summary type="html">Jekyll Personal Website</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/jekyll-personal-website-posts-cards-screenshot.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/jekyll-personal-website-posts-cards-screenshot.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;iframe src=&quot;https://store.steampowered.com/widget/404910/&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;190&quot;&gt;&lt;/iframe&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="raspberry-pi" /><category term="raspbian" /><category term="discouraged-workers" /><category term="steam" /><summary type="html">Today I updated a new Extras build include supports Raspberry Pi 4 B Raspbian. I wanted to support Gentoo64 too, but there was no Bluetooth keyboard working so I couldn’t test it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/kndw_raspi.png" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/kndw_raspi.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
