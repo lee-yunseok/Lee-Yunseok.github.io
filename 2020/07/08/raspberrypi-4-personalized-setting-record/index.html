@@ -5,8 +5,7 @@ sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,
 sudo nano /etc/sudoers (add permission)
 sudo nano /etc/hostname (change hostname)
 sudo nano /etc/hosts (change hostname)
-sudo raspi-config (enable camera)
-sudo reboot
+sudo raspi-config (enable camera and reboot)
 </code></pre></div></div> <p><br /> Next remove default user <strong>pi</strong>, then <strong>overclock safely</strong> and set the <strong>GPU memory</strong> for Pi. Also update Raspberry Pi Linux Kernel, copy some configurations from USB, reboot.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo userdel -r pi &amp;&amp; sudo nano /boot/config.txt
 add in [pi4],
 over_voltage=6
