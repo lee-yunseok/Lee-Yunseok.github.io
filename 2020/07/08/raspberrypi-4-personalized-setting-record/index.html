@@ -15,7 +15,9 @@ initial_turbo=30
 temp_limit=75
 add in [all],
 gpu_mem=512
-sudo rpi-update -y &amp;&amp; cd usb_dir &amp;&amp; sudo cp sysctl.conf /etc &amp;&amp; sudo cp raspi-config /etc/init.d &amp;&amp; curl https://download.argon40.com/argon1.sh | bash &amp;&amp; sudo reboot(after install rtl8812au driver)
+sudo rpi-update -y &amp;&amp; cd usb_dir &amp;&amp; sudo cp sysctl.conf /etc &amp;&amp; sudo cp raspi-config /etc/init.d &amp;&amp; curl https://download.argon40.com/argon1.sh | bash
+Install rtl8812au driver
+sudo reboot
 </code></pre></div></div> <p><br /> Now, update softwares and remove old unused kernel. Current Raspberry Pi Linux Kernel is <strong>5.4.y</strong> so 4 version isn’t needed.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt -y update &amp;&amp; sudo apt -y full-upgrade &amp;&amp; sudo rm -r /lib/modules/4* /lib/modules.bak/4*
 </code></pre></div></div> <p><br /> I like <strong>GNU Nano</strong> but I don’t like its default appearance. So I need a little salt there.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo nano /etc/nanorc
 remove # to linenumbers, softwrap, tabsize and edit tabsize 8 to 4, numbercolor and edit numbercolor to magenta
