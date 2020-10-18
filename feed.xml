@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-10-18T17:25:44+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Arirang Ukulele Melody Tab Score For Beginners</title><link href="https://lee-yunseok.github.io/2020/08/27/arirang-ukulele-melody-tab-score-for-beginners/" rel="alternate" type="text/html" title="Arirang Ukulele Melody Tab Score For Beginners" /><published>2020-08-27T03:30:00+09:00</published><updated>2020-08-27T03:30:00+09:00</updated><id>https://lee-yunseok.github.io/2020/08/27/arirang-ukulele-melody-tab-score-for-beginners</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/08/27/arirang-ukulele-melody-tab-score-for-beginners/">&lt;p&gt;Today I share the &lt;strong&gt;Arirang&lt;/strong&gt; Ukulele Melody Tab Score, the most famous traditional folk song in Korea, Republic of. This &lt;strong&gt;Arirang&lt;/strong&gt; ukulele melody tab sheet was written for beginners. It allows the ukulele player to practice movement between &lt;u&gt;0~9 frets and the use of all strings, slide and hammer on, and pull off&lt;/u&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2020-10-18T17:38:12+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Arirang Ukulele Melody Tab Score For Beginners</title><link href="https://lee-yunseok.github.io/2020/08/27/arirang-ukulele-melody-tab-score-for-beginners/" rel="alternate" type="text/html" title="Arirang Ukulele Melody Tab Score For Beginners" /><published>2020-08-27T03:30:00+09:00</published><updated>2020-08-27T03:30:00+09:00</updated><id>https://lee-yunseok.github.io/2020/08/27/arirang-ukulele-melody-tab-score-for-beginners</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/08/27/arirang-ukulele-melody-tab-score-for-beginners/">&lt;p&gt;Today I share the &lt;strong&gt;Arirang&lt;/strong&gt; Ukulele Melody Tab Score, the most famous traditional folk song in Korea, Republic of. This &lt;strong&gt;Arirang&lt;/strong&gt; ukulele melody tab sheet was written for beginners. It allows the ukulele player to practice movement between &lt;u&gt;0~9 frets and the use of all strings, slide and hammer on, and pull off&lt;/u&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -368,7 +368,7 @@ This &lt;strong&gt;Falling Slowly&lt;/strong&gt; ukulele cover tab music score s
 
 &lt;hr /&gt;
 
-&lt;p&gt;First boot &lt;strong&gt;RasPiOS 64Bit&lt;/strong&gt;, and after finished initial setup I will add my user and set the host, eneble Camera module, then reboot Pi.&lt;/p&gt;
+&lt;p&gt;First boot &lt;strong&gt;RasPiOS 64Bit&lt;/strong&gt;, and after finished initial setup I will add my user and set the host, then reboot Pi.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo adduser lee-yunseok
 sudo nano /etc/systemd/system/autologin@.service (change autologin user)
@@ -380,11 +380,11 @@ sudo nano /etc/hosts (change hostname)
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
-Next, &lt;strong&gt;performance overclock&lt;/strong&gt; Pi and enable the &lt;strong&gt;Audio Injector Isolated&lt;/strong&gt; Sound Card. Also update Raspberry Pi Linux Kernel, copy some configurations from USB, install &lt;strong&gt;rtl8812au&lt;/strong&gt; driver, and reboot Pi.&lt;/p&gt;
+Next &lt;strong&gt;performance overclock&lt;/strong&gt; Pi, enable the &lt;strong&gt;Audio Injector Isolated&lt;/strong&gt; Sound Card and eneble Camera module. Also update Raspberry Pi Linux Kernel, copy some configurations from USB, install &lt;strong&gt;rtl8812au&lt;/strong&gt; driver, and reboot Pi.&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /boot/config.txt
 # uncomment i2c_arm and i2s, spi
-# disable dtparam=audio and enable soundcard,
+# disable dtparam=audio,
 dtoverlay=audioinjector-isolated-soundcard
 # add in [pi4],
 over_voltage=6
