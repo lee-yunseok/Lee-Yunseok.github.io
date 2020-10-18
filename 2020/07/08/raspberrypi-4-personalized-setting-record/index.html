@@ -5,7 +5,6 @@ sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,
 sudo nano /etc/sudoers (add permission)
 sudo nano /etc/hostname (change hostname)
 sudo nano /etc/hosts (change hostname)
-sudo raspi-config (enable camera and gpio)
 </code></pre></div></div> <p><br /> Next, <strong>performance overclock</strong> Pi and enable the <strong>Audio Injector Isolated</strong> Sound Card. Also update Raspberry Pi Linux Kernel, copy some configurations from USB, install <strong>rtl8812au</strong> driver, and reboot Pi.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo nano /boot/config.txt
 # uncomment i2c_arm and i2s, spi
 # disable dtparam=audio and enable soundcard,
