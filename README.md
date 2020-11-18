@@ -10,6 +10,7 @@ _My personal website project made with :hearts: and [Derrick](https://github.com
 - [GIMP 2](https://www.gimp.org/)
 - [ImageMagick](https://imagemagick.org/)
 - [PyTinyPNG](https://github.com/vasilcovsky/pytinypng)
+- [WebP codec](https://chromium.googlesource.com/webm/libwebp)
 - [Jekyll](https://jekyllrb.com/)
 - [Derrick](https://github.com/artemsheludko/derrick)
 - [Compress HTML in Jekyll](http://jch.penibelst.de/)
