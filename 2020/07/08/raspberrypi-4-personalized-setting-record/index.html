@@ -17,7 +17,7 @@ initial_turbo=30
 temp_limit=75
 # add in [all],
 gpu_mem=512
-sudo bash ~/Documents/doc/argon1.sh &amp;&amp; sudo PRUNE_MODULES=1 SKIP_BACKUP=1 BRANCH=next rpi-update &amp;&amp; cd usb_dir &amp;&amp; sudo cp sysctl.conf /etc &amp;&amp; sudo cp raspi-config /etc/init.d
+sudo bash ~/Documents/doc/argonfanhat.sh &amp;&amp; sudo PRUNE_MODULES=1 SKIP_BACKUP=1 BRANCH=next rpi-update &amp;&amp; cd usb_dir &amp;&amp; sudo cp sysctl.conf /etc &amp;&amp; sudo cp raspi-config /etc/init.d
 Enable Camera and reboot
 </code></pre></div></div> <p><br /> Now, remove default user <strong>pi</strong> and update softwares.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo userdel -r pi &amp;&amp; sudo apt -y update &amp;&amp; sudo apt -y full-upgrade
 </code></pre></div></div> <p><br /> I like <strong>GNU Nano</strong> but I don’t like its default appearance. So I need a little salt there.</p> <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo nano /etc/nanorc
