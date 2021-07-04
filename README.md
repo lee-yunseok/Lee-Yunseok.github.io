@@ -6,7 +6,7 @@ _My personal website project made with :hearts: and [Derrick](https://github.com
 - [Raspberry Pi 4 B 8GB](https://www.raspberrypi.org/)
   - [Ubuntu Desktop 21.04 Hirsute Hippo](https://ubuntu.com/download/raspberry-pi)
 - [Min](https://minbrowser.github.io/min/)
-- [Geany](https://www.geany.org/)
+- [Sublime Text](https://www.sublimetext.com/)
 - [GIMP 2](https://www.gimp.org/)
 - [ImageMagick](https://imagemagick.org/)
 - [TinyPNG](https://github.com/vasilcovsky/pytinypng)
