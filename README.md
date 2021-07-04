@@ -2,14 +2,14 @@
 _My personal website project made with :hearts: and [Derrick](https://github.com/artemsheludko/derrick), proudly hosted on [GitHub Pages](https://pages.github.com/)._
 
 ## Development environment
-- 35 years old human
+- 36 years old human
 - [Raspberry Pi 4 B 8GB](https://www.raspberrypi.org/)
-  - [Rasberry Pi OS](https://www.raspbian.org/)
+  - [Ubuntu Desktop 21.04 Hirsute Hippo](https://ubuntu.com/download/raspberry-pi)
 - [Min](https://minbrowser.github.io/min/)
 - [Geany](https://www.geany.org/)
 - [GIMP 2](https://www.gimp.org/)
 - [ImageMagick](https://imagemagick.org/)
-- [PyTinyPNG](https://github.com/vasilcovsky/pytinypng)
+- [TinyPNG](https://github.com/vasilcovsky/pytinypng)
 - [WebP codec](https://chromium.googlesource.com/webm/libwebp)
 - [Jekyll](https://jekyllrb.com/)
 - [Derrick](https://github.com/artemsheludko/derrick)

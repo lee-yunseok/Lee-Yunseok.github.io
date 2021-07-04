@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2021-05-04T16:22:57+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">qView, practical and minimal image viewer</title><link href="https://lee-yunseok.github.io/2021/03/14/qview-practical-and-minimal-image-viewer-into-korean/" rel="alternate" type="text/html" title="qView, practical and minimal image viewer" /><published>2021-03-14T23:13:27+09:00</published><updated>2021-03-14T23:13:27+09:00</updated><id>https://lee-yunseok.github.io/2021/03/14/qview-practical-and-minimal-image-viewer-into-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2021/03/14/qview-practical-and-minimal-image-viewer-into-korean/">&lt;p&gt;&lt;strong&gt;qView&lt;/strong&gt; is an cross-platform open source &lt;u&gt;image viewer&lt;/u&gt;, focused on &lt;strong&gt;practical&lt;/strong&gt; and &lt;strong&gt;minimalism&lt;/strong&gt;. As an image viewer for &lt;strong&gt;viewing&lt;/strong&gt;, it hasn’t any toolbars or distractions.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://lee-yunseok.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://lee-yunseok.github.io/" rel="alternate" type="text/html" /><updated>2021-07-05T00:34:06+09:00</updated><id>https://lee-yunseok.github.io/feed.xml</id><title type="html">Lee Yunseok</title><subtitle>Independent Cultural Artist. Since by 2013, live as a independent creator.</subtitle><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><entry><title type="html">Moved to RPi4 Ubuntu Micro Desktop</title><link href="https://lee-yunseok.github.io/2021/07/04/raspberrypi-4-ubuntu-micro-desktop/" rel="alternate" type="text/html" title="Moved to RPi4 Ubuntu Micro Desktop" /><published>2021-07-04T05:00:00+09:00</published><updated>2021-07-04T05:00:00+09:00</updated><id>https://lee-yunseok.github.io/2021/07/04/raspberrypi-4-ubuntu-micro-desktop</id><content type="html" xml:base="https://lee-yunseok.github.io/2021/07/04/raspberrypi-4-ubuntu-micro-desktop/">&lt;p&gt;Recently I changed my RPi4 OS to Ubuntu so I leaved a record here. This article records the my own &lt;strong&gt;Raspberry Pi 4 + Ubuntu&lt;/strong&gt; personalized micro-desktop settings, so you can use this &lt;strong&gt;just for reference&lt;/strong&gt;. &lt;a href=&quot;https://lee-yunseok.github.io/2020/07/08/raspberrypi-4-personalized-setting-record/&quot;&gt;You can also find my old article for RPi4+&lt;strong&gt;RasPiOS&lt;/strong&gt; micro-desktop here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Last modified on 3rd July, 2021, KST.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Note that I’m using Raspberry Pi 4 B 8GB and Eviciv 10.1 inch touchscreen with wear housing case that two Noctua NF-A4x10 PWM 12V 40x10mm Premium Quiet Fan assembled, Sandisk MicroSDXC Extreme Pro UHS-I U3 V30 A1 64GB and 128GB sub, and 64GB backup MicroSDXC, Anker 2in1 USB 3.0 SD Card Reader, Uctronics GPIO Ribbon cable, Audio Injector Isolated DAC and ADC Sound Card and XLR preamplifier, Moukey Phantom Power Supply, Audio Technica AT2035 Condenser Microphone, OneOdio Pro-50 Headphones, AKAI MPK Mini MK3 MIDI Keyboard, and others.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;rpi4--ubuntu-2104-hirsute-hippo&quot;&gt;RPi4 + Ubuntu 21.04 Hirsute Hippo&lt;/h1&gt;
+&lt;h2 id=&quot;group-permissions&quot;&gt;Group Permissions&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo usermod -a -G adm,dialout,cdrom,sudo,media,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi lee-yunseok
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;overclock--call-audio-injector-isolated&quot;&gt;Overclock + Call Audio Injector Isolated&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /boot/firmware/config.txt
+#dtparam=audio
+dtoverlay=audioinjector-isolated-soundcard
+gpu_mem=512
+disable_splash=1
+# add in [pi4],
+over_voltage=6
+arm_freq=2147
+gpu_freq=750
+gpu_mem=512
+initial_turbo=30
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;for-realtime-recording&quot;&gt;For Realtime Recording&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/sysctl.conf
+vm.swappiness=10
+fs.inotify.max_user_watches = 524288
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;system-update&quot;&gt;System Update&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y update &amp;amp;&amp;amp; sudo apt -y full-upgrade &amp;amp;&amp;amp; sudo apt autoremove &amp;amp;&amp;amp; sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;gnu-nano-setting&quot;&gt;GNU Nano Setting&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/nanorc
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;remove # to linenumbers, softwrap, tabsize and edit tabsize 8 to 4, numbercolor and edit numbercolor to magenta&lt;/p&gt;
+
+&lt;h2 id=&quot;install-libraries-via-apt&quot;&gt;Install Libraries via APT&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y purge firefox &amp;amp;&amp;amp; sudo apt -y install ibus-hangul fonts-unfonts-core p7zip unrar-free exfat-fuse checkinstall cpufrequtils gconf2 pv libappindicator1 libpango1.0-0 libgtk-3-dev gnome-shell-extension-gpaste nixnote2 fbreader gnucash gimp mypaint-brushes gimp-gmic goxel webp parallel imagemagick qt5-image-formats-plugins mesa-utils alsa-firmware-loaders audacious calf-plugins ladspa-sdk polyphone opus-tools lame picard ffmpeg vlc kdenlive godot3 love at default-jdk poedit git-lfs git-svn clamav clamav-daemon rkhunter python3-pip python3-liblo cmake ruby-full clang meson npm cmdtest apache2 php mariadb-server wordpress safeeyes redshift aria2 krename &amp;amp;&amp;amp; sudo apt -y autoremove
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;for-building-megasync&quot;&gt;For Building MEGASync&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt install libzen-dev libmediainfo-dev debhelper qtbase5-dev qt5-qmake libqt5x11extras5-dev libqt5svg5-dev libcrypto++-dev libraw-dev libc-ares-dev libsqlite3-dev dh-autoreconf cdbs libtool-bin qttools5-dev-tools libavcodec-dev libavutil-dev libavformat-dev libfreeimage-dev libswscale-dev libmediainfo-dev
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;other-applications--personals&quot;&gt;Other Applications + Personals&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Copy&lt;/strong&gt;: Sublime-Text Quadplay Twine Markdown-Editor ZzFx Piskel Fonts Soundfonts GitHub-Clones&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Decrypt&lt;/strong&gt;: HomeSetFiles Docs Works Pictures&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Install&lt;/strong&gt;: Min Waveform Carla Surge GX Dexed Helm TAL Vex Oxe Zynaddsubfx IzPack Jellyfin AOI&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Compile&lt;/strong&gt;: qView piclone MEGASync&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Withhold&lt;/strong&gt;: Ren’Py RetroPie Collective DEC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;performance-scailing--ufw--python--node--etc&quot;&gt;Performance Scailing + UFW + Python + Node + etc.&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo rkhunter --propupd &amp;amp;&amp;amp; sudo ufw allow 22 &amp;amp;&amp;amp; sudo ufw allow 80 &amp;amp;&amp;amp; sudo ufw allow 8096 &amp;amp;&amp;amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;amp;&amp;amp; sudo ufw --force enable &amp;amp;&amp;amp; sudo apt install -y openvpn dialog &amp;amp;&amp;amp; sudo pip3 install protonvpn-cli icloudpd tinypng &amp;amp;&amp;amp; sudo apt clean all &amp;amp;&amp;amp; sudo protonvpn init &amp;amp;&amp;amp; cd /usr/lib/nodejs &amp;amp;&amp;amp; sudo npm i -g n &amp;amp;&amp;amp; sudo n stable &amp;amp;&amp;amp; sudo npm i -g node-modules &amp;amp;&amp;amp; sudo gem i jekyll bundler &amp;amp;&amp;amp; sudo bundle install &amp;amp;&amp;amp; sudo bundle update jekyll &amp;amp;&amp;amp; sudo pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 sudo pip3 install -U --ignore-installed pip &amp;amp;&amp;amp; cd /usr/lib/vst &amp;amp;&amp;amp; sudo rm Hi* Juce* ReF* Stereo* &amp;amp;&amp;amp; echo 'GOVERNOR=&quot;performance&quot;' | sudo tee /etc/default/cpufrequtils &amp;amp;&amp;amp; sudo reboot
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;snap--jellyfin--system-setting--etc&quot;&gt;Snap + Jellyfin + System Setting + etc.&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Remove unnecessary softwares from snap, then install RPi-imager and fre:ac, and ncspot&lt;/li&gt;
+  &lt;li&gt;Set Wallpaper, Dark Mode, Night Light, Never Blank screen, Onscreen Keyboard, iBus Hangul, Disable File History on Settings&lt;/li&gt;
+  &lt;li&gt;Set Terminal font size 16&lt;/li&gt;
+  &lt;li&gt;Set Jellyfin to http://127.0.0.1:8096&lt;/li&gt;
+  &lt;li&gt;Install writer2pub to Libreoffice Writer&lt;/li&gt;
+  &lt;li&gt;Copy TAL presets to ~/TAL&lt;/li&gt;
+  &lt;li&gt;Copy Dexed presets to ~/.local/share/DigitalSuburban/Dexed/Cartridges&lt;/li&gt;
+  &lt;li&gt;Copy Helm presets to ~/.helm&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Finished.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="raspberry-pi" /><category term="ubuntu" /><category term="linux" /><category term="desktop" /><summary type="html">Recently I changed my RPi4 OS to Ubuntu so I leaved a record here. This article records the my own Raspberry Pi 4 + Ubuntu personalized micro-desktop settings, so you can use this just for reference. You can also find my old article for RPi4+RasPiOS micro-desktop here.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/new-rpi4-ubuntu-desktop.webp" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/new-rpi4-ubuntu-desktop.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">qView, practical and minimal image viewer</title><link href="https://lee-yunseok.github.io/2021/03/14/qview-practical-and-minimal-image-viewer-into-korean/" rel="alternate" type="text/html" title="qView, practical and minimal image viewer" /><published>2021-03-14T23:13:27+09:00</published><updated>2021-03-14T23:13:27+09:00</updated><id>https://lee-yunseok.github.io/2021/03/14/qview-practical-and-minimal-image-viewer-into-korean</id><content type="html" xml:base="https://lee-yunseok.github.io/2021/03/14/qview-practical-and-minimal-image-viewer-into-korean/">&lt;p&gt;&lt;strong&gt;qView&lt;/strong&gt; is an cross-platform open source &lt;u&gt;image viewer&lt;/u&gt;, focused on &lt;strong&gt;practical&lt;/strong&gt; and &lt;strong&gt;minimalism&lt;/strong&gt;. As an image viewer for &lt;strong&gt;viewing&lt;/strong&gt;, it hasn’t any toolbars or distractions.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;qView&lt;/strong&gt; is beautifully simple. It was designed from the very start to be as visually minimal and space efficient as possible. No cluttered interface, just your image and a titlebar.&lt;/p&gt;
 
@@ -386,7 +459,7 @@ This &lt;strong&gt;Falling Slowly&lt;/strong&gt; ukulele cover tab music score s
 
 &lt;p&gt;First boot &lt;strong&gt;RasPiOS 64Bit&lt;/strong&gt;, and after finished initial setup I will add my user and set the host, then reboot Pi.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo adduser lee-yunseok
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo adduser lee-yunseok
 sudo nano /etc/systemd/system/autologin@.service (change autologin user)
 sudo nano /etc/lightdm/lightdm.conf (change autologin user)
 sudo usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi lee-yunseok
@@ -398,7 +471,7 @@ sudo nano /etc/hosts (change hostname)
 &lt;p&gt;&lt;br /&gt;
 Next &lt;strong&gt;performance overclock&lt;/strong&gt; Pi, enable the &lt;strong&gt;Audio Injector Isolated&lt;/strong&gt; Sound Card and update Raspberry Pi Linux Kernel, copy some configurations from USB, and reboot Pi.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /boot/config.txt
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /boot/config.txt
 # uncomment i2c_arm, i2s, spi
 # disable dtparam=audio,
 dtoverlay=audioinjector-isolated-soundcard
@@ -416,20 +489,20 @@ sudo PRUNE_MODULES=1 SKIP_BACKUP=1 rpi-update &amp;amp;&amp;amp; cd usb_dir &amp
 &lt;p&gt;&lt;br /&gt;
 Now, remove default user &lt;strong&gt;pi&lt;/strong&gt; and update softwares.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo userdel -r pi &amp;amp;&amp;amp; sudo apt -y update &amp;amp;&amp;amp; sudo apt -y full-upgrade
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo userdel -r pi &amp;amp;&amp;amp; sudo apt -y update &amp;amp;&amp;amp; sudo apt -y full-upgrade
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
 I like &lt;strong&gt;GNU Nano&lt;/strong&gt; but I don’t like its default appearance. So I need a little salt there.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/nanorc
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo nano /etc/nanorc
 remove # to linenumbers, softwrap, tabsize and edit tabsize 8 to 4, numbercolor and edit numbercolor to magenta
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
 Good. Now I remove pre-installed components that I am not using and install the software I need.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y purge rp-bookshelf mousepad thonny vim-tiny dillo gpicview omxplayer realvnc-vnc-server chromium-browser chromium-codecs-ffmpeg-extra &amp;amp;&amp;amp; sudo apt -y purge leafpad &amp;amp;&amp;amp; sudo rm -r /etc/chromium* /etc/dillo &amp;amp;&amp;amp; sudo apt -y install mage ibus ibus-hangul onboard mousetweaks fonts-unfonts-core fonts-noto-cjk bluez zip p7zip unrar-free exfat-fuse checkinstall software-properties-common gconf2 gvfs-bin pv libappindicator1 libpango1.0-0 geany-plugin-overview geany-plugin-automark geany-plugin-git-changebar nixnote2 libreoffice-writer libreoffice-calc fbreader gnucash gimp mypaint-brushes gmic webp parallel imagemagick mesa-vulkan-drivers vulkan-utils mesa-utils alsa-firmware-loaders pulseaudio-module-bluetooth audacious calf-plugins qt5-default libqt5svg5-dev qt5-image-formats-plugins libasound2-dev libjack-jackd2-dev portaudio19-dev librtmidi-dev libstk0-dev libqcustomplot-dev libvorbis-dev libogg-dev libflac-dev opus-tools lame picard kdenlive at default-jdk poedit git-lfs git-svn clamav clamav-daemon rkhunter ufw python3-pip python3-liblo python3-pyqt5.qtsvg libgirepository1.0-dev libcairo2-dev cmake ruby-full clang ninja meson npm apache2 php mariadb-server wordpress safeeyes redshift aria2 rpi-imager krename &amp;amp;&amp;amp; sudo apt -y autoremove
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo apt -y purge rp-bookshelf mousepad thonny vim-tiny dillo gpicview omxplayer realvnc-vnc-server chromium-browser chromium-codecs-ffmpeg-extra &amp;amp;&amp;amp; sudo apt -y purge leafpad &amp;amp;&amp;amp; sudo rm -r /etc/chromium* /etc/dillo &amp;amp;&amp;amp; sudo apt -y install mage ibus ibus-hangul onboard mousetweaks fonts-unfonts-core fonts-noto-cjk bluez zip p7zip unrar-free exfat-fuse checkinstall software-properties-common gconf2 gvfs-bin pv libappindicator1 libpango1.0-0 geany-plugin-overview geany-plugin-automark geany-plugin-git-changebar nixnote2 libreoffice-writer libreoffice-calc fbreader gnucash gimp mypaint-brushes gmic webp parallel imagemagick mesa-vulkan-drivers vulkan-utils mesa-utils alsa-firmware-loaders pulseaudio-module-bluetooth audacious calf-plugins qt5-default libqt5svg5-dev qt5-image-formats-plugins libasound2-dev libjack-jackd2-dev portaudio19-dev librtmidi-dev libstk0-dev libqcustomplot-dev libvorbis-dev libogg-dev libflac-dev opus-tools lame picard kdenlive at default-jdk poedit git-lfs git-svn clamav clamav-daemon rkhunter ufw python3-pip python3-liblo python3-pyqt5.qtsvg libgirepository1.0-dev libcairo2-dev cmake ruby-full clang ninja meson npm apache2 php mariadb-server wordpress safeeyes redshift aria2 rpi-imager krename &amp;amp;&amp;amp; sudo apt -y autoremove
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -446,7 +519,7 @@ While Raspberry Pi installs the libraries, I will set my desktop preference and 
 &lt;p&gt;&lt;br /&gt;
 Well done. configure the basic &lt;strong&gt;UFW firewall&lt;/strong&gt; and additional required softwares, Python modules, and NodeJS modules. Then remove unnecessary VST plugins.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo rkhunter --propupd &amp;amp;&amp;amp; sudo ufw allow 22 &amp;amp;&amp;amp; sudo ufw allow 80 &amp;amp;&amp;amp; sudo ufw allow 8096 &amp;amp;&amp;amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;amp;&amp;amp; sudo ufw --force enable &amp;amp;&amp;amp; sudo apt install -y openvpn dialog &amp;amp;&amp;amp; sudo pip3 install protonvpn-cli icloudpd bpytop &amp;amp;&amp;amp; sudo apt clean all &amp;amp;&amp;amp; sudo protonvpn init &amp;amp;&amp;amp; cd /usr/lib/nodejs &amp;amp;&amp;amp; sudo npm i -g n &amp;amp;&amp;amp; sudo n stable &amp;amp;&amp;amp; sudo npm i -g node-modules &amp;amp;&amp;amp; sudo gem i jekyll bundler &amp;amp;&amp;amp; pip install pytinypng &amp;amp;&amp;amp; sudo pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 sudo pip3 install -U --ignore-installed pip &amp;amp;&amp;amp; cd /usr/lib/vst &amp;amp;&amp;amp; sudo rm Hi* Juce* ReF* Stereo* &amp;amp;&amp;amp; pactl load-module module-bluetooth-discover
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;sudo rkhunter --propupd &amp;amp;&amp;amp; sudo ufw allow 22 &amp;amp;&amp;amp; sudo ufw allow 80 &amp;amp;&amp;amp; sudo ufw allow 8096 &amp;amp;&amp;amp; sudo ufw allow from 192.168.1.0/24; sleep 60 &amp;amp;&amp;amp; sudo ufw --force enable &amp;amp;&amp;amp; sudo apt install -y openvpn dialog &amp;amp;&amp;amp; sudo pip3 install protonvpn-cli icloudpd bpytop &amp;amp;&amp;amp; sudo apt clean all &amp;amp;&amp;amp; sudo protonvpn init &amp;amp;&amp;amp; cd /usr/lib/nodejs &amp;amp;&amp;amp; sudo npm i -g n &amp;amp;&amp;amp; sudo n stable &amp;amp;&amp;amp; sudo npm i -g node-modules &amp;amp;&amp;amp; sudo gem i jekyll bundler &amp;amp;&amp;amp; pip install pytinypng &amp;amp;&amp;amp; sudo pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1  | xargs -n1 sudo pip3 install -U --ignore-installed pip &amp;amp;&amp;amp; cd /usr/lib/vst &amp;amp;&amp;amp; sudo rm Hi* Juce* ReF* Stereo* &amp;amp;&amp;amp; pactl load-module module-bluetooth-discover
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -538,7 +611,7 @@ People who use the computer for a long time or work a lot may have noticed eye f
 
 &lt;h2 id=&quot;start-renewal&quot;&gt;Start renewal&lt;/h2&gt;
 
-&lt;p&gt;First modified &lt;small&gt;_config.yml&lt;/small&gt;. It is necessary to work in any Jekyll website. After writing down the required information, run the &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/small&gt; after &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;&lt;/small&gt;, checked the blog and I thought about what to modify or expand.&lt;/p&gt;
+&lt;p&gt;First modified &lt;small&gt;_config.yml&lt;/small&gt;. It is necessary to work in any Jekyll website. After writing down the required information, run the &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;&lt;/small&gt; after &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;&lt;/small&gt;, checked the blog and I thought about what to modify or expand.&lt;/p&gt;
 
 &lt;p&gt;After this, I copied the old markdown posts and edit &lt;strong&gt;front-matter&lt;/strong&gt;.&lt;/p&gt;
 
@@ -558,13 +631,13 @@ People who use the computer for a long time or work a lot may have noticed eye f
 
 &lt;script src=&quot;https://gist.github.com/lee-yunseok/54e33581014880d1223e02b7507941fc.js&quot;&gt;&lt;/script&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adsense:
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;adsense:
   client:
   slot:
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
-Now add the javascript inside the &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt;&lt;/small&gt;, in &lt;small&gt;_layouts/default.html&lt;/small&gt;.&lt;/p&gt;
+Now add the javascript inside the &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;body&amp;gt;&lt;/code&gt;&lt;/small&gt;, in &lt;small&gt;_layouts/default.html&lt;/small&gt;.&lt;/p&gt;
 
 &lt;script src=&quot;https://gist.github.com/lee-yunseok/d903130577e7445bf0c78a65c364c179.js&quot;&gt;&lt;/script&gt;
 
@@ -593,9 +666,9 @@ And include &lt;small&gt;ad.html&lt;/small&gt; in &lt;small&gt;_layouts/post.htm
 &lt;p&gt;&lt;img src=&quot;/assets/img/personal_website_renewed_5.webp&quot; alt=&quot;Contact page has been added&quot; /&gt;
 &lt;em&gt;Contact page has been added&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Also Derrick didn’t support contact page. It just link to &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mailto:&lt;/code&gt;&lt;/small&gt; when user click the &lt;strong&gt;‘Say Hello’&lt;/strong&gt; in the first page, so I add contact page using Formspree.&lt;/p&gt;
+&lt;p&gt;Also Derrick didn’t support contact page. It just link to &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mailto:&lt;/code&gt;&lt;/small&gt; when user click the &lt;strong&gt;‘Say Hello’&lt;/strong&gt; in the first page, so I add contact page using Formspree.&lt;/p&gt;
 
-&lt;p&gt;Make &lt;small&gt;_pages/contact.md&lt;/small&gt; and write codes below. Owner’s email address follows &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;author.email&lt;/code&gt;&lt;/small&gt; that defined in &lt;small&gt;_config.yml&lt;/small&gt;.&lt;/p&gt;
+&lt;p&gt;Make &lt;small&gt;_pages/contact.md&lt;/small&gt; and write codes below. Owner’s email address follows &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;author.email&lt;/code&gt;&lt;/small&gt; that defined in &lt;small&gt;_config.yml&lt;/small&gt;.&lt;/p&gt;
 
 &lt;script src=&quot;https://gist.github.com/lee-yunseok/21d75bcdccf0f87040c5561409a65b8f.js&quot;&gt;&lt;/script&gt;
 
@@ -619,12 +692,12 @@ And include &lt;small&gt;ad.html&lt;/small&gt; in &lt;small&gt;_layouts/post.htm
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/form&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;In this codes, &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;site.author.email&lt;/code&gt;&lt;/small&gt; must be into &lt;code class=&quot;highlighter-rouge&quot;&gt;{}&lt;/code&gt;, not &lt;code class=&quot;highlighter-rouge&quot;&gt;[]&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;In this codes, &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site.author.email&lt;/code&gt;&lt;/small&gt; must be into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{}&lt;/code&gt;, not &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[]&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;This codes can’t control &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;input&lt;/code&gt;&lt;/small&gt; sizes, also the &lt;strong&gt;‘Send’&lt;/strong&gt; button will look like old button as the &lt;strong&gt;Netscape&lt;/strong&gt;. Let’s decorate these pretty.&lt;/p&gt;
+&lt;p&gt;This codes can’t control &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;input&lt;/code&gt;&lt;/small&gt; sizes, also the &lt;strong&gt;‘Send’&lt;/strong&gt; button will look like old button as the &lt;strong&gt;Netscape&lt;/strong&gt;. Let’s decorate these pretty.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
-Edit &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_sass/2-base/_base.scss&lt;/code&gt;&lt;/small&gt;. First add &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;width: 100%&lt;/code&gt;&lt;/small&gt; to &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;input, textarea&lt;/code&gt;&lt;/small&gt;. Next defined a &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;submit&lt;/code&gt;&lt;/small&gt; type button style.&lt;/p&gt;
+Edit &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_sass/2-base/_base.scss&lt;/code&gt;&lt;/small&gt;. First add &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;width: 100%&lt;/code&gt;&lt;/small&gt; to &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;input, textarea&lt;/code&gt;&lt;/small&gt;. Next defined a &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;submit&lt;/code&gt;&lt;/small&gt; type button style.&lt;/p&gt;
 
 &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;submit&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
  &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;primary-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
@@ -636,7 +709,7 @@ Edit &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_sass/2-base/_
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
-Last, change the &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;&lt;/small&gt;. &lt;strong&gt;‘Say Hello’&lt;/strong&gt; to &lt;strong&gt;‘Contact’&lt;/strong&gt;, &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;mailto:&lt;/code&gt;&lt;/small&gt; to contact page. &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;site.baseurl&lt;/code&gt;&lt;/small&gt; below should be into &lt;code class=&quot;highlighter-rouge&quot;&gt;{}&lt;/code&gt;.&lt;/p&gt;
+Last, change the &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;index.html&lt;/code&gt;&lt;/small&gt;. &lt;strong&gt;‘Say Hello’&lt;/strong&gt; to &lt;strong&gt;‘Contact’&lt;/strong&gt;, &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;mailto:&lt;/code&gt;&lt;/small&gt; to contact page. &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;site.baseurl&lt;/code&gt;&lt;/small&gt; below should be into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{}&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;[[site.baseurl]]/contact/&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;say-hello&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Contact&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -650,7 +723,7 @@ Last, change the &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;in
 
 &lt;p&gt;At the bottom of the blog, I wanted to put &lt;strong&gt;Ko-fi&lt;/strong&gt; button and phrase there.&lt;/p&gt;
 
-&lt;p&gt;Add &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;kofi_username&lt;/code&gt;&lt;/small&gt; on &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/small&gt;, edit &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_includes/footer.html&lt;/code&gt;&lt;/small&gt;.&lt;/p&gt;
+&lt;p&gt;Add &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;kofi_username&lt;/code&gt;&lt;/small&gt; on &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/small&gt;, edit &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes/footer.html&lt;/code&gt;&lt;/small&gt;.&lt;/p&gt;
 
 &lt;script src=&quot;https://gist.github.com/lee-yunseok/170cff919c3c0e055a5edd57e89dbd2e.js&quot;&gt;&lt;/script&gt;
 
@@ -667,11 +740,11 @@ Last, change the &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;in
 &lt;p&gt;&lt;img src=&quot;/assets/img/personal_website_renewed_4.webp&quot; alt=&quot;Modified head.html&quot; /&gt;
 &lt;em&gt;Modified head.html&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;The others are finished. Now it’s time to do &lt;strong&gt;SEO optimization&lt;/strong&gt;. Edit &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_includes/head.html&lt;/code&gt;&lt;/small&gt; and defined in &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/small&gt;.&lt;/p&gt;
+&lt;p&gt;The others are finished. Now it’s time to do &lt;strong&gt;SEO optimization&lt;/strong&gt;. Edit &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes/head.html&lt;/code&gt;&lt;/small&gt; and defined in &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/small&gt;.&lt;/p&gt;
 
 &lt;script src=&quot;https://gist.github.com/lee-yunseok/291dc9bfe944c9e72d2da1db114e41b7.js&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;At first, the keyword has been modified to use different &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;meta keywords&lt;/code&gt;&lt;/small&gt; for regular pages and posts.&lt;/p&gt;
+&lt;p&gt;At first, the keyword has been modified to use different &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;meta keywords&lt;/code&gt;&lt;/small&gt; for regular pages and posts.&lt;/p&gt;
 
 &lt;p&gt;Added location and classification, publisher, twitter card, facebook publisher and page admin, opengraph, itemprop. Verification codes for Google Webmaster and Bing, Norton, Naver, Pinterest.&lt;/p&gt;
 
@@ -683,18 +756,10 @@ Last, change the &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;in
 
 &lt;p&gt;Final step. Websites or blogs created with Jekyll can easily generate compressed output using &lt;strong&gt;Compress HTML in Jekyll&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Put the &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;compress.html&lt;/code&gt;&lt;/small&gt; to &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;_layouts&lt;/code&gt;&lt;/small&gt; directory, open &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;default.html&lt;/code&gt;&lt;/small&gt; and edit layout front-matter to &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;compress&lt;/code&gt;&lt;/small&gt;. That’s it.&lt;/p&gt;
+&lt;p&gt;Put the &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;compress.html&lt;/code&gt;&lt;/small&gt; to &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_layouts&lt;/code&gt;&lt;/small&gt; directory, open &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;default.html&lt;/code&gt;&lt;/small&gt; and edit layout front-matter to &lt;small&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;compress&lt;/code&gt;&lt;/small&gt;. That’s it.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;h4 id=&quot;closing&quot;&gt;closing…&lt;/h4&gt;
 
-&lt;p&gt;I spent about two days to complete the renewal of my personal blog. In the future, my personal blog will not be renewed if in this state unless the internet changes drastically, so this blog may be used until I die.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="jekyll" /><category term="theme" /><category term="github" /><category term="web" /><category term="blog" /><category term="development" /><summary type="html">I’ve completed a renewal of my personal website hosted on GitHub Pages. Previously, I used the GitHub official personal website theme modified by me, and I spent two days for the renew as a small blog.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/personal_website_renewed_1.webp" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/personal_website_renewed_1.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A second pull request to the Min web browser project</title><link href="https://lee-yunseok.github.io/2020/02/17/min-web-browser/" rel="alternate" type="text/html" title="A second pull request to the Min web browser project" /><published>2020-02-17T13:38:56+09:00</published><updated>2020-02-17T13:38:56+09:00</updated><id>https://lee-yunseok.github.io/2020/02/17/min-web-browser</id><content type="html" xml:base="https://lee-yunseok.github.io/2020/02/17/min-web-browser/">&lt;p&gt;A few days ago I completed a second pull request for the &lt;strong&gt;Min&lt;/strong&gt; web browser’s GitHub project. Commit was a Korean translation of the &lt;strong&gt;password manager&lt;/strong&gt; that was added to &lt;strong&gt;Min&lt;/strong&gt; a while ago.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Last november I completed my first pull request. It contains Korean translation and Raspberry Pi 4 Raspbian build script(&lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;armhf&lt;/code&gt;&lt;/small&gt;), debian pre/postinst scripts that add Min to &lt;small&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;update-alternatives&lt;/code&gt;&lt;/small&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Min is my favorite web browser. It’s chromium-based, open source, minimal and fast. Also support content blocking. I’m only using Min after imort bookmark feature added. It’s not perfect browser yet but enough for me.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="min" /><category term="web" /><category term="browser" /><category term="open-source" /><category term="minimal" /><summary type="html">A few days ago I completed a second pull request for the Min web browser’s GitHub project. Commit was a Korean translation of the password manager that was added to Min a while ago.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/min-browser-screenshot.webp" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/min-browser-screenshot.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;I spent about two days to complete the renewal of my personal blog. In the future, my personal blog will not be renewed if in this state unless the internet changes drastically, so this blog may be used until I die.&lt;/p&gt;</content><author><name>Lee Yunseok</name><email>ironyunseok@protonmail.com</email></author><category term="jekyll" /><category term="theme" /><category term="github" /><category term="web" /><category term="blog" /><category term="development" /><summary type="html">I’ve completed a renewal of my personal website hosted on GitHub Pages. Previously, I used the GitHub official personal website theme modified by me, and I spent two days for the renew as a small blog.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lee-yunseok.github.io/assets/img/personal_website_renewed_1.webp" /><media:content medium="image" url="https://lee-yunseok.github.io/assets/img/personal_website_renewed_1.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
